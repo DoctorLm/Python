@@ -1,0 +1,239 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		6D0FFD3C2431442C00A7A121 /* 监督学习课程测验.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "监督学习课程测验.rtfd"; sourceTree = "<group>"; };
+		6D0FFD3E2431442C00A7A121 /* 岭回归.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "岭回归.py"; sourceTree = "<group>"; };
+		6D0FFD3F2431442C00A7A121 /* 岭回归.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = "岭回归.csv"; sourceTree = "<group>"; };
+		6D0FFD402431442C00A7A121 /* 多项式回归.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "多项式回归.py"; sourceTree = "<group>"; };
+		6D0FFD412431442C00A7A121 /* 线性回归.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "线性回归.py"; sourceTree = "<group>"; };
+		6D0FFD422431442C00A7A121 /* prices.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = prices.txt; sourceTree = "<group>"; };
+		6D0FFD442431442C00A7A121 /* KNN实现手写视别.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "KNN实现手写视别.py"; sourceTree = "<group>"; };
+		6D0FFD452431442C00A7A121 /* 神精网络实现手写视别.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "神精网络实现手写视别.py"; sourceTree = "<group>"; };
+		6D0FFD462431442C00A7A121 /* trainingDigits.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = trainingDigits.zip; sourceTree = "<group>"; };
+		6D0FFD472431442C00A7A121 /* testDigits.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = testDigits.zip; sourceTree = "<group>"; };
+		6D0FFD492431442C00A7A121 /* 人体运动状态信息评级.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "人体运动状态信息评级.py"; sourceTree = "<group>"; };
+		6D0FFD4A2431442C00A7A121 /* 上证指数涨跌预测实例.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "上证指数涨跌预测实例.py"; sourceTree = "<group>"; };
+		6D0FFD4C2431442C00A7A121 /* 000777.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = 000777.csv; sourceTree = "<group>"; };
+		6D0FFD4F2431442C00A7A121 /* city.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = city.txt; sourceTree = "<group>"; };
+		6D0FFD502431442C00A7A121 /* TestData.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = TestData.txt; sourceTree = "<group>"; };
+		6D0FFD512431442C00A7A121 /* 学生月上网时间分布.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "学生月上网时间分布.py"; sourceTree = "<group>"; };
+		6D0FFD522431442C00A7A121 /* 31省市居民家庭消费水平.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "31省市居民家庭消费水平.py"; sourceTree = "<group>"; };
+		6D0FFD532431442C00A7A121 /* 无监督学习课程测验.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "无监督学习课程测验.rtfd"; sourceTree = "<group>"; };
+		6D0FFD552431442C00A7A121 /* 聚类整图分割.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "聚类整图分割.py"; sourceTree = "<group>"; };
+		6D0FFD562431442C00A7A121 /* person.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = person.png; sourceTree = "<group>"; };
+		6D0FFD572431442C00A7A121 /* bull.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bull.jpg; sourceTree = "<group>"; };
+		6D0FFD592431442C00A7A121 /* 鸢尾花数据降维.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "鸢尾花数据降维.py"; sourceTree = "<group>"; };
+		6D0FFD5A2431442C00A7A121 /* 人脸特征抽取与对比.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "人脸特征抽取与对比.py"; sourceTree = "<group>"; };
+		6D0FFD5D2431442C00A7A121 /* 项目代码.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "项目代码.py"; sourceTree = "<group>"; };
+		6D0FFD5F2431442C00A7A121 /* Test.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Test.txt; sourceTree = "<group>"; };
+		6D0FFD612431442C00A7A121 /* 期末大作业2(程序设计).py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "期末大作业2(程序设计).py"; sourceTree = "<group>"; };
+		6D0FFD622431442C00A7A121 /* game.rar */ = {isa = PBXFileReference; lastKnownFileType = file; path = game.rar; sourceTree = "<group>"; };
+		6D0FFD632431442C00A7A121 /* 期末大作业1(程序设计).py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "期末大作业1(程序设计).py"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		6D0FFD332431440C00A7A121 = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD3A2431442C00A7A121 /* 机器学习应用  */,
+			);
+			sourceTree = "<group>";
+		};
+		6D0FFD3A2431442C00A7A121 /* 机器学习应用  */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD3B2431442C00A7A121 /* 【第2周】机器学习之有监督学习 */,
+				6D0FFD4D2431442C00A7A121 /* 【第1周】机器学习之无监督学习 */,
+				6D0FFD5B2431442C00A7A121 /* 【第3周】机器学习之强化学习 */,
+				6D0FFD602431442C00A7A121 /* 期末大作业（程序设计） */,
+			);
+			path = "机器学习应用 ";
+			sourceTree = "<group>";
+		};
+		6D0FFD3B2431442C00A7A121 /* 【第2周】机器学习之有监督学习 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD3C2431442C00A7A121 /* 监督学习课程测验.rtfd */,
+				6D0FFD3D2431442C00A7A121 /* 单元5 回归 */,
+				6D0FFD432431442C00A7A121 /* 单元6 手写数字识别实例分析  */,
+				6D0FFD482431442C00A7A121 /* 单元4 分类  */,
+			);
+			path = "【第2周】机器学习之有监督学习";
+			sourceTree = "<group>";
+		};
+		6D0FFD3D2431442C00A7A121 /* 单元5 回归 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD3E2431442C00A7A121 /* 岭回归.py */,
+				6D0FFD3F2431442C00A7A121 /* 岭回归.csv */,
+				6D0FFD402431442C00A7A121 /* 多项式回归.py */,
+				6D0FFD412431442C00A7A121 /* 线性回归.py */,
+				6D0FFD422431442C00A7A121 /* prices.txt */,
+			);
+			path = "单元5 回归";
+			sourceTree = "<group>";
+		};
+		6D0FFD432431442C00A7A121 /* 单元6 手写数字识别实例分析  */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD442431442C00A7A121 /* KNN实现手写视别.py */,
+				6D0FFD452431442C00A7A121 /* 神精网络实现手写视别.py */,
+				6D0FFD462431442C00A7A121 /* trainingDigits.zip */,
+				6D0FFD472431442C00A7A121 /* testDigits.zip */,
+			);
+			path = "单元6 手写数字识别实例分析 ";
+			sourceTree = "<group>";
+		};
+		6D0FFD482431442C00A7A121 /* 单元4 分类  */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD492431442C00A7A121 /* 人体运动状态信息评级.py */,
+				6D0FFD4A2431442C00A7A121 /* 上证指数涨跌预测实例.py */,
+				6D0FFD4B2431442C00A7A121 /* stock */,
+			);
+			path = "单元4 分类 ";
+			sourceTree = "<group>";
+		};
+		6D0FFD4B2431442C00A7A121 /* stock */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD4C2431442C00A7A121 /* 000777.csv */,
+			);
+			path = stock;
+			sourceTree = "<group>";
+		};
+		6D0FFD4D2431442C00A7A121 /* 【第1周】机器学习之无监督学习 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD4E2431442C00A7A121 /* 单元1 聚类  */,
+				6D0FFD532431442C00A7A121 /* 无监督学习课程测验.rtfd */,
+				6D0FFD542431442C00A7A121 /* 单元3 基于聚类的整图分割实例  */,
+				6D0FFD582431442C00A7A121 /* 单元2 降维  */,
+			);
+			path = "【第1周】机器学习之无监督学习";
+			sourceTree = "<group>";
+		};
+		6D0FFD4E2431442C00A7A121 /* 单元1 聚类  */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD4F2431442C00A7A121 /* city.txt */,
+				6D0FFD502431442C00A7A121 /* TestData.txt */,
+				6D0FFD512431442C00A7A121 /* 学生月上网时间分布.py */,
+				6D0FFD522431442C00A7A121 /* 31省市居民家庭消费水平.py */,
+			);
+			path = "单元1 聚类 ";
+			sourceTree = "<group>";
+		};
+		6D0FFD542431442C00A7A121 /* 单元3 基于聚类的整图分割实例  */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD552431442C00A7A121 /* 聚类整图分割.py */,
+				6D0FFD562431442C00A7A121 /* person.png */,
+				6D0FFD572431442C00A7A121 /* bull.jpg */,
+			);
+			path = "单元3 基于聚类的整图分割实例 ";
+			sourceTree = "<group>";
+		};
+		6D0FFD582431442C00A7A121 /* 单元2 降维  */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD592431442C00A7A121 /* 鸢尾花数据降维.py */,
+				6D0FFD5A2431442C00A7A121 /* 人脸特征抽取与对比.py */,
+			);
+			path = "单元2 降维 ";
+			sourceTree = "<group>";
+		};
+		6D0FFD5B2431442C00A7A121 /* 【第3周】机器学习之强化学习 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD5C2431442C00A7A121 /* 单元8 自主学习Flappy Bird游戏项目分析  */,
+				6D0FFD5E2431442C00A7A121 /* Test */,
+			);
+			path = "【第3周】机器学习之强化学习";
+			sourceTree = "<group>";
+		};
+		6D0FFD5C2431442C00A7A121 /* 单元8 自主学习Flappy Bird游戏项目分析  */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD5D2431442C00A7A121 /* 项目代码.py */,
+			);
+			path = "单元8 自主学习Flappy Bird游戏项目分析 ";
+			sourceTree = "<group>";
+		};
+		6D0FFD5E2431442C00A7A121 /* Test */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD5F2431442C00A7A121 /* Test.txt */,
+			);
+			path = Test;
+			sourceTree = "<group>";
+		};
+		6D0FFD602431442C00A7A121 /* 期末大作业（程序设计） */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFD612431442C00A7A121 /* 期末大作业2(程序设计).py */,
+				6D0FFD622431442C00A7A121 /* game.rar */,
+				6D0FFD632431442C00A7A121 /* 期末大作业1(程序设计).py */,
+			);
+			path = "期末大作业（程序设计）";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		6D0FFD342431440C00A7A121 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1140;
+			};
+			buildConfigurationList = 6D0FFD372431440C00A7A121 /* Build configuration list for PBXProject "Python" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6D0FFD332431440C00A7A121;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		6D0FFD382431440C00A7A121 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		6D0FFD392431440C00A7A121 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6D0FFD372431440C00A7A121 /* Build configuration list for PBXProject "Python" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6D0FFD382431440C00A7A121 /* Debug */,
+				6D0FFD392431440C00A7A121 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6D0FFD342431440C00A7A121 /* Project object */;
+}
