@@ -1,0 +1,506 @@
+Final Exam of PoAI
+包括选择和填空，一共40道题。
+倒计时： 59:27
+1单选(1分)
+Turing Test is designed to provide what kind of satisfactory operational definition?
+图灵测试旨在给予哪一种令人满意的操作定义？
+A.  None of the above is correct 以上都不正确
+
+B.  machine intelligence 机器智能
+
+C.  human thinking  人类思考
+
+D.  human action 人类动作
+2单选(1分)
+Thinking the differences between agent functions and agent programs, select correct statements from following ones.
+考虑智能体函数与智能体程序的差异，从下列陈述中选择正确的答案。
+A.  An agent program implements an agent function.
+一个智能体程序实现一个智能体函数。
+B.  An agent program has no any relation with an agent function.
+一个智能体程序与一个智能体函数没有任何关系。
+C.  None of the above is correct
+以上都不正确
+D.  An agent program is same as an agent function.
+一个智能体程序与一个智能体函数相同。
+3单选(1分)
+There are two main kinds of formulation for 8-queens problem. Which of the following one is the formulation that starts with all 8 queens on the board and moves them around?
+有两种8皇后问题的形式化方式。“初始时8个皇后都放在棋盘上，然后再进行移动”属于哪一种形式化方式？
+
+A.
+Half-state formulation 半态形式化
+
+B.
+Complete-state formulation 全态形式化
+
+C.
+None of the above is correct 以上都不正确
+
+
+D.
+Incremental formulation 增量形式化
+4单选(1分)
+What kind of knowledge will be used to describe how a problem is solved?
+哪种知识可用于描述如何求解问题？
+
+A.
+Heuristic knowledge 启发性知识
+
+B.
+Procedural knowledge 过程性知识
+
+C.
+Static knowledge 静态知识
+
+D.
+Declarative knowledge 陈述性知识
+5单选(1分)
+Which of the following is used to discover general facts from training examples?
+下列中哪个用于训练样本中发现一般的事实？
+
+A.
+Inductive learning 归纳学习
+
+B.
+Reinforcement learning 强化学习
+
+C.
+None of the above is correct 以上都不正确
+
+D.
+Deductive learning 演绎学习
+6单选(1分)
+Which statement best describes the task of “classification” in machine learning?
+哪一个是机器学习中“分类”任务的正确描述？
+
+A.
+To group data objects.  对数据对象进行分组。
+
+B.
+To predict a real value for each item.  预测每个项目实际的值。
+
+C.
+To order items according to some criterion.  依据某个准则对项目进行排序。
+
+D.
+To assign a category to each item. 为每个项目分配一个类别。
+7单选(1分)
+Which statement best describes the task of “regression” in machine learning?
+哪一个是机器学习中“回归”任务的正确描述？
+
+A.
+To assign a category to each item. 为每个项目分配一个类别。
+
+B.
+To simplify inputs by mapping them into a lower space. 将其映射到低维空间来简化输入。
+
+C.
+To predict a real value for each item.  预测每个项目实际的值。
+
+D.
+To find the distribution of inputs in some space. 发现某个空间中输入的分布。
+8单选(1分)
+Which statement best describes the task of “dimensionality reduction” in machine learning?
+哪一个是机器学习中“降维”任务的正确描述？
+
+A.
+None of the above is correct 以上都不正确
+
+B.
+To assign a category to each item. 为每个项目分配一个类别。
+
+C.
+To simplify inputs by mapping them into a lower space.将其映射到低维空间来简化输入。
+
+D.
+To order items according to some criterion. 依据某个准则对项目进行排序。
+9单选(1分)
+Which statement best describes the paradigm of “supervised learning” in machine learning?
+哪一个是机器学习中“有监督学习”范式的正确描述？
+
+A.
+It is a class of supervised learning techniques that also make use of unlabeled data for training.
+属于有监督学习算法一类，此外还利用未标记数据进行训练。
+
+B.
+It receives a set of labeled data and makes predictions for all unseen data.
+接收一组标注数据并对所有的未知数据做出预测。
+
+C.
+It is able to solve a task despite not having received any training examples of that task.
+能够求解一个任务，即使没有得到该任务的任何训练样本。
+
+D.
+None of the above is correct  以上都不正确
+10单选(1分)
+Which statement best describes the paradigm of “unsupervised learning” in machine learning?
+哪一个是机器学习中“无监督学习”范式的正确描述？
+
+A.
+It receives a set of labeled data and makes predictions for all unseen data.
+接收一组标注数据并对所有的未知数据做出预测。
+
+B.
+It is a class of supervised learning techniques that also make use of unlabeled data for training.
+属于有监督学习算法一类，此外还利用未标记数据进行训练。
+
+C.
+It receives exclusively unlabeled data and makes predictions for all unseen data.
+仅仅接收未标注数据并对所有的未知数据做出预测。
+
+D.
+It aims to learn some information using a limited amount of training examples.
+旨在采用有限数量的训练样本来学习一些信息。
+11单选(1分)
+Which learning paradigm does it apply storing knowledge to a different but related problem?
+哪种学习范式把储备的知识用于不同但相关的问题？
+
+A.
+Ensemble learning 集成学习
+
+B.
+Transfer learning 迁移学习
+
+C.
+None of the above is correct  以上都不正确
+
+D.
+Reinforcement learning 强化学习
+12多选(1分)
+Select the following true statements regarding the concept of artificial intelligence.
+选择以下关于人工智能概念的正确表述。
+
+A.
+Artificial intelligence is to study and construct agent programs that perform well in a given environment.
+人工智能是研究和构建在给定环境下表现良好的智能体程序。
+
+B.
+Artificial intelligence aims to create intelligent machines.
+人工智能旨在创造智能机器。
+
+C.
+Artificial intelligence is the intelligence exhibited by machines or software.
+人工智能是通过机器或软件展现的智能。
+
+D.
+Artificial intelligence is to enable the development of computers that are able to do things normally done by human.
+人工智能是为了开发一类计算机使之能够完成通常由人类所能做的事。
+13多选(1分)
+Which of the following statements are true to describe strong AI (General AI)?
+下列陈述中哪些是描述强AI（通用AI）的正确答案？
+
+A.
+It defines non-sentient computer intelligence or AI that is focused on one narrow task (just one specific problem).
+其定义为无意识的计算机智能，或专注于一个狭窄任务（仅针对一个具体问题）的AI。
+
+B.
+The appropriately programmed computer with the right inputs and outputs would thereby have a mind in exactly the same sense human beings have minds.
+是经过适当编程的具有正确输入和输出的计算机，因此有与人类同样判断力的头脑。
+
+C.
+It means a machine with the ability to apply intelligence to any problem.
+指的是一种机器，具有将智能应用于任何问题的能力。
+
+D.
+It is a hypothetical agent that possesses intelligence far surpassing that of the brightest and most gifted human minds.
+是一个假定的智能体，拥有远远超过聪明和最有天赋的人类大脑的智能。
+14多选(1分)
+For the following comparisons, select which approaches are more general and more amenable to scientific development.
+对于如下比拟，选择哪些方法更通用并且更适合于科学开发。
+
+A.
+Acting rationally 理性动作
+
+B.
+Thinking rationally  理性思考
+
+C.
+Thinking humanly 类人思考
+
+D.
+Acting humanly 类人动作
+15多选(1分)
+A rational agent is one that does the right thing, but what does it mean to do the right thing? Considering the consequences of the agent’s behavior, select the following true statements regarding the concept of "right thing".
+理性智能体指的是有正确行为的智能体，但正确的行为意味着什么？考虑智能体行为的后果，选择下列有关“正确的行为”概念的真实陈述。
+
+A.
+But if the sequence is undesirable, then the agent destroys the environment.
+但若该序列是不期望的，则该智能体对其环境造成破坏。
+
+B.
+An agent in an environment generates a sequence of actions according to the percepts.
+智能体在某个环境中依据感知生成动作序列。
+
+C.
+If the sequence is desirable, then the agent has performed well.
+如果该序列是所期望的，则该智能体表现良好。
+
+D.
+This sequence of actions causes the environment to go through a sequence of states.
+这些动作序列引起环境改变而产生状态序列。
+16多选(1分)
+Select which of the following search methods are true uninformed search.
+选择如下哪些搜索方法属于无信息搜索。
+
+A.
+Bidirectional search 双向搜索
+
+B.
+Depth-first search 深度优先搜索
+
+C.
+Best-first Search 最佳优先搜索
+
+D.
+Uniform-cost search 一致代价搜索
+17多选(1分)
+The search strategies that use problem-specific knowledge beyond the definition of the problem itself are known as:
+除了问题本身的定义之外，使用问题特定知识的搜索策略被认为是：
+
+A.
+Brute force search 蛮力搜索
+
+B.
+Binary search 二元搜索
+
+C.
+Informed search 有信息搜索
+
+D.
+Heuristic search 启发式搜
+18多选(1分)
+Hill climbing search is sometimes called greedy local search because it grabs a good neighbor state without thinking ahead about where to go next. Unfortunately, it often gets stuck for the three reasons:
+爬山搜索有时也被称为贪婪局部搜索，因为它只顾抓住一个好的邻接点的状态，而不提前思考下一步该去哪儿。它在三种情况下经常被困：
+
+A.
+Local minima 局部最小值
+
+B.
+Ridges 山岭
+
+C.
+Local maxima 局部最大值
+
+D.
+Plateaux 高原
+19多选(1分)
+Which of the following statements are true about Simulated annealing algorithm？
+以下关于模拟退火算法的表述哪些是正确的？
+
+A.
+The inner loop of the simulated annealing algorithm is very different from hill climbing.
+模拟退火算法的内循环与爬山法完全不同。
+
+B.
+Instead of picking the best move, simulated annealing algorithm picks a random move.
+模拟退火算法不是选择最佳行动，而是选择随机行动。
+
+C.
+Instead of picking the random move, simulated annealing algorithm picks a best move.
+模拟退火算法不是选择随机行动，而是选择最佳行动。
+
+D.
+The inner loop of the simulated annealing algorithm is quite similar to hill climbing.
+模拟退火算法的内循环与爬山法非常相似。
+20多选(1分)
+Select the following true statements regarding the concept of minimax rule for a zero sum game.
+从如下关于零和博弈minimax规则的概念中选择正确的答案。
+
+A.
+Each player minimizes the maximum loss possible for the other.
+每个玩家会使对手可能的最大损失变得最小。
+
+B.
+Each player minimizes the maximum payoff possible for itself.
+每个玩家会使自己可能的最大收益变得最小。
+
+C.
+Each player maximizes the maximum loss possible for the other.
+每个玩家会使对手可能的最大损失变得最大。
+
+D.
+Each player maximizes the maximum payoff possible for itself.
+每个玩家会使自己可能的最大收益变得最大。
+21多选(1分)
+Which of the following statements are true types of types of local consistency for constraint propagation?
+如下陈述中哪些是约束传播局部一致性的正确类型？
+
+A.
+Path consistency 路径一致
+
+B.
+Node consistency 节点一致
+
+C.
+Loop consistency 环路一致
+
+D.
+k-consistency k一致
+22多选(1分)
+Select which of the following statements are true about ontology.
+选择下列关于本体的陈述哪些是正确的。
+
+A.
+Ontologies cannot be created to organize information that will be applied to problem solving.
+本体不能被创建为组织可用于问题求解的信息。
+
+B.
+An ontology provides a common vocabulary of an area and define the meaning of the terms and the relationships between them.
+本体提供一个领域的公共词汇，并且定义一些术语的含义和它们之间的关系。
+
+C.
+An ontology is a formal naming and definition of the types, properties, and interrelationships of the entities for a particular domain of discourse.
+本体是一种对特定论域中实体的类型、特性和相互关系的形式化命名和定义。
+
+D.
+Ontologies cannot be divided the types of upper ontology, domain ontology, or hyper ontology.
+本体不能被分为上层本体、领域本体、或混合本体。
+23多选(1分)
+Which of the following approaches are used to classical planning?
+下列方法中哪些可用于经典规划？
+
+A.
+Boolean satisfiability 布尔可满足性
+
+B.
+state-space search  状态空间搜索
+
+C.
+planning graph 规划图
+
+D.
+first-order logical deduction 一阶逻辑推理
+24多选(1分)
+Select the following true parties regarding the three parties of machine learning.
+选择如下哪些派别是有关机器学习的三个派别？
+
+A.
+Realism 现实主义
+
+B.
+Symbolicism 符号主义
+
+C.
+Logicalism 逻辑主义
+
+D.
+Connectionism 联结主义
+25多选(1分)
+Select the following true phrases regarding the typical paradigms in machine learning.
+选择下列哪些是典型的机器学习范式。
+
+A.
+Supervised learning 有监督学习
+
+B.
+Augmented learning 增强学习
+
+C.
+Informal learning 非正式学习
+
+D.
+Unsupervised learning 无监督学习
+26多选(1分)
+Select which ones of the following algorithms (methods) have been invented as the special algorithms dedicated to reinforcement learning.
+选择下列哪些算法（方法）已被发明为专门用于强化学习的算法。
+
+A.
+Behaviorist Psychology 行为学派心理学
+
+B.
+Deep Network 深度网络
+
+C.
+Asynchronous Advantage Actor-Critic 异步优势动作者·评论者
+
+D.
+Deterministic Policy Gradients 确定性策略梯度
+27多选(1分)
+Which of the following phrases are true algorithms used by manifold learning?
+下列哪些是真正被流形学习使用的算法？
+
+A.
+LLE (Locally Linear Embeddings) LLE（局部线性嵌入）
+
+B.
+LE (Laplacian Eigenmaps) LE（拉普拉斯特征映射）
+
+C.
+Isomap (Isometric mapping) Isomap（等距映射）
+
+D.
+SVM (Support Vector Machine) SVM（支撑向量机）
+28多选(1分)
+Select the following true phrases in which each one has been invented as a logical model for machine learning.
+从如下短语中选择真正地被发明为或被用作机器学习逻辑模型的方法。
+
+A.
+Decision tree 决策树
+
+B.
+Association rules 关联规则
+
+C.
+First-order logic 一阶逻辑
+
+D.
+Adaptive boosting 自适应性提升
+29多选(1分)
+Which of the following phrases are true artificial neural networks used in machine Learning?
+下列用于哪些是真正用于机器学习的人工神经网络？
+
+A.
+Long short-term memory 长短期记忆
+
+B.
+Generative Adversarial Networks 生成对抗网络
+
+C.
+Bayes Network 贝叶斯网络
+
+D.
+Wireless network 无线网络
+30填空(1分)
+Rationally means the property of a system which does the right thing given what it ________.
+理性指的是一个系统的属性，即在_________的环境下做正确的事。（中英文回答均可）
+请输入答案
+31填空(1分)
+An intelligent agent is anything that can be viewed as perceiving its environment through sensors, and acting upon that environment through _______.
+智能体可以看作是通过感受器感知外部环境，并且通过_________作用于外部环境的任何事物。（中英文回答均可）
+请输入答案
+32填空(1分)
+Local search algorithms operate using a single current node (rather than multiple paths) and generally move only to ______ of that node.
+局部搜索算法使用一个当前节点（而不是多条路径），并且通常仅移动到该节点的______。（中英文回答均可）
+请输入答案
+33填空(1分)
+____________ is a dynamic game with probabilistic transitions played by one or more players.
+____________是一种具有概率转换的动态博弈，有一个或多个玩家。（中英文回答均可）
+请输入答案
+34填空(1分)
+___________ tree search is on the analysis of the most promising moves, expanding the search tree based on random sampling of the search space.
+___________树搜索对最有利的动作进行分析，根据搜索空间的随机采样来扩展搜索树。（中英文回答均可）
+请输入答案
+35填空(1分)
+A constraint satisfaction problem (CSP) is defined as a set of objects whose state must satisfy a number of _______________.
+约束满足问题 (CSP) 被定义为其状态必须满足若干_______________的一组对象。（中英文回答均可）
+请输入答案
+36填空(1分)
+Markov Decision Process (MDP) is a discrete time _______________ process, means action outcomes depend only on the current state.
+马可夫决策过程（MDP）是一种离散时间_______________过程，意味着动作结果仅仅依赖于当前状态。（中英文回答均可）
+请输入答案
+37填空(1分)
+Machine learning is a _______ of artificial intelligence, concerns the construction and study of systems that can learn from data.
+机器学习是人工智能的一个_______，从事构建和研究可以从数据中学习的系统。（中英文回答均可）
+请输入答案
+38填空(1分)
+Clustering is to identify similar groups for input objects _____ training data, and classification is to assign pre-defined classes for input items with training data.
+聚类是为输入对象标识相似的组，_____训练数据；而分类则是给输入项分派预定义的类，有训练数据。（中英文回答均可）
+请输入答案
+39填空(1分)
+The probabilistic model in machine learning is to use probability theory to express all forms of _____________.
+机器学习的概率模型是采用概率论来表示所有____________的形式。（中英文回答均可）
+请输入答案
+40填空(1分)
+An artificial neural network is an artificial representation of the human brain that tries to simulate its _________ processing.
+人工神经网络是一种人脑的人工表示，试图仿真其_________过程。（中英文回答均可）
+请输入答案
+提交答案
