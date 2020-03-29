@@ -455,12 +455,20 @@
 		6D0FFF55243145B800A7A121 /* Thread.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Thread.py; sourceTree = "<group>"; };
 		6D0FFF56243145B800A7A121 /* Threading.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Threading.py; sourceTree = "<group>"; };
 		6D0FFF57243145B800A7A121 /* Threading 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Threading 2.py"; sourceTree = "<group>"; };
+		6D0FFF592431475800A7A121 /* 3Face_training.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = 3Face_training.py; sourceTree = "<group>"; };
+		6D0FFF5A2431475800A7A121 /* 1FaceDetection.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = 1FaceDetection.py; sourceTree = "<group>"; };
+		6D0FFF5B2431475800A7A121 /* 4Face_recognition.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = 4Face_recognition.py; sourceTree = "<group>"; };
+		6D0FFF5D2431475800A7A121 /* titanic3.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = titanic3.xls; sourceTree = "<group>"; };
+		6D0FFF5E2431475800A7A121 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+		6D0FFF5F2431475800A7A121 /* 2FaceDataCollect.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = 2FaceDataCollect.py; sourceTree = "<group>"; };
+		6D0FFF602431475800A7A121 /* 人脸识别.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "人脸识别.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		6D0FFD332431440C00A7A121 = {
 			isa = PBXGroup;
 			children = (
+				6D0FFF582431475800A7A121 /* 人脸识别 */,
 				6D0FFF2C243145B800A7A121 /* Tello EDU */,
 				6D0FFECB2431453700A7A121 /* 数据分析与展示 */,
 				6D0FFE4E243144FF00A7A121 /* 科学计算三维可视化 */,
@@ -1656,6 +1664,35 @@
 			path = Thread;
 			sourceTree = "<group>";
 		};
+		6D0FFF582431475800A7A121 /* 人脸识别 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFF592431475800A7A121 /* 3Face_training.py */,
+				6D0FFF5A2431475800A7A121 /* 1FaceDetection.py */,
+				6D0FFF5B2431475800A7A121 /* 4Face_recognition.py */,
+				6D0FFF5C2431475800A7A121 /* workspace */,
+				6D0FFF5F2431475800A7A121 /* 2FaceDataCollect.py */,
+				6D0FFF602431475800A7A121 /* 人脸识别.xcodeproj */,
+			);
+			path = "人脸识别";
+			sourceTree = "<group>";
+		};
+		6D0FFF5C2431475800A7A121 /* workspace */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFF5D2431475800A7A121 /* titanic3.xls */,
+				6D0FFF5E2431475800A7A121 /* main.py */,
+			);
+			path = workspace;
+			sourceTree = "<group>";
+		};
+		6D0FFF612431475800A7A121 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXProject section */
@@ -1674,6 +1711,12 @@
 			);
 			mainGroup = 6D0FFD332431440C00A7A121;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 6D0FFF612431475800A7A121 /* Products */;
+					ProjectRef = 6D0FFF602431475800A7A121 /* 人脸识别.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 			);
