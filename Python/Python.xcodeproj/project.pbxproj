@@ -217,12 +217,129 @@
 		6D0FFE4B243144BF00A7A121 /* KeyEvents.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = KeyEvents.py; sourceTree = "<group>"; };
 		6D0FFE4C243144BF00A7A121 /* Snowfall.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Snowfall.py; sourceTree = "<group>"; };
 		6D0FFE4D243144BF00A7A121 /* Rainbow.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Rainbow.py; sourceTree = "<group>"; };
+		6D0FFE50243144FF00A7A121 /* SV13_ fsolve.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV13_ fsolve.py"; sourceTree = "<group>"; };
+		6D0FFE51243144FF00A7A121 /* SV14_sphere 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV14_sphere 2.py"; sourceTree = "<group>"; };
+		6D0FFE52243144FF00A7A121 /* SV13_leastsq 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV13_leastsq 2.py"; sourceTree = "<group>"; };
+		6D0FFE53243144FF00A7A121 /* SV15_convexhull3d 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV15_convexhull3d 2.py"; sourceTree = "<group>"; };
+		6D0FFE54243144FF00A7A121 /* SV14_linalg 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV14_linalg 2.py"; sourceTree = "<group>"; };
+		6D0FFE55243144FF00A7A121 /* SV13_interp1d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV13_interp1d.py; sourceTree = "<group>"; };
+		6D0FFE56243144FF00A7A121 /* SV13_ fsolve 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV13_ fsolve 2.py"; sourceTree = "<group>"; };
+		6D0FFE57243144FF00A7A121 /* SV15_ lorenz 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV15_ lorenz 2.py"; sourceTree = "<group>"; };
+		6D0FFE58243144FF00A7A121 /* SV15_convexhull3d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV15_convexhull3d.py; sourceTree = "<group>"; };
+		6D0FFE59243144FF00A7A121 /* SV15_convexhull2d 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV15_convexhull2d 2.py"; sourceTree = "<group>"; };
+		6D0FFE5A243144FF00A7A121 /* SV15_ lorenz.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV15_ lorenz.py"; sourceTree = "<group>"; };
+		6D0FFE5B243144FF00A7A121 /* SV15_convexhull2d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV15_convexhull2d.py; sourceTree = "<group>"; };
+		6D0FFE5C243144FF00A7A121 /* SV14_kde 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV14_kde 2.py"; sourceTree = "<group>"; };
+		6D0FFE5D243144FF00A7A121 /* SV14_sphere.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV14_sphere.py; sourceTree = "<group>"; };
+		6D0FFE5E243144FF00A7A121 /* SV13_leastsq.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV13_leastsq.py; sourceTree = "<group>"; };
+		6D0FFE5F243144FF00A7A121 /* SV14_linalg.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV14_linalg.py; sourceTree = "<group>"; };
+		6D0FFE60243144FF00A7A121 /* SV13_interp1d 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV13_interp1d 2.py"; sourceTree = "<group>"; };
+		6D0FFE61243144FF00A7A121 /* SV14_kde.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV14_kde.py; sourceTree = "<group>"; };
+		6D0FFE63243144FF00A7A121 /* 科学计算三维可视化-期末考试客观题试卷 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "科学计算三维可视化-期末考试客观题试卷 2.txt"; sourceTree = "<group>"; };
+		6D0FFE64243144FF00A7A121 /* 科学计算三维可视化-期末考试主观题试卷 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "科学计算三维可视化-期末考试主观题试卷 2.txt"; sourceTree = "<group>"; };
+		6D0FFE65243144FF00A7A121 /* 科学计算三维可视化-期末考试主观题试卷.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "科学计算三维可视化-期末考试主观题试卷.txt"; sourceTree = "<group>"; };
+		6D0FFE66243144FF00A7A121 /* 科学计算三维可视化-期末考试客观题试卷.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "科学计算三维可视化-期末考试客观题试卷.txt"; sourceTree = "<group>"; };
+		6D0FFE68243144FF00A7A121 /* SV1102_mayavi_traitsUI 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV1102_mayavi_traitsUI 2.py"; sourceTree = "<group>"; };
+		6D0FFE69243144FF00A7A121 /* SV1102_mayavi_traitsUI.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV1102_mayavi_traitsUI.py; sourceTree = "<group>"; };
+		6D0FFE6A243144FF00A7A121 /* SV1101_mlab_traitsUI 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV1101_mlab_traitsUI 2.py"; sourceTree = "<group>"; };
+		6D0FFE6B243144FF00A7A121 /* SV1101_mlab_traitsUI.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV1101_mlab_traitsUI.py; sourceTree = "<group>"; };
+		6D0FFE6D243144FF00A7A121 /* SV07V02_canyou.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV07V02_canyou.py; sourceTree = "<group>"; };
+		6D0FFE6E243144FF00A7A121 /* 单元测验截止时间.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间.txt"; sourceTree = "<group>"; };
+		6D0FFE6F243144FF00A7A121 /* 第三周至第四周作业.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "第三周至第四周作业.txt"; sourceTree = "<group>"; };
+		6D0FFE70243144FF00A7A121 /* SV07V03_earth_graph 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV07V03_earth_graph 2.py"; sourceTree = "<group>"; };
+		6D0FFE71243144FF00A7A121 /* 第三周至第四周作业 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "第三周至第四周作业 2.txt"; sourceTree = "<group>"; };
+		6D0FFE72243144FF00A7A121 /* SV07V02_canyou 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV07V02_canyou 2.py"; sourceTree = "<group>"; };
+		6D0FFE73243144FF00A7A121 /* SV07V01_dragon.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV07V01_dragon.py; sourceTree = "<group>"; };
+		6D0FFE74243144FF00A7A121 /* SV07V01_dragon 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV07V01_dragon 2.py"; sourceTree = "<group>"; };
+		6D0FFE75243144FF00A7A121 /* 单元测验截止时间 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间 2.txt"; sourceTree = "<group>"; };
+		6D0FFE76243144FF00A7A121 /* SV07V03_earth_graph.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV07V03_earth_graph.py; sourceTree = "<group>"; };
+		6D0FFE78243144FF00A7A121 /* SV03V01_PLot3D_contours.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV03V01_PLot3D_contours.py; sourceTree = "<group>"; };
+		6D0FFE79243144FF00A7A121 /* 第二周作业 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "第二周作业 2.txt"; sourceTree = "<group>"; };
+		6D0FFE7A243144FF00A7A121 /* 单元测验截止时间.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间.txt"; sourceTree = "<group>"; };
+		6D0FFE7B243144FF00A7A121 /* 第二周作业.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "第二周作业.txt"; sourceTree = "<group>"; };
+		6D0FFE7C243144FF00A7A121 /* SV03V03_PLot3D_outline.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV03V03_PLot3D_outline.py; sourceTree = "<group>"; };
+		6D0FFE7D243144FF00A7A121 /* SV03V03_PLot3D_outline 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV03V03_PLot3D_outline 2.py"; sourceTree = "<group>"; };
+		6D0FFE7E243144FF00A7A121 /* SV03V02_PLot3D_arrow.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV03V02_PLot3D_arrow.py; sourceTree = "<group>"; };
+		6D0FFE7F243144FF00A7A121 /* SV03V02_PLot3D_arrow 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV03V02_PLot3D_arrow 2.py"; sourceTree = "<group>"; };
+		6D0FFE80243144FF00A7A121 /* 单元测验截止时间 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间 2.txt"; sourceTree = "<group>"; };
+		6D0FFE81243144FF00A7A121 /* SV03V01_PLot3D_contours 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV03V01_PLot3D_contours 2.py"; sourceTree = "<group>"; };
+		6D0FFE83243144FF00A7A121 /* SV06V04_colormap 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV06V04_colormap 2.py"; sourceTree = "<group>"; };
+		6D0FFE84243144FF00A7A121 /* SV06V04_select_red_balls.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V04_select_red_balls.py; sourceTree = "<group>"; };
+		6D0FFE85243144FF00A7A121 /* 单元测验截止时间.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间.txt"; sourceTree = "<group>"; };
+		6D0FFE86243144FF00A7A121 /* SV06V01_contour3d 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV06V01_contour3d 2.py"; sourceTree = "<group>"; };
+		6D0FFE87243144FF00A7A121 /* SV06V01_quiver3d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V01_quiver3d.py; sourceTree = "<group>"; };
+		6D0FFE88243144FF00A7A121 /* SV06V01_quiver3d 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV06V01_quiver3d 2.py"; sourceTree = "<group>"; };
+		6D0FFE89243144FF00A7A121 /* SV06V07_vector 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV06V07_vector 2.py"; sourceTree = "<group>"; };
+		6D0FFE8A243144FF00A7A121 /* SV06V01_surf.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V01_surf.py; sourceTree = "<group>"; };
+		6D0FFE8B243144FF00A7A121 /* SV06V04_select_red_balls 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV06V04_select_red_balls 2.py"; sourceTree = "<group>"; };
+		6D0FFE8C243144FF00A7A121 /* SV06V03_contour3d 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV06V03_contour3d 2.py"; sourceTree = "<group>"; };
+		6D0FFE8D243144FF00A7A121 /* SV06V01_surf 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV06V01_surf 2.py"; sourceTree = "<group>"; };
+		6D0FFE8E243144FF00A7A121 /* SV06V01_points3d 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV06V01_points3d 2.py"; sourceTree = "<group>"; };
+		6D0FFE8F243144FF00A7A121 /* SV06V01_contour_surf.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V01_contour_surf.py; sourceTree = "<group>"; };
+		6D0FFE90243144FF00A7A121 /* SV06V03_contour3d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V03_contour3d.py; sourceTree = "<group>"; };
+		6D0FFE91243144FF00A7A121 /* SV06V01_contour_surf 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV06V01_contour_surf 2.py"; sourceTree = "<group>"; };
+		6D0FFE92243144FF00A7A121 /* SV06V01_points3d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V01_points3d.py; sourceTree = "<group>"; };
+		6D0FFE93243144FF00A7A121 /* SV05V03_demo 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV05V03_demo 2.py"; sourceTree = "<group>"; };
+		6D0FFE94243144FF00A7A121 /* SV06V01_contour3d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V01_contour3d.py; sourceTree = "<group>"; };
+		6D0FFE95243144FF00A7A121 /* SV06V01_imshow.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V01_imshow.py; sourceTree = "<group>"; };
+		6D0FFE96243144FF00A7A121 /* SV06V01_plot3d 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV06V01_plot3d 2.py"; sourceTree = "<group>"; };
+		6D0FFE97243144FF00A7A121 /* 单元测验截止时间 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间 2.txt"; sourceTree = "<group>"; };
+		6D0FFE98243144FF00A7A121 /* SV06V07_vector.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V07_vector.py; sourceTree = "<group>"; };
+		6D0FFE99243144FF00A7A121 /* SV06V01_plot3d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V01_plot3d.py; sourceTree = "<group>"; };
+		6D0FFE9A243144FF00A7A121 /* SV06V04_colormap.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V04_colormap.py; sourceTree = "<group>"; };
+		6D0FFE9B243144FF00A7A121 /* SV06V01_imshow 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV06V01_imshow 2.py"; sourceTree = "<group>"; };
+		6D0FFE9C243144FF00A7A121 /* SV06V06_scalar.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V06_scalar.py; sourceTree = "<group>"; };
+		6D0FFE9D243144FF00A7A121 /* SV06V06_scalar 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV06V06_scalar 2.py"; sourceTree = "<group>"; };
+		6D0FFE9E243144FF00A7A121 /* SV05V03_demo.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV05V03_demo.py; sourceTree = "<group>"; };
+		6D0FFEA0243144FF00A7A121 /* SV10V15_traitsU_editors.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV10V15_traitsU_editors.py; sourceTree = "<group>"; };
+		6D0FFEA1243144FF00A7A121 /* SV10V15_traitsU_editors 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV10V15_traitsU_editors 2.py"; sourceTree = "<group>"; };
+		6D0FFEA2243144FF00A7A121 /* Sv09V03_traitslisten 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Sv09V03_traitslisten 2.py"; sourceTree = "<group>"; };
+		6D0FFEA3243144FF00A7A121 /* SV10V01_traitsUI 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV10V01_traitsUI 2.py"; sourceTree = "<group>"; };
+		6D0FFEA4243144FF00A7A121 /* 单元测验截止时间.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间.txt"; sourceTree = "<group>"; };
+		6D0FFEA5243144FF00A7A121 /* SV09V05_property 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV09V05_property 2.py"; sourceTree = "<group>"; };
+		6D0FFEA6243144FF00A7A121 /* SV10V05_buttoneditor 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV10V05_buttoneditor 2.py"; sourceTree = "<group>"; };
+		6D0FFEA7243144FF00A7A121 /* SV10V02_modelmanager.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV10V02_modelmanager.py; sourceTree = "<group>"; };
+		6D0FFEA8243144FF00A7A121 /* SV09V02_traits.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV09V02_traits.py; sourceTree = "<group>"; };
+		6D0FFEA9243144FF00A7A121 /* SV10V05_TextEditor 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV10V05_TextEditor 2.py"; sourceTree = "<group>"; };
+		6D0FFEAA243144FF00A7A121 /* SV10V05_TextEditor.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV10V05_TextEditor.py; sourceTree = "<group>"; };
+		6D0FFEAB243144FF00A7A121 /* SV10V01_traitsUI.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV10V01_traitsUI.py; sourceTree = "<group>"; };
+		6D0FFEAC243144FF00A7A121 /* SV10V05_range 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV10V05_range 2.py"; sourceTree = "<group>"; };
+		6D0FFEAD243144FF00A7A121 /* SV09V05_property.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV09V05_property.py; sourceTree = "<group>"; };
+		6D0FFEAE243144FF00A7A121 /* SV10V05_range.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV10V05_range.py; sourceTree = "<group>"; };
+		6D0FFEAF243144FF00A7A121 /* SV09V04_eventlisten.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV09V04_eventlisten.py; sourceTree = "<group>"; };
+		6D0FFEB0243144FF00A7A121 /* SV10V05_group.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV10V05_group.py; sourceTree = "<group>"; };
+		6D0FFEB1243144FF00A7A121 /* SV10V05_buttoneditor.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV10V05_buttoneditor.py; sourceTree = "<group>"; };
+		6D0FFEB2243144FF00A7A121 /* 单元测验截止时间 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间 2.txt"; sourceTree = "<group>"; };
+		6D0FFEB3243144FF00A7A121 /* Sv09V03_traitslisten.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Sv09V03_traitslisten.py; sourceTree = "<group>"; };
+		6D0FFEB4243144FF00A7A121 /* SV09V02_traits 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV09V02_traits 2.py"; sourceTree = "<group>"; };
+		6D0FFEB5243144FF00A7A121 /* SV10V02_modelmanager 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV10V02_modelmanager 2.py"; sourceTree = "<group>"; };
+		6D0FFEB6243144FF00A7A121 /* SV10V05_group 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV10V05_group 2.py"; sourceTree = "<group>"; };
+		6D0FFEB7243144FF00A7A121 /* SV09V04_eventlisten 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV09V04_eventlisten 2.py"; sourceTree = "<group>"; };
+		6D0FFEB9243144FF00A7A121 /* SV02V02_cube_ivtk 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV02V02_cube_ivtk 2.py"; sourceTree = "<group>"; };
+		6D0FFEBA243144FF00A7A121 /* SV02V04_PLOT3DReader 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV02V04_PLOT3DReader 2.py"; sourceTree = "<group>"; };
+		6D0FFEBB243144FF00A7A121 /* SV02V02_cube_ivtk_fixed 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV02V02_cube_ivtk_fixed 2.py"; sourceTree = "<group>"; };
+		6D0FFEBC243144FF00A7A121 /* 单元测验截止时间.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间.txt"; sourceTree = "<group>"; };
+		6D0FFEBD243144FF00A7A121 /* SV01V04_cube 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV01V04_cube 2.py"; sourceTree = "<group>"; };
+		6D0FFEBE243144FF00A7A121 /* SV02V02_cube_ivtk_function 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV02V02_cube_ivtk_function 2.py"; sourceTree = "<group>"; };
+		6D0FFEBF243144FF00A7A121 /* SV02V03_RectilinearGrid 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV02V03_RectilinearGrid 2.py"; sourceTree = "<group>"; };
+		6D0FFEC0243144FF00A7A121 /* SV02V02_cube_ivtk.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V02_cube_ivtk.py; sourceTree = "<group>"; };
+		6D0FFEC1243144FF00A7A121 /* SV02V04_STLReader 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV02V04_STLReader 2.py"; sourceTree = "<group>"; };
+		6D0FFEC2243144FF00A7A121 /* SV01V04_cube.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV01V04_cube.py; sourceTree = "<group>"; };
+		6D0FFEC3243144FF00A7A121 /* SV02V04_STLReader.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V04_STLReader.py; sourceTree = "<group>"; };
+		6D0FFEC4243144FF00A7A121 /* SV02V02_cube_ivtk_fixed.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V02_cube_ivtk_fixed.py; sourceTree = "<group>"; };
+		6D0FFEC5243144FF00A7A121 /* SV02V02_cube_ivtk_function_simple 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV02V02_cube_ivtk_function_simple 2.py"; sourceTree = "<group>"; };
+		6D0FFEC6243144FF00A7A121 /* SV02V04_PLOT3DReader.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V04_PLOT3DReader.py; sourceTree = "<group>"; };
+		6D0FFEC7243144FF00A7A121 /* SV02V03_RectilinearGrid.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V03_RectilinearGrid.py; sourceTree = "<group>"; };
+		6D0FFEC8243144FF00A7A121 /* 单元测验截止时间 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间 2.txt"; sourceTree = "<group>"; };
+		6D0FFEC9243144FF00A7A121 /* SV02V02_cube_ivtk_function_simple.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V02_cube_ivtk_function_simple.py; sourceTree = "<group>"; };
+		6D0FFECA243144FF00A7A121 /* SV02V02_cube_ivtk_function.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V02_cube_ivtk_function.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		6D0FFD332431440C00A7A121 = {
 			isa = PBXGroup;
 			children = (
+				6D0FFE4E243144FF00A7A121 /* 科学计算三维可视化 */,
 				6D0FFD64243144BF00A7A121 /* 程序设计 */,
 				6D0FFD3A2431442C00A7A121 /* 机器学习与应用  */,
 			);
@@ -954,6 +1071,193 @@
 				6D0FFE4D243144BF00A7A121 /* Rainbow.py */,
 			);
 			path = "【第6周 第2部分】交互式图形编程";
+			sourceTree = "<group>";
+		};
+		6D0FFE4E243144FF00A7A121 /* 科学计算三维可视化 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFEB8243144FF00A7A121 /* 【第1周】三维可视之基础运用 */,
+				6D0FFE77243144FF00A7A121 /* 【第2周】三维可视之基础实战 */,
+				6D0FFE82243144FF00A7A121 /* 【第3周】三维可视之高级进阶 */,
+				6D0FFE6C243144FF00A7A121 /* 【第4周】三维可视之进阶实战 */,
+				6D0FFE9F243144FF00A7A121 /* 【第5周】三维可视之交互界面 */,
+				6D0FFE67243144FF00A7A121 /* 【第6周】三维可视之界面实战 */,
+				6D0FFE4F243144FF00A7A121 /* 【第7周】三维可视之运算（选修） */,
+				6D0FFE62243144FF00A7A121 /* 科学计算三维可视化期末考试 */,
+			);
+			path = "科学计算三维可视化";
+			sourceTree = "<group>";
+		};
+		6D0FFE4F243144FF00A7A121 /* 【第7周】三维可视之运算（选修） */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFE50243144FF00A7A121 /* SV13_ fsolve.py */,
+				6D0FFE51243144FF00A7A121 /* SV14_sphere 2.py */,
+				6D0FFE52243144FF00A7A121 /* SV13_leastsq 2.py */,
+				6D0FFE53243144FF00A7A121 /* SV15_convexhull3d 2.py */,
+				6D0FFE54243144FF00A7A121 /* SV14_linalg 2.py */,
+				6D0FFE55243144FF00A7A121 /* SV13_interp1d.py */,
+				6D0FFE56243144FF00A7A121 /* SV13_ fsolve 2.py */,
+				6D0FFE57243144FF00A7A121 /* SV15_ lorenz 2.py */,
+				6D0FFE58243144FF00A7A121 /* SV15_convexhull3d.py */,
+				6D0FFE59243144FF00A7A121 /* SV15_convexhull2d 2.py */,
+				6D0FFE5A243144FF00A7A121 /* SV15_ lorenz.py */,
+				6D0FFE5B243144FF00A7A121 /* SV15_convexhull2d.py */,
+				6D0FFE5C243144FF00A7A121 /* SV14_kde 2.py */,
+				6D0FFE5D243144FF00A7A121 /* SV14_sphere.py */,
+				6D0FFE5E243144FF00A7A121 /* SV13_leastsq.py */,
+				6D0FFE5F243144FF00A7A121 /* SV14_linalg.py */,
+				6D0FFE60243144FF00A7A121 /* SV13_interp1d 2.py */,
+				6D0FFE61243144FF00A7A121 /* SV14_kde.py */,
+			);
+			path = "【第7周】三维可视之运算（选修）";
+			sourceTree = "<group>";
+		};
+		6D0FFE62243144FF00A7A121 /* 科学计算三维可视化期末考试 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFE63243144FF00A7A121 /* 科学计算三维可视化-期末考试客观题试卷 2.txt */,
+				6D0FFE64243144FF00A7A121 /* 科学计算三维可视化-期末考试主观题试卷 2.txt */,
+				6D0FFE65243144FF00A7A121 /* 科学计算三维可视化-期末考试主观题试卷.txt */,
+				6D0FFE66243144FF00A7A121 /* 科学计算三维可视化-期末考试客观题试卷.txt */,
+			);
+			path = "科学计算三维可视化期末考试";
+			sourceTree = "<group>";
+		};
+		6D0FFE67243144FF00A7A121 /* 【第6周】三维可视之界面实战 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFE68243144FF00A7A121 /* SV1102_mayavi_traitsUI 2.py */,
+				6D0FFE69243144FF00A7A121 /* SV1102_mayavi_traitsUI.py */,
+				6D0FFE6A243144FF00A7A121 /* SV1101_mlab_traitsUI 2.py */,
+				6D0FFE6B243144FF00A7A121 /* SV1101_mlab_traitsUI.py */,
+			);
+			path = "【第6周】三维可视之界面实战";
+			sourceTree = "<group>";
+		};
+		6D0FFE6C243144FF00A7A121 /* 【第4周】三维可视之进阶实战 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFE6D243144FF00A7A121 /* SV07V02_canyou.py */,
+				6D0FFE6E243144FF00A7A121 /* 单元测验截止时间.txt */,
+				6D0FFE6F243144FF00A7A121 /* 第三周至第四周作业.txt */,
+				6D0FFE70243144FF00A7A121 /* SV07V03_earth_graph 2.py */,
+				6D0FFE71243144FF00A7A121 /* 第三周至第四周作业 2.txt */,
+				6D0FFE72243144FF00A7A121 /* SV07V02_canyou 2.py */,
+				6D0FFE73243144FF00A7A121 /* SV07V01_dragon.py */,
+				6D0FFE74243144FF00A7A121 /* SV07V01_dragon 2.py */,
+				6D0FFE75243144FF00A7A121 /* 单元测验截止时间 2.txt */,
+				6D0FFE76243144FF00A7A121 /* SV07V03_earth_graph.py */,
+			);
+			path = "【第4周】三维可视之进阶实战";
+			sourceTree = "<group>";
+		};
+		6D0FFE77243144FF00A7A121 /* 【第2周】三维可视之基础实战 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFE78243144FF00A7A121 /* SV03V01_PLot3D_contours.py */,
+				6D0FFE79243144FF00A7A121 /* 第二周作业 2.txt */,
+				6D0FFE7A243144FF00A7A121 /* 单元测验截止时间.txt */,
+				6D0FFE7B243144FF00A7A121 /* 第二周作业.txt */,
+				6D0FFE7C243144FF00A7A121 /* SV03V03_PLot3D_outline.py */,
+				6D0FFE7D243144FF00A7A121 /* SV03V03_PLot3D_outline 2.py */,
+				6D0FFE7E243144FF00A7A121 /* SV03V02_PLot3D_arrow.py */,
+				6D0FFE7F243144FF00A7A121 /* SV03V02_PLot3D_arrow 2.py */,
+				6D0FFE80243144FF00A7A121 /* 单元测验截止时间 2.txt */,
+				6D0FFE81243144FF00A7A121 /* SV03V01_PLot3D_contours 2.py */,
+			);
+			path = "【第2周】三维可视之基础实战";
+			sourceTree = "<group>";
+		};
+		6D0FFE82243144FF00A7A121 /* 【第3周】三维可视之高级进阶 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFE83243144FF00A7A121 /* SV06V04_colormap 2.py */,
+				6D0FFE84243144FF00A7A121 /* SV06V04_select_red_balls.py */,
+				6D0FFE85243144FF00A7A121 /* 单元测验截止时间.txt */,
+				6D0FFE86243144FF00A7A121 /* SV06V01_contour3d 2.py */,
+				6D0FFE87243144FF00A7A121 /* SV06V01_quiver3d.py */,
+				6D0FFE88243144FF00A7A121 /* SV06V01_quiver3d 2.py */,
+				6D0FFE89243144FF00A7A121 /* SV06V07_vector 2.py */,
+				6D0FFE8A243144FF00A7A121 /* SV06V01_surf.py */,
+				6D0FFE8B243144FF00A7A121 /* SV06V04_select_red_balls 2.py */,
+				6D0FFE8C243144FF00A7A121 /* SV06V03_contour3d 2.py */,
+				6D0FFE8D243144FF00A7A121 /* SV06V01_surf 2.py */,
+				6D0FFE8E243144FF00A7A121 /* SV06V01_points3d 2.py */,
+				6D0FFE8F243144FF00A7A121 /* SV06V01_contour_surf.py */,
+				6D0FFE90243144FF00A7A121 /* SV06V03_contour3d.py */,
+				6D0FFE91243144FF00A7A121 /* SV06V01_contour_surf 2.py */,
+				6D0FFE92243144FF00A7A121 /* SV06V01_points3d.py */,
+				6D0FFE93243144FF00A7A121 /* SV05V03_demo 2.py */,
+				6D0FFE94243144FF00A7A121 /* SV06V01_contour3d.py */,
+				6D0FFE95243144FF00A7A121 /* SV06V01_imshow.py */,
+				6D0FFE96243144FF00A7A121 /* SV06V01_plot3d 2.py */,
+				6D0FFE97243144FF00A7A121 /* 单元测验截止时间 2.txt */,
+				6D0FFE98243144FF00A7A121 /* SV06V07_vector.py */,
+				6D0FFE99243144FF00A7A121 /* SV06V01_plot3d.py */,
+				6D0FFE9A243144FF00A7A121 /* SV06V04_colormap.py */,
+				6D0FFE9B243144FF00A7A121 /* SV06V01_imshow 2.py */,
+				6D0FFE9C243144FF00A7A121 /* SV06V06_scalar.py */,
+				6D0FFE9D243144FF00A7A121 /* SV06V06_scalar 2.py */,
+				6D0FFE9E243144FF00A7A121 /* SV05V03_demo.py */,
+			);
+			path = "【第3周】三维可视之高级进阶";
+			sourceTree = "<group>";
+		};
+		6D0FFE9F243144FF00A7A121 /* 【第5周】三维可视之交互界面 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFEA0243144FF00A7A121 /* SV10V15_traitsU_editors.py */,
+				6D0FFEA1243144FF00A7A121 /* SV10V15_traitsU_editors 2.py */,
+				6D0FFEA2243144FF00A7A121 /* Sv09V03_traitslisten 2.py */,
+				6D0FFEA3243144FF00A7A121 /* SV10V01_traitsUI 2.py */,
+				6D0FFEA4243144FF00A7A121 /* 单元测验截止时间.txt */,
+				6D0FFEA5243144FF00A7A121 /* SV09V05_property 2.py */,
+				6D0FFEA6243144FF00A7A121 /* SV10V05_buttoneditor 2.py */,
+				6D0FFEA7243144FF00A7A121 /* SV10V02_modelmanager.py */,
+				6D0FFEA8243144FF00A7A121 /* SV09V02_traits.py */,
+				6D0FFEA9243144FF00A7A121 /* SV10V05_TextEditor 2.py */,
+				6D0FFEAA243144FF00A7A121 /* SV10V05_TextEditor.py */,
+				6D0FFEAB243144FF00A7A121 /* SV10V01_traitsUI.py */,
+				6D0FFEAC243144FF00A7A121 /* SV10V05_range 2.py */,
+				6D0FFEAD243144FF00A7A121 /* SV09V05_property.py */,
+				6D0FFEAE243144FF00A7A121 /* SV10V05_range.py */,
+				6D0FFEAF243144FF00A7A121 /* SV09V04_eventlisten.py */,
+				6D0FFEB0243144FF00A7A121 /* SV10V05_group.py */,
+				6D0FFEB1243144FF00A7A121 /* SV10V05_buttoneditor.py */,
+				6D0FFEB2243144FF00A7A121 /* 单元测验截止时间 2.txt */,
+				6D0FFEB3243144FF00A7A121 /* Sv09V03_traitslisten.py */,
+				6D0FFEB4243144FF00A7A121 /* SV09V02_traits 2.py */,
+				6D0FFEB5243144FF00A7A121 /* SV10V02_modelmanager 2.py */,
+				6D0FFEB6243144FF00A7A121 /* SV10V05_group 2.py */,
+				6D0FFEB7243144FF00A7A121 /* SV09V04_eventlisten 2.py */,
+			);
+			path = "【第5周】三维可视之交互界面";
+			sourceTree = "<group>";
+		};
+		6D0FFEB8243144FF00A7A121 /* 【第1周】三维可视之基础运用 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFEB9243144FF00A7A121 /* SV02V02_cube_ivtk 2.py */,
+				6D0FFEBA243144FF00A7A121 /* SV02V04_PLOT3DReader 2.py */,
+				6D0FFEBB243144FF00A7A121 /* SV02V02_cube_ivtk_fixed 2.py */,
+				6D0FFEBC243144FF00A7A121 /* 单元测验截止时间.txt */,
+				6D0FFEBD243144FF00A7A121 /* SV01V04_cube 2.py */,
+				6D0FFEBE243144FF00A7A121 /* SV02V02_cube_ivtk_function 2.py */,
+				6D0FFEBF243144FF00A7A121 /* SV02V03_RectilinearGrid 2.py */,
+				6D0FFEC0243144FF00A7A121 /* SV02V02_cube_ivtk.py */,
+				6D0FFEC1243144FF00A7A121 /* SV02V04_STLReader 2.py */,
+				6D0FFEC2243144FF00A7A121 /* SV01V04_cube.py */,
+				6D0FFEC3243144FF00A7A121 /* SV02V04_STLReader.py */,
+				6D0FFEC4243144FF00A7A121 /* SV02V02_cube_ivtk_fixed.py */,
+				6D0FFEC5243144FF00A7A121 /* SV02V02_cube_ivtk_function_simple 2.py */,
+				6D0FFEC6243144FF00A7A121 /* SV02V04_PLOT3DReader.py */,
+				6D0FFEC7243144FF00A7A121 /* SV02V03_RectilinearGrid.py */,
+				6D0FFEC8243144FF00A7A121 /* 单元测验截止时间 2.txt */,
+				6D0FFEC9243144FF00A7A121 /* SV02V02_cube_ivtk_function_simple.py */,
+				6D0FFECA243144FF00A7A121 /* SV02V02_cube_ivtk_function.py */,
+			);
+			path = "【第1周】三维可视之基础运用";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
