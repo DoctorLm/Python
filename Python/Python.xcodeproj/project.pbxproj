@@ -333,12 +333,97 @@
 		6D0FFEC8243144FF00A7A121 /* 单元测验截止时间 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间 2.txt"; sourceTree = "<group>"; };
 		6D0FFEC9243144FF00A7A121 /* SV02V02_cube_ivtk_function_simple.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V02_cube_ivtk_function_simple.py; sourceTree = "<group>"; };
 		6D0FFECA243144FF00A7A121 /* SV02V02_cube_ivtk_function.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V02_cube_ivtk_function.py; sourceTree = "<group>"; };
+		6D0FFECD2431453700A7A121 /* 1 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "1 2.txt"; sourceTree = "<group>"; };
+		6D0FFECE2431453700A7A121 /* 1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = 1.txt; sourceTree = "<group>"; };
+		6D0FFED12431453700A7A121 /* 2 Pandas库的Series类型.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 Pandas库的Series类型.py"; sourceTree = "<group>"; };
+		6D0FFED22431453700A7A121 /* 1 Pandas库的介绍 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 Pandas库的介绍 2.py"; sourceTree = "<group>"; };
+		6D0FFED32431453700A7A121 /* 1 Pandas库的介绍.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 Pandas库的介绍.py"; sourceTree = "<group>"; };
+		6D0FFED42431453700A7A121 /* 2 Pandas库的Series类型 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 Pandas库的Series类型 2.py"; sourceTree = "<group>"; };
+		6D0FFED72431453700A7A121 /* test.npy */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.npy; sourceTree = "<group>"; };
+		6D0FFED82431453700A7A121 /* 数据CSV文件的存储 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "数据CSV文件的存储 2.py"; sourceTree = "<group>"; };
+		6D0FFED92431453700A7A121 /* Numpy的随机函数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Numpy的随机函数.py"; sourceTree = "<group>"; };
+		6D0FFEDA2431453700A7A121 /* test 2.scv */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test 2.scv"; sourceTree = "<group>"; };
+		6D0FFEDB2431453700A7A121 /* test.scv */ = {isa = PBXFileReference; lastKnownFileType = text; path = test.scv; sourceTree = "<group>"; };
+		6D0FFEDC2431453700A7A121 /* test 2.npy */ = {isa = PBXFileReference; lastKnownFileType = file; path = "test 2.npy"; sourceTree = "<group>"; };
+		6D0FFEDD2431453700A7A121 /* Numpy的统计函数 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Numpy的统计函数 2.py"; sourceTree = "<group>"; };
+		6D0FFEDE2431453700A7A121 /* 多维数据的存取.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "多维数据的存取.py"; sourceTree = "<group>"; };
+		6D0FFEDF2431453700A7A121 /* test 2.dat */ = {isa = PBXFileReference; lastKnownFileType = file; path = "test 2.dat"; sourceTree = "<group>"; };
+		6D0FFEE02431453700A7A121 /* Numpy的随机函数 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Numpy的随机函数 2.py"; sourceTree = "<group>"; };
+		6D0FFEE12431453700A7A121 /* test.dat */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.dat; sourceTree = "<group>"; };
+		6D0FFEE22431453700A7A121 /* Numpy的统计函数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Numpy的统计函数.py"; sourceTree = "<group>"; };
+		6D0FFEE32431453700A7A121 /* 数据CSV文件的存储.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "数据CSV文件的存储.py"; sourceTree = "<group>"; };
+		6D0FFEE42431453700A7A121 /* 多维数据的存取 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "多维数据的存取 2.py"; sourceTree = "<group>"; };
+		6D0FFEE62431453700A7A121 /* 5 ndarray数组的运算 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 ndarray数组的运算 2.py"; sourceTree = "<group>"; };
+		6D0FFEE72431453700A7A121 /* 1 数据的维度.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 数据的维度.py"; sourceTree = "<group>"; };
+		6D0FFEE82431453700A7A121 /* 4 ndarray数组的操作 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 ndarray数组的操作 2.py"; sourceTree = "<group>"; };
+		6D0FFEE92431453700A7A121 /* 2 NumPy的数组对象ndarray 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 NumPy的数组对象ndarray 2.py"; sourceTree = "<group>"; };
+		6D0FFEEA2431453700A7A121 /* 3 ndarray数组的创建和变换 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 ndarray数组的创建和变换 2.py"; sourceTree = "<group>"; };
+		6D0FFEEB2431453700A7A121 /* 5 ndarray数组的运算.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 ndarray数组的运算.py"; sourceTree = "<group>"; };
+		6D0FFEEC2431453700A7A121 /* 1 数据的维度 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 数据的维度 2.py"; sourceTree = "<group>"; };
+		6D0FFEED2431453700A7A121 /* 3 ndarray数组的创建和变换.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 ndarray数组的创建和变换.py"; sourceTree = "<group>"; };
+		6D0FFEEE2431453700A7A121 /* 2 NumPy的数组对象ndarray.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 NumPy的数组对象ndarray.py"; sourceTree = "<group>"; };
+		6D0FFEEF2431453700A7A121 /* 4 ndarray数组的操作.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 ndarray数组的操作.py"; sourceTree = "<group>"; };
+		6D0FFEF12431453700A7A121 /* beijing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beijing.jpg; sourceTree = "<group>"; };
+		6D0FFEF22431453700A7A121 /* fcity 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "fcity 2.jpg"; sourceTree = "<group>"; };
+		6D0FFEF32431453700A7A121 /* HandDrawPic 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "HandDrawPic 2.py"; sourceTree = "<group>"; };
+		6D0FFEF42431453700A7A121 /* fcity.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fcity.jpg; sourceTree = "<group>"; };
+		6D0FFEF52431453700A7A121 /* 1 图像数组表示 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 图像数组表示 2.py"; sourceTree = "<group>"; };
+		6D0FFEF62431453700A7A121 /* HandDrawPic.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = HandDrawPic.py; sourceTree = "<group>"; };
+		6D0FFEF72431453700A7A121 /* 1 图像数组表示.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 图像数组表示.py"; sourceTree = "<group>"; };
+		6D0FFEF82431453700A7A121 /* 2 图像的变换.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 图像的变换.py"; sourceTree = "<group>"; };
+		6D0FFEF92431453700A7A121 /* beijing 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "beijing 2.jpg"; sourceTree = "<group>"; };
+		6D0FFEFA2431453700A7A121 /* 2 图像的变换 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 图像的变换 2.py"; sourceTree = "<group>"; };
+		6D0FFEFD2431453700A7A121 /* H1_Strain.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = H1_Strain.wav; sourceTree = "<group>"; };
+		6D0FFEFE2431453700A7A121 /* wf_template 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "wf_template 2.txt"; sourceTree = "<group>"; };
+		6D0FFEFF2431453700A7A121 /* DrawGraWave 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "DrawGraWave 2.py"; sourceTree = "<group>"; };
+		6D0FFF002431453700A7A121 /* DrawGraWave.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = DrawGraWave.py; sourceTree = "<group>"; };
+		6D0FFF012431453700A7A121 /* wf_template.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = wf_template.txt; sourceTree = "<group>"; };
+		6D0FFF022431453700A7A121 /* grawave.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = grawave.html; sourceTree = "<group>"; };
+		6D0FFF032431453700A7A121 /* L1_Strain.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = L1_Strain.wav; sourceTree = "<group>"; };
+		6D0FFF042431453700A7A121 /* grawave 2.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "grawave 2.html"; sourceTree = "<group>"; };
+		6D0FFF052431453700A7A121 /* L1_Strain 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "L1_Strain 2.wav"; sourceTree = "<group>"; };
+		6D0FFF062431453700A7A121 /* H1_Strain 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "H1_Strain 2.wav"; sourceTree = "<group>"; };
+		6D0FFF082431453700A7A121 /* 3. 修改rcParams字体来实现 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3. 修改rcParams字体来实现 2.py"; sourceTree = "<group>"; };
+		6D0FFF092431453700A7A121 /* 3. 修改rcParams字体来实现.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3. 修改rcParams字体来实现.py"; sourceTree = "<group>"; };
+		6D0FFF0A2431453700A7A121 /* 4. matplotlib调用windows系统字体 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4. matplotlib调用windows系统字体 2.py"; sourceTree = "<group>"; };
+		6D0FFF0B2431453700A7A121 /* 4. matplotlib调用windows系统字体.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4. matplotlib调用windows系统字体.py"; sourceTree = "<group>"; };
+		6D0FFF0C2431453700A7A121 /* 2. 设置字体显示中文.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2. 设置字体显示中文.py"; sourceTree = "<group>"; };
+		6D0FFF0D2431453700A7A121 /* 1.查询matplotlib系统中文字体.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1.查询matplotlib系统中文字体.py"; sourceTree = "<group>"; };
+		6D0FFF0E2431453700A7A121 /* 1.查询matplotlib系统中文字体 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1.查询matplotlib系统中文字体 2.py"; sourceTree = "<group>"; };
+		6D0FFF0F2431453700A7A121 /* 2. 设置字体显示中文 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2. 设置字体显示中文 2.py"; sourceTree = "<group>"; };
+		6D0FFF112431453700A7A121 /* 9.1 pyplot极坐标的绘制 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "9.1 pyplot极坐标的绘制 2.py"; sourceTree = "<group>"; };
+		6D0FFF122431453700A7A121 /* 10.1 pyplot散点图的绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "10.1 pyplot散点图的绘制.py"; sourceTree = "<group>"; };
+		6D0FFF132431453700A7A121 /* 8.1 pyplot直方图的绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "8.1 pyplot直方图的绘制.py"; sourceTree = "<group>"; };
+		6D0FFF142431453700A7A121 /* 6.1 pyplot的基础函数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "6.1 pyplot的基础函数.py"; sourceTree = "<group>"; };
+		6D0FFF152431453700A7A121 /* 10.1 pyplot散点图的绘制 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "10.1 pyplot散点图的绘制 2.py"; sourceTree = "<group>"; };
+		6D0FFF162431453700A7A121 /* 7.1 pyplot饼图的绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "7.1 pyplot饼图的绘制.py"; sourceTree = "<group>"; };
+		6D0FFF172431453700A7A121 /* 9.1 pyplot极坐标的绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "9.1 pyplot极坐标的绘制.py"; sourceTree = "<group>"; };
+		6D0FFF182431453700A7A121 /* 6.1 pyplot的基础函数 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "6.1 pyplot的基础函数 2.py"; sourceTree = "<group>"; };
+		6D0FFF192431453700A7A121 /* 7.1 pyplot饼图的绘制 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "7.1 pyplot饼图的绘制 2.py"; sourceTree = "<group>"; };
+		6D0FFF1A2431453700A7A121 /* 8.1 pyplot直方图的绘制 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "8.1 pyplot直方图的绘制 2.py"; sourceTree = "<group>"; };
+		6D0FFF1C2431453700A7A121 /* 4.1 pylot的文本显示函数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4.1 pylot的文本显示函数.py"; sourceTree = "<group>"; };
+		6D0FFF1D2431453700A7A121 /* 3.1 pyplot的中文显示.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3.1 pyplot的中文显示.py"; sourceTree = "<group>"; };
+		6D0FFF1E2431453700A7A121 /* 5.1 pylot的子绘图区域 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5.1 pylot的子绘图区域 2.py"; sourceTree = "<group>"; };
+		6D0FFF1F2431453700A7A121 /* 3.2 pyplot的中文显示 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3.2 pyplot的中文显示 2.py"; sourceTree = "<group>"; };
+		6D0FFF202431453700A7A121 /* 3.2 pyplot的中文显示.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3.2 pyplot的中文显示.py"; sourceTree = "<group>"; };
+		6D0FFF212431453700A7A121 /* 3.1 pyplot的中文显示 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3.1 pyplot的中文显示 2.py"; sourceTree = "<group>"; };
+		6D0FFF222431453700A7A121 /* 2.1 pyplot的plot()函数 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2.1 pyplot的plot()函数 2.py"; sourceTree = "<group>"; };
+		6D0FFF232431453700A7A121 /* 4.1 pylot的文本显示函数 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4.1 pylot的文本显示函数 2.py"; sourceTree = "<group>"; };
+		6D0FFF242431453700A7A121 /* 4.2 pylot的文本显示函数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4.2 pylot的文本显示函数.py"; sourceTree = "<group>"; };
+		6D0FFF252431453700A7A121 /* 1.1 matplotlib库的介绍.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1.1 matplotlib库的介绍.py"; sourceTree = "<group>"; };
+		6D0FFF262431453700A7A121 /* 1.2.matplotlib库的介绍.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1.2.matplotlib库的介绍.py"; sourceTree = "<group>"; };
+		6D0FFF272431453700A7A121 /* 2.1 pyplot的plot()函数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2.1 pyplot的plot()函数.py"; sourceTree = "<group>"; };
+		6D0FFF282431453700A7A121 /* 1.2.matplotlib库的介绍 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1.2.matplotlib库的介绍 2.py"; sourceTree = "<group>"; };
+		6D0FFF292431453700A7A121 /* 1.1 matplotlib库的介绍 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1.1 matplotlib库的介绍 2.py"; sourceTree = "<group>"; };
+		6D0FFF2A2431453700A7A121 /* 4.2 pylot的文本显示函数 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4.2 pylot的文本显示函数 2.py"; sourceTree = "<group>"; };
+		6D0FFF2B2431453700A7A121 /* 5.1 pylot的子绘图区域.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5.1 pylot的子绘图区域.py"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		6D0FFD332431440C00A7A121 = {
 			isa = PBXGroup;
 			children = (
+				6D0FFECB2431453700A7A121 /* 数据分析与展示 . */,
 				6D0FFE4E243144FF00A7A121 /* 科学计算三维可视化 */,
 				6D0FFD64243144BF00A7A121 /* 程序设计 */,
 				6D0FFD3A2431442C00A7A121 /* 机器学习与应用  */,
@@ -1258,6 +1343,193 @@
 				6D0FFECA243144FF00A7A121 /* SV02V02_cube_ivtk_function.py */,
 			);
 			path = "【第1周】三维可视之基础运用";
+			sourceTree = "<group>";
+		};
+		6D0FFECB2431453700A7A121 /* 数据分析与展示 . */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFECC2431453700A7A121 /* 【第0周】数据分析之前奏 */,
+				6D0FFECF2431453700A7A121 /* 【第3周】数据分析之概要 */,
+				6D0FFED52431453700A7A121 /* 【第1周】数据分析之表示 */,
+				6D0FFEFB2431453700A7A121 /* 【第2周】数据分析之展示 */,
+			);
+			path = "数据分析与展示 .";
+			sourceTree = "<group>";
+		};
+		6D0FFECC2431453700A7A121 /* 【第0周】数据分析之前奏 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFECD2431453700A7A121 /* 1 2.txt */,
+				6D0FFECE2431453700A7A121 /* 1.txt */,
+			);
+			path = "【第0周】数据分析之前奏";
+			sourceTree = "<group>";
+		};
+		6D0FFECF2431453700A7A121 /* 【第3周】数据分析之概要 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFED02431453700A7A121 /* 单元7 */,
+			);
+			path = "【第3周】数据分析之概要";
+			sourceTree = "<group>";
+		};
+		6D0FFED02431453700A7A121 /* 单元7 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFED12431453700A7A121 /* 2 Pandas库的Series类型.py */,
+				6D0FFED22431453700A7A121 /* 1 Pandas库的介绍 2.py */,
+				6D0FFED32431453700A7A121 /* 1 Pandas库的介绍.py */,
+				6D0FFED42431453700A7A121 /* 2 Pandas库的Series类型 2.py */,
+			);
+			path = "单元7";
+			sourceTree = "<group>";
+		};
+		6D0FFED52431453700A7A121 /* 【第1周】数据分析之表示 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFED62431453700A7A121 /* 单元2 NumPy数据存取与函数 */,
+				6D0FFEE52431453700A7A121 /* 单元1 NumPy库入门 */,
+				6D0FFEF02431453700A7A121 /* 单元3 实例图像手绘效果 */,
+			);
+			path = "【第1周】数据分析之表示";
+			sourceTree = "<group>";
+		};
+		6D0FFED62431453700A7A121 /* 单元2 NumPy数据存取与函数 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFED72431453700A7A121 /* test.npy */,
+				6D0FFED82431453700A7A121 /* 数据CSV文件的存储 2.py */,
+				6D0FFED92431453700A7A121 /* Numpy的随机函数.py */,
+				6D0FFEDA2431453700A7A121 /* test 2.scv */,
+				6D0FFEDB2431453700A7A121 /* test.scv */,
+				6D0FFEDC2431453700A7A121 /* test 2.npy */,
+				6D0FFEDD2431453700A7A121 /* Numpy的统计函数 2.py */,
+				6D0FFEDE2431453700A7A121 /* 多维数据的存取.py */,
+				6D0FFEDF2431453700A7A121 /* test 2.dat */,
+				6D0FFEE02431453700A7A121 /* Numpy的随机函数 2.py */,
+				6D0FFEE12431453700A7A121 /* test.dat */,
+				6D0FFEE22431453700A7A121 /* Numpy的统计函数.py */,
+				6D0FFEE32431453700A7A121 /* 数据CSV文件的存储.py */,
+				6D0FFEE42431453700A7A121 /* 多维数据的存取 2.py */,
+			);
+			path = "单元2 NumPy数据存取与函数";
+			sourceTree = "<group>";
+		};
+		6D0FFEE52431453700A7A121 /* 单元1 NumPy库入门 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFEE62431453700A7A121 /* 5 ndarray数组的运算 2.py */,
+				6D0FFEE72431453700A7A121 /* 1 数据的维度.py */,
+				6D0FFEE82431453700A7A121 /* 4 ndarray数组的操作 2.py */,
+				6D0FFEE92431453700A7A121 /* 2 NumPy的数组对象ndarray 2.py */,
+				6D0FFEEA2431453700A7A121 /* 3 ndarray数组的创建和变换 2.py */,
+				6D0FFEEB2431453700A7A121 /* 5 ndarray数组的运算.py */,
+				6D0FFEEC2431453700A7A121 /* 1 数据的维度 2.py */,
+				6D0FFEED2431453700A7A121 /* 3 ndarray数组的创建和变换.py */,
+				6D0FFEEE2431453700A7A121 /* 2 NumPy的数组对象ndarray.py */,
+				6D0FFEEF2431453700A7A121 /* 4 ndarray数组的操作.py */,
+			);
+			path = "单元1 NumPy库入门";
+			sourceTree = "<group>";
+		};
+		6D0FFEF02431453700A7A121 /* 单元3 实例图像手绘效果 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFEF12431453700A7A121 /* beijing.jpg */,
+				6D0FFEF22431453700A7A121 /* fcity 2.jpg */,
+				6D0FFEF32431453700A7A121 /* HandDrawPic 2.py */,
+				6D0FFEF42431453700A7A121 /* fcity.jpg */,
+				6D0FFEF52431453700A7A121 /* 1 图像数组表示 2.py */,
+				6D0FFEF62431453700A7A121 /* HandDrawPic.py */,
+				6D0FFEF72431453700A7A121 /* 1 图像数组表示.py */,
+				6D0FFEF82431453700A7A121 /* 2 图像的变换.py */,
+				6D0FFEF92431453700A7A121 /* beijing 2.jpg */,
+				6D0FFEFA2431453700A7A121 /* 2 图像的变换 2.py */,
+			);
+			path = "单元3 实例图像手绘效果";
+			sourceTree = "<group>";
+		};
+		6D0FFEFB2431453700A7A121 /* 【第2周】数据分析之展示 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFEFC2431453700A7A121 /* 单元6 */,
+				6D0FFF072431453700A7A121 /* 中文字体显示 */,
+				6D0FFF102431453700A7A121 /* 单元5 */,
+				6D0FFF1B2431453700A7A121 /* 单元4 */,
+			);
+			path = "【第2周】数据分析之展示";
+			sourceTree = "<group>";
+		};
+		6D0FFEFC2431453700A7A121 /* 单元6 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFEFD2431453700A7A121 /* H1_Strain.wav */,
+				6D0FFEFE2431453700A7A121 /* wf_template 2.txt */,
+				6D0FFEFF2431453700A7A121 /* DrawGraWave 2.py */,
+				6D0FFF002431453700A7A121 /* DrawGraWave.py */,
+				6D0FFF012431453700A7A121 /* wf_template.txt */,
+				6D0FFF022431453700A7A121 /* grawave.html */,
+				6D0FFF032431453700A7A121 /* L1_Strain.wav */,
+				6D0FFF042431453700A7A121 /* grawave 2.html */,
+				6D0FFF052431453700A7A121 /* L1_Strain 2.wav */,
+				6D0FFF062431453700A7A121 /* H1_Strain 2.wav */,
+			);
+			path = "单元6";
+			sourceTree = "<group>";
+		};
+		6D0FFF072431453700A7A121 /* 中文字体显示 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFF082431453700A7A121 /* 3. 修改rcParams字体来实现 2.py */,
+				6D0FFF092431453700A7A121 /* 3. 修改rcParams字体来实现.py */,
+				6D0FFF0A2431453700A7A121 /* 4. matplotlib调用windows系统字体 2.py */,
+				6D0FFF0B2431453700A7A121 /* 4. matplotlib调用windows系统字体.py */,
+				6D0FFF0C2431453700A7A121 /* 2. 设置字体显示中文.py */,
+				6D0FFF0D2431453700A7A121 /* 1.查询matplotlib系统中文字体.py */,
+				6D0FFF0E2431453700A7A121 /* 1.查询matplotlib系统中文字体 2.py */,
+				6D0FFF0F2431453700A7A121 /* 2. 设置字体显示中文 2.py */,
+			);
+			path = "中文字体显示";
+			sourceTree = "<group>";
+		};
+		6D0FFF102431453700A7A121 /* 单元5 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFF112431453700A7A121 /* 9.1 pyplot极坐标的绘制 2.py */,
+				6D0FFF122431453700A7A121 /* 10.1 pyplot散点图的绘制.py */,
+				6D0FFF132431453700A7A121 /* 8.1 pyplot直方图的绘制.py */,
+				6D0FFF142431453700A7A121 /* 6.1 pyplot的基础函数.py */,
+				6D0FFF152431453700A7A121 /* 10.1 pyplot散点图的绘制 2.py */,
+				6D0FFF162431453700A7A121 /* 7.1 pyplot饼图的绘制.py */,
+				6D0FFF172431453700A7A121 /* 9.1 pyplot极坐标的绘制.py */,
+				6D0FFF182431453700A7A121 /* 6.1 pyplot的基础函数 2.py */,
+				6D0FFF192431453700A7A121 /* 7.1 pyplot饼图的绘制 2.py */,
+				6D0FFF1A2431453700A7A121 /* 8.1 pyplot直方图的绘制 2.py */,
+			);
+			path = "单元5";
+			sourceTree = "<group>";
+		};
+		6D0FFF1B2431453700A7A121 /* 单元4 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFF1C2431453700A7A121 /* 4.1 pylot的文本显示函数.py */,
+				6D0FFF1D2431453700A7A121 /* 3.1 pyplot的中文显示.py */,
+				6D0FFF1E2431453700A7A121 /* 5.1 pylot的子绘图区域 2.py */,
+				6D0FFF1F2431453700A7A121 /* 3.2 pyplot的中文显示 2.py */,
+				6D0FFF202431453700A7A121 /* 3.2 pyplot的中文显示.py */,
+				6D0FFF212431453700A7A121 /* 3.1 pyplot的中文显示 2.py */,
+				6D0FFF222431453700A7A121 /* 2.1 pyplot的plot()函数 2.py */,
+				6D0FFF232431453700A7A121 /* 4.1 pylot的文本显示函数 2.py */,
+				6D0FFF242431453700A7A121 /* 4.2 pylot的文本显示函数.py */,
+				6D0FFF252431453700A7A121 /* 1.1 matplotlib库的介绍.py */,
+				6D0FFF262431453700A7A121 /* 1.2.matplotlib库的介绍.py */,
+				6D0FFF272431453700A7A121 /* 2.1 pyplot的plot()函数.py */,
+				6D0FFF282431453700A7A121 /* 1.2.matplotlib库的介绍 2.py */,
+				6D0FFF292431453700A7A121 /* 1.1 matplotlib库的介绍 2.py */,
+				6D0FFF2A2431453700A7A121 /* 4.2 pylot的文本显示函数 2.py */,
+				6D0FFF2B2431453700A7A121 /* 5.1 pylot的子绘图区域.py */,
+			);
+			path = "单元4";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
