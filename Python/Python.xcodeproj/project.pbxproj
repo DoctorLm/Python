@@ -417,12 +417,51 @@
 		6D0FFF292431453700A7A121 /* 1.1 matplotlib库的介绍 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1.1 matplotlib库的介绍 2.py"; sourceTree = "<group>"; };
 		6D0FFF2A2431453700A7A121 /* 4.2 pylot的文本显示函数 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4.2 pylot的文本显示函数 2.py"; sourceTree = "<group>"; };
 		6D0FFF2B2431453700A7A121 /* 5.1 pylot的子绘图区域.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5.1 pylot的子绘图区域.py"; sourceTree = "<group>"; };
+		6D0FFF2E243145B800A7A121 /* tello 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "tello 2.py"; sourceTree = "<group>"; };
+		6D0FFF2F243145B800A7A121 /* Flight 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Flight 2.py"; sourceTree = "<group>"; };
+		6D0FFF30243145B800A7A121 /* Flight.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Flight.py; sourceTree = "<group>"; };
+		6D0FFF31243145B800A7A121 /* tello.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tello.py; sourceTree = "<group>"; };
+		6D0FFF32243145B800A7A121 /* main 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "main 2.py"; sourceTree = "<group>"; };
+		6D0FFF33243145B800A7A121 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+		6D0FFF35243145B800A7A121 /* multi_tello_test.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = multi_tello_test.py; sourceTree = "<group>"; };
+		6D0FFF36243145B800A7A121 /* README(CH) 2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "README(CH) 2.md"; sourceTree = "<group>"; };
+		6D0FFF37243145B800A7A121 /* ip 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "ip 2.txt"; sourceTree = "<group>"; };
+		6D0FFF38243145B800A7A121 /* formation_setup.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = formation_setup.py; sourceTree = "<group>"; };
+		6D0FFF39243145B800A7A121 /* stats.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = stats.py; sourceTree = "<group>"; };
+		6D0FFF3A243145B800A7A121 /* tello_manager 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "tello_manager 2.py"; sourceTree = "<group>"; };
+		6D0FFF3C243145B800A7A121 /* test_for_7.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test_for_7.txt; sourceTree = "<group>"; };
+		6D0FFF3D243145B800A7A121 /* test_for_1 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_1 2.txt"; sourceTree = "<group>"; };
+		6D0FFF3E243145B800A7A121 /* test_for_3 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_3 2.txt"; sourceTree = "<group>"; };
+		6D0FFF3F243145B800A7A121 /* test_for_1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test_for_1.txt; sourceTree = "<group>"; };
+		6D0FFF40243145B800A7A121 /* test_for_7 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_7 2.txt"; sourceTree = "<group>"; };
+		6D0FFF41243145B800A7A121 /* test_for_2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test_for_2.txt; sourceTree = "<group>"; };
+		6D0FFF42243145B800A7A121 /* test_for_3.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test_for_3.txt; sourceTree = "<group>"; };
+		6D0FFF43243145B800A7A121 /* test_for_2 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_2 2.txt"; sourceTree = "<group>"; };
+		6D0FFF44243145B800A7A121 /* formation_setup 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "formation_setup 2.py"; sourceTree = "<group>"; };
+		6D0FFF45243145B800A7A121 /* ip.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ip.txt; sourceTree = "<group>"; };
+		6D0FFF46243145B800A7A121 /* README(CH).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "README(CH).md"; sourceTree = "<group>"; };
+		6D0FFF47243145B800A7A121 /* tello_manager.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tello_manager.py; sourceTree = "<group>"; };
+		6D0FFF48243145B800A7A121 /* stats 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "stats 2.py"; sourceTree = "<group>"; };
+		6D0FFF49243145B800A7A121 /* multi_tello_test 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "multi_tello_test 2.py"; sourceTree = "<group>"; };
+		6D0FFF4B243145B800A7A121 /* Tello_SDK_2.0_使用说明 2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tello_SDK_2.0_使用说明 2.pdf"; sourceTree = "<group>"; };
+		6D0FFF4C243145B800A7A121 /* Tello3 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Tello3 2.py"; sourceTree = "<group>"; };
+		6D0FFF4D243145B800A7A121 /* README 2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "README 2.md"; sourceTree = "<group>"; };
+		6D0FFF4E243145B800A7A121 /* tello 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "tello 2.py"; sourceTree = "<group>"; };
+		6D0FFF4F243145B800A7A121 /* tello.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tello.py; sourceTree = "<group>"; };
+		6D0FFF50243145B800A7A121 /* Tello3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Tello3.py; sourceTree = "<group>"; };
+		6D0FFF51243145B800A7A121 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6D0FFF52243145B800A7A121 /* Tello_SDK_2.0_使用说明.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tello_SDK_2.0_使用说明.pdf"; sourceTree = "<group>"; };
+		6D0FFF54243145B800A7A121 /* Thread 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Thread 2.py"; sourceTree = "<group>"; };
+		6D0FFF55243145B800A7A121 /* Thread.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Thread.py; sourceTree = "<group>"; };
+		6D0FFF56243145B800A7A121 /* Threading.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Threading.py; sourceTree = "<group>"; };
+		6D0FFF57243145B800A7A121 /* Threading 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Threading 2.py"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		6D0FFD332431440C00A7A121 = {
 			isa = PBXGroup;
 			children = (
+				6D0FFF2C243145B800A7A121 /* Tello EDU */,
 				6D0FFECB2431453700A7A121 /* 数据分析与展示 */,
 				6D0FFE4E243144FF00A7A121 /* 科学计算三维可视化 */,
 				6D0FFD64243144BF00A7A121 /* 程序设计 */,
@@ -1530,6 +1569,91 @@
 				6D0FFF2B2431453700A7A121 /* 5.1 pylot的子绘图区域.py */,
 			);
 			path = "单元4";
+			sourceTree = "<group>";
+		};
+		6D0FFF2C243145B800A7A121 /* Tello EDU */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFF2D243145B800A7A121 /* Workspace */,
+				6D0FFF34243145B800A7A121 /* Multi-Tello-Formation */,
+				6D0FFF4A243145B800A7A121 /* Tello_SDK_2.0 */,
+				6D0FFF53243145B800A7A121 /* Thread */,
+			);
+			path = "Tello EDU";
+			sourceTree = "<group>";
+		};
+		6D0FFF2D243145B800A7A121 /* Workspace */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFF2E243145B800A7A121 /* tello 2.py */,
+				6D0FFF2F243145B800A7A121 /* Flight 2.py */,
+				6D0FFF30243145B800A7A121 /* Flight.py */,
+				6D0FFF31243145B800A7A121 /* tello.py */,
+				6D0FFF32243145B800A7A121 /* main 2.py */,
+				6D0FFF33243145B800A7A121 /* main.py */,
+			);
+			path = Workspace;
+			sourceTree = "<group>";
+		};
+		6D0FFF34243145B800A7A121 /* Multi-Tello-Formation */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFF35243145B800A7A121 /* multi_tello_test.py */,
+				6D0FFF36243145B800A7A121 /* README(CH) 2.md */,
+				6D0FFF37243145B800A7A121 /* ip 2.txt */,
+				6D0FFF38243145B800A7A121 /* formation_setup.py */,
+				6D0FFF39243145B800A7A121 /* stats.py */,
+				6D0FFF3A243145B800A7A121 /* tello_manager 2.py */,
+				6D0FFF3B243145B800A7A121 /* example_script */,
+				6D0FFF44243145B800A7A121 /* formation_setup 2.py */,
+				6D0FFF45243145B800A7A121 /* ip.txt */,
+				6D0FFF46243145B800A7A121 /* README(CH).md */,
+				6D0FFF47243145B800A7A121 /* tello_manager.py */,
+				6D0FFF48243145B800A7A121 /* stats 2.py */,
+				6D0FFF49243145B800A7A121 /* multi_tello_test 2.py */,
+			);
+			path = "Multi-Tello-Formation";
+			sourceTree = "<group>";
+		};
+		6D0FFF3B243145B800A7A121 /* example_script */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFF3C243145B800A7A121 /* test_for_7.txt */,
+				6D0FFF3D243145B800A7A121 /* test_for_1 2.txt */,
+				6D0FFF3E243145B800A7A121 /* test_for_3 2.txt */,
+				6D0FFF3F243145B800A7A121 /* test_for_1.txt */,
+				6D0FFF40243145B800A7A121 /* test_for_7 2.txt */,
+				6D0FFF41243145B800A7A121 /* test_for_2.txt */,
+				6D0FFF42243145B800A7A121 /* test_for_3.txt */,
+				6D0FFF43243145B800A7A121 /* test_for_2 2.txt */,
+			);
+			path = example_script;
+			sourceTree = "<group>";
+		};
+		6D0FFF4A243145B800A7A121 /* Tello_SDK_2.0 */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFF4B243145B800A7A121 /* Tello_SDK_2.0_使用说明 2.pdf */,
+				6D0FFF4C243145B800A7A121 /* Tello3 2.py */,
+				6D0FFF4D243145B800A7A121 /* README 2.md */,
+				6D0FFF4E243145B800A7A121 /* tello 2.py */,
+				6D0FFF4F243145B800A7A121 /* tello.py */,
+				6D0FFF50243145B800A7A121 /* Tello3.py */,
+				6D0FFF51243145B800A7A121 /* README.md */,
+				6D0FFF52243145B800A7A121 /* Tello_SDK_2.0_使用说明.pdf */,
+			);
+			path = Tello_SDK_2.0;
+			sourceTree = "<group>";
+		};
+		6D0FFF53243145B800A7A121 /* Thread */ = {
+			isa = PBXGroup;
+			children = (
+				6D0FFF54243145B800A7A121 /* Thread 2.py */,
+				6D0FFF55243145B800A7A121 /* Thread.py */,
+				6D0FFF56243145B800A7A121 /* Threading.py */,
+				6D0FFF57243145B800A7A121 /* Threading 2.py */,
+			);
+			path = Thread;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
