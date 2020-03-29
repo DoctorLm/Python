@@ -218,36 +218,10 @@
 		6DD63AD224316C0500119E47 /* 期末大作业2(程序设计) 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "期末大作业2(程序设计) 4.py"; sourceTree = "<group>"; };
 		6DD63AD324316C0500119E47 /* 期末大作业1(程序设计) 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "期末大作业1(程序设计) 3.py"; sourceTree = "<group>"; };
 		6DD63AD424316C0500119E47 /* 期末大作业2(程序设计) 10.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "期末大作业2(程序设计) 10.py"; sourceTree = "<group>"; };
-		6DD63AD624316C0500119E47 /* 2FaceDataCollect 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2FaceDataCollect 4.py"; sourceTree = "<group>"; };
-		6DD63AD724316C0500119E47 /* 3Face_training.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = 3Face_training.py; sourceTree = "<group>"; };
 		6DD63AD824316C0500119E47 /* 3Face_training 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3Face_training 3.py"; sourceTree = "<group>"; };
-		6DD63AD924316C0500119E47 /* 4Face_recognition 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4Face_recognition 2.py"; sourceTree = "<group>"; };
 		6DD63ADA24316C0500119E47 /* 1FaceDetection.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = 1FaceDetection.py; sourceTree = "<group>"; };
-		6DD63ADB24316C0500119E47 /* 3Face_training 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3Face_training 2.py"; sourceTree = "<group>"; };
-		6DD63ADC24316C0500119E47 /* 4Face_recognition 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4Face_recognition 3.py"; sourceTree = "<group>"; };
 		6DD63ADD24316C0500119E47 /* 4Face_recognition.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = 4Face_recognition.py; sourceTree = "<group>"; };
-		6DD63ADF24316C0500119E47 /* titanic3 8.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = "titanic3 8.xls"; sourceTree = "<group>"; };
-		6DD63AE024316C0500119E47 /* main 8.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "main 8.py"; sourceTree = "<group>"; };
-		6DD63AE124316C0500119E47 /* main 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "main 3.py"; sourceTree = "<group>"; };
-		6DD63AE224316C0500119E47 /* titanic3.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = titanic3.xls; sourceTree = "<group>"; };
-		6DD63AE324316C0500119E47 /* main 7.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "main 7.py"; sourceTree = "<group>"; };
-		6DD63AE424316C0500119E47 /* main 6.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "main 6.py"; sourceTree = "<group>"; };
-		6DD63AE524316C0500119E47 /* main 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "main 2.py"; sourceTree = "<group>"; };
-		6DD63AE624316C0500119E47 /* main 5.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "main 5.py"; sourceTree = "<group>"; };
-		6DD63AE724316C0500119E47 /* main 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "main 4.py"; sourceTree = "<group>"; };
-		6DD63AE824316C0500119E47 /* titanic3 3.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = "titanic3 3.xls"; sourceTree = "<group>"; };
-		6DD63AE924316C0500119E47 /* titanic3 2.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = "titanic3 2.xls"; sourceTree = "<group>"; };
-		6DD63AEA24316C0500119E47 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
-		6DD63AEB24316C0500119E47 /* titanic3 5.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = "titanic3 5.xls"; sourceTree = "<group>"; };
-		6DD63AEC24316C0500119E47 /* titanic3 4.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = "titanic3 4.xls"; sourceTree = "<group>"; };
-		6DD63AED24316C0500119E47 /* titanic3 6.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = "titanic3 6.xls"; sourceTree = "<group>"; };
-		6DD63AEE24316C0500119E47 /* titanic3 7.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = "titanic3 7.xls"; sourceTree = "<group>"; };
 		6DD63AEF24316C0500119E47 /* 2FaceDataCollect.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = 2FaceDataCollect.py; sourceTree = "<group>"; };
-		6DD63AF024316C0500119E47 /* 2FaceDataCollect 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2FaceDataCollect 2.py"; sourceTree = "<group>"; };
-		6DD63AF124316C0500119E47 /* 1FaceDetection 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1FaceDetection 2.py"; sourceTree = "<group>"; };
-		6DD63AF224316C0500119E47 /* 4Face_recognition 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4Face_recognition 4.py"; sourceTree = "<group>"; };
-		6DD63AF324316C0500119E47 /* 3Face_training 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3Face_training 4.py"; sourceTree = "<group>"; };
-		6DD63AF424316C0500119E47 /* 2FaceDataCollect 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2FaceDataCollect 3.py"; sourceTree = "<group>"; };
 		6DD63AF724316C0500119E47 /* SV14_linalg 8.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV14_linalg 8.py"; sourceTree = "<group>"; };
 		6DD63AF824316C0500119E47 /* SV13_leastsq 7.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV13_leastsq 7.py"; sourceTree = "<group>"; };
 		6DD63AF924316C0500119E47 /* SV15_convexhull3d 7.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV15_convexhull3d 7.py"; sourceTree = "<group>"; };
@@ -2857,8 +2831,8 @@
 		6DD639F424316C0500119E47 /* 机器学习与应用  */ = {
 			isa = PBXGroup;
 			children = (
-				6DD639F524316C0500119E47 /* 【第2周】机器学习之有监督学习 */,
 				6DD63A5924316C0500119E47 /* 【第1周】机器学习之无监督学习 */,
+				6DD639F524316C0500119E47 /* 【第2周】机器学习之有监督学习 */,
 				6DD63AA924316C0500119E47 /* 【第3周】机器学习之强化学习 */,
 				6DD63ABC24316C0500119E47 /* 期末大作业（程序设计） */,
 			);
@@ -3179,59 +3153,25 @@
 		6DD63AD524316C0500119E47 /* 人脸识别 */ = {
 			isa = PBXGroup;
 			children = (
-				6DD63AD624316C0500119E47 /* 2FaceDataCollect 4.py */,
-				6DD63AD724316C0500119E47 /* 3Face_training.py */,
-				6DD63AD824316C0500119E47 /* 3Face_training 3.py */,
-				6DD63AD924316C0500119E47 /* 4Face_recognition 2.py */,
 				6DD63ADA24316C0500119E47 /* 1FaceDetection.py */,
-				6DD63ADB24316C0500119E47 /* 3Face_training 2.py */,
-				6DD63ADC24316C0500119E47 /* 4Face_recognition 3.py */,
-				6DD63ADD24316C0500119E47 /* 4Face_recognition.py */,
-				6DD63ADE24316C0500119E47 /* workspace */,
 				6DD63AEF24316C0500119E47 /* 2FaceDataCollect.py */,
-				6DD63AF024316C0500119E47 /* 2FaceDataCollect 2.py */,
-				6DD63AF124316C0500119E47 /* 1FaceDetection 2.py */,
-				6DD63AF224316C0500119E47 /* 4Face_recognition 4.py */,
-				6DD63AF324316C0500119E47 /* 3Face_training 4.py */,
-				6DD63AF424316C0500119E47 /* 2FaceDataCollect 3.py */,
+				6DD63AD824316C0500119E47 /* 3Face_training 3.py */,
+				6DD63ADD24316C0500119E47 /* 4Face_recognition.py */,
 			);
 			path = "人脸识别";
-			sourceTree = "<group>";
-		};
-		6DD63ADE24316C0500119E47 /* workspace */ = {
-			isa = PBXGroup;
-			children = (
-				6DD63ADF24316C0500119E47 /* titanic3 8.xls */,
-				6DD63AE024316C0500119E47 /* main 8.py */,
-				6DD63AE124316C0500119E47 /* main 3.py */,
-				6DD63AE224316C0500119E47 /* titanic3.xls */,
-				6DD63AE324316C0500119E47 /* main 7.py */,
-				6DD63AE424316C0500119E47 /* main 6.py */,
-				6DD63AE524316C0500119E47 /* main 2.py */,
-				6DD63AE624316C0500119E47 /* main 5.py */,
-				6DD63AE724316C0500119E47 /* main 4.py */,
-				6DD63AE824316C0500119E47 /* titanic3 3.xls */,
-				6DD63AE924316C0500119E47 /* titanic3 2.xls */,
-				6DD63AEA24316C0500119E47 /* main.py */,
-				6DD63AEB24316C0500119E47 /* titanic3 5.xls */,
-				6DD63AEC24316C0500119E47 /* titanic3 4.xls */,
-				6DD63AED24316C0500119E47 /* titanic3 6.xls */,
-				6DD63AEE24316C0500119E47 /* titanic3 7.xls */,
-			);
-			path = workspace;
 			sourceTree = "<group>";
 		};
 		6DD63AF524316C0500119E47 /* 科学计算三维可视化 */ = {
 			isa = PBXGroup;
 			children = (
-				6DD63AF624316C0500119E47 /* 【第7周】三维可视之运算（选修） */,
-				6DD63B3F24316C0500119E47 /* 科学计算三维可视化期末考试 */,
-				6DD63B5024316C0500119E47 /* 【第6周】三维可视之界面实战 */,
-				6DD63B7124316C0500119E47 /* 【第4周】三维可视之进阶实战 */,
+				6DD63DB524316C0600119E47 /* 【第1周】三维可视之基础运用 */,
 				6DD63BC224316C0500119E47 /* 【第2周】三维可视之基础实战 */,
 				6DD63C1324316C0500119E47 /* 【第3周】三维可视之高级进阶 */,
+				6DD63B7124316C0500119E47 /* 【第4周】三维可视之进阶实战 */,
 				6DD63CF424316C0600119E47 /* 【第5周】三维可视之交互界面 */,
-				6DD63DB524316C0600119E47 /* 【第1周】三维可视之基础运用 */,
+				6DD63B5024316C0500119E47 /* 【第6周】三维可视之界面实战 */,
+				6DD63AF624316C0500119E47 /* 【第7周】三维可视之运算（选修） */,
+				6DD63B3F24316C0500119E47 /* 科学计算三维可视化期末考试 */,
 			);
 			path = "科学计算三维可视化";
 			sourceTree = "<group>";
