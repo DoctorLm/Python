@@ -11,6 +11,472 @@
 		6D682EB02431795000D97BA7 /* 1FaceDetection.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = 1FaceDetection.py; sourceTree = "<group>"; };
 		6D682EB12431795000D97BA7 /* 4Face_recognition.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = 4Face_recognition.py; sourceTree = "<group>"; };
 		6D682EB22431795000D97BA7 /* 2FaceDataCollect.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = 2FaceDataCollect.py; sourceTree = "<group>"; };
+		6D682EB52431799000D97BA7 /* Flight.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Flight.py; sourceTree = "<group>"; };
+		6D682EB62431799000D97BA7 /* tello.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tello.py; sourceTree = "<group>"; };
+		6D682EB72431799000D97BA7 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+		6D682EB92431799000D97BA7 /* multi_tello_test.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = multi_tello_test.py; sourceTree = "<group>"; };
+		6D682EBA2431799000D97BA7 /* formation_setup.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = formation_setup.py; sourceTree = "<group>"; };
+		6D682EBB2431799000D97BA7 /* stats.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = stats.py; sourceTree = "<group>"; };
+		6D682EBD2431799000D97BA7 /* test_for_1 17.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_1 17.txt"; sourceTree = "<group>"; };
+		6D682EBE2431799000D97BA7 /* test_for_3 12.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_3 12.txt"; sourceTree = "<group>"; };
+		6D682EBF2431799000D97BA7 /* test_for_1 16.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_1 16.txt"; sourceTree = "<group>"; };
+		6D682EC02431799000D97BA7 /* test_for_1 14.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_1 14.txt"; sourceTree = "<group>"; };
+		6D682EC12431799000D97BA7 /* test_for_3 11.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_3 11.txt"; sourceTree = "<group>"; };
+		6D682EC22431799000D97BA7 /* test_for_3 10.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_3 10.txt"; sourceTree = "<group>"; };
+		6D682EC32431799000D97BA7 /* test_for_2 9.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_2 9.txt"; sourceTree = "<group>"; };
+		6D682EC42431799000D97BA7 /* test_for_1 15.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_1 15.txt"; sourceTree = "<group>"; };
+		6D682EC52431799000D97BA7 /* test_for_1 13.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_1 13.txt"; sourceTree = "<group>"; };
+		6D682EC62431799000D97BA7 /* test_for_3 9.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_3 9.txt"; sourceTree = "<group>"; };
+		6D682EC72431799000D97BA7 /* test_for_7 12.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_7 12.txt"; sourceTree = "<group>"; };
+		6D682EC82431799000D97BA7 /* test_for_7 9.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_7 9.txt"; sourceTree = "<group>"; };
+		6D682EC92431799000D97BA7 /* test_for_7 10.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_7 10.txt"; sourceTree = "<group>"; };
+		6D682ECA2431799000D97BA7 /* test_for_7 11.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_7 11.txt"; sourceTree = "<group>"; };
+		6D682ECB2431799000D97BA7 /* test_for_2 10.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_2 10.txt"; sourceTree = "<group>"; };
+		6D682ECC2431799000D97BA7 /* test_for_7.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test_for_7.txt; sourceTree = "<group>"; };
+		6D682ECD2431799000D97BA7 /* test_for_1 3.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_1 3.txt"; sourceTree = "<group>"; };
+		6D682ECE2431799000D97BA7 /* test_for_1 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_1 2.txt"; sourceTree = "<group>"; };
+		6D682ECF2431799000D97BA7 /* test_for_2 11.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_2 11.txt"; sourceTree = "<group>"; };
+		6D682ED02431799000D97BA7 /* test_for_7 4.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_7 4.txt"; sourceTree = "<group>"; };
+		6D682ED12431799000D97BA7 /* test_for_3 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_3 2.txt"; sourceTree = "<group>"; };
+		6D682ED22431799000D97BA7 /* test_for_3 3.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_3 3.txt"; sourceTree = "<group>"; };
+		6D682ED32431799000D97BA7 /* test_for_2 12.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_2 12.txt"; sourceTree = "<group>"; };
+		6D682ED42431799000D97BA7 /* test_for_7 3.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_7 3.txt"; sourceTree = "<group>"; };
+		6D682ED52431799000D97BA7 /* test_for_1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test_for_1.txt; sourceTree = "<group>"; };
+		6D682ED62431799000D97BA7 /* test_for_1 5.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_1 5.txt"; sourceTree = "<group>"; };
+		6D682ED72431799000D97BA7 /* test_for_1 4.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_1 4.txt"; sourceTree = "<group>"; };
+		6D682ED82431799000D97BA7 /* test_for_7 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_7 2.txt"; sourceTree = "<group>"; };
+		6D682ED92431799000D97BA7 /* test_for_2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test_for_2.txt; sourceTree = "<group>"; };
+		6D682EDA2431799000D97BA7 /* test_for_3 4.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_3 4.txt"; sourceTree = "<group>"; };
+		6D682EDB2431799000D97BA7 /* test_for_1 6.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_1 6.txt"; sourceTree = "<group>"; };
+		6D682EDC2431799000D97BA7 /* test_for_3.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test_for_3.txt; sourceTree = "<group>"; };
+		6D682EDD2431799000D97BA7 /* test_for_2 2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_2 2.txt"; sourceTree = "<group>"; };
+		6D682EDE2431799000D97BA7 /* test_for_2 3.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_2 3.txt"; sourceTree = "<group>"; };
+		6D682EDF2431799000D97BA7 /* test_for_1 18.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_1 18.txt"; sourceTree = "<group>"; };
+		6D682EE02431799000D97BA7 /* test_for_2 4.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test_for_2 4.txt"; sourceTree = "<group>"; };
+		6D682EE12431799000D97BA7 /* ip.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ip.txt; sourceTree = "<group>"; };
+		6D682EE22431799000D97BA7 /* README(CH).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "README(CH).md"; sourceTree = "<group>"; };
+		6D682EE32431799000D97BA7 /* tello_manager.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tello_manager.py; sourceTree = "<group>"; };
+		6D682EE52431799000D97BA7 /* tello.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = tello.py; sourceTree = "<group>"; };
+		6D682EE62431799000D97BA7 /* Tello3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Tello3.py; sourceTree = "<group>"; };
+		6D682EE72431799000D97BA7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6D682EE82431799000D97BA7 /* Tello_SDK_2.0_使用说明.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Tello_SDK_2.0_使用说明.pdf"; sourceTree = "<group>"; };
+		6D682EEA2431799000D97BA7 /* Thread.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Thread.py; sourceTree = "<group>"; };
+		6D682EEB2431799000D97BA7 /* Threading.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Threading.py; sourceTree = "<group>"; };
+		6D682EEE2431799D00D97BA7 /* 1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = 1.txt; sourceTree = "<group>"; };
+		6D682EF12431799D00D97BA7 /* 2 Pandas库的Series类型.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 Pandas库的Series类型.py"; sourceTree = "<group>"; };
+		6D682EF22431799D00D97BA7 /* 1 Pandas库的介绍.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 Pandas库的介绍.py"; sourceTree = "<group>"; };
+		6D682EF52431799D00D97BA7 /* test.npy */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.npy; sourceTree = "<group>"; };
+		6D682EF62431799D00D97BA7 /* Numpy的随机函数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Numpy的随机函数.py"; sourceTree = "<group>"; };
+		6D682EF72431799D00D97BA7 /* test.scv */ = {isa = PBXFileReference; lastKnownFileType = text; path = test.scv; sourceTree = "<group>"; };
+		6D682EF82431799D00D97BA7 /* 多维数据的存取.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "多维数据的存取.py"; sourceTree = "<group>"; };
+		6D682EF92431799D00D97BA7 /* test.dat */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.dat; sourceTree = "<group>"; };
+		6D682EFA2431799D00D97BA7 /* Numpy的统计函数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Numpy的统计函数.py"; sourceTree = "<group>"; };
+		6D682EFB2431799D00D97BA7 /* 数据CSV文件的存储.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "数据CSV文件的存储.py"; sourceTree = "<group>"; };
+		6D682EFD2431799D00D97BA7 /* 1 数据的维度.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 数据的维度.py"; sourceTree = "<group>"; };
+		6D682EFE2431799D00D97BA7 /* 5 ndarray数组的运算.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 ndarray数组的运算.py"; sourceTree = "<group>"; };
+		6D682EFF2431799D00D97BA7 /* 3 ndarray数组的创建和变换.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 ndarray数组的创建和变换.py"; sourceTree = "<group>"; };
+		6D682F002431799D00D97BA7 /* 2 NumPy的数组对象ndarray.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 NumPy的数组对象ndarray.py"; sourceTree = "<group>"; };
+		6D682F012431799D00D97BA7 /* 4 ndarray数组的操作.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 ndarray数组的操作.py"; sourceTree = "<group>"; };
+		6D682F032431799D00D97BA7 /* beijing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beijing.jpg; sourceTree = "<group>"; };
+		6D682F042431799D00D97BA7 /* fcity.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fcity.jpg; sourceTree = "<group>"; };
+		6D682F052431799D00D97BA7 /* HandDrawPic.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = HandDrawPic.py; sourceTree = "<group>"; };
+		6D682F062431799D00D97BA7 /* 1 图像数组表示.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 图像数组表示.py"; sourceTree = "<group>"; };
+		6D682F072431799D00D97BA7 /* 2 图像的变换.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 图像的变换.py"; sourceTree = "<group>"; };
+		6D682F0A2431799D00D97BA7 /* H1_Strain.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = H1_Strain.wav; sourceTree = "<group>"; };
+		6D682F0B2431799D00D97BA7 /* DrawGraWave.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = DrawGraWave.py; sourceTree = "<group>"; };
+		6D682F0C2431799D00D97BA7 /* wf_template.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = wf_template.txt; sourceTree = "<group>"; };
+		6D682F0D2431799D00D97BA7 /* grawave.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = grawave.html; sourceTree = "<group>"; };
+		6D682F0E2431799D00D97BA7 /* L1_Strain.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = L1_Strain.wav; sourceTree = "<group>"; };
+		6D682F102431799D00D97BA7 /* 3. 修改rcParams字体来实现.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3. 修改rcParams字体来实现.py"; sourceTree = "<group>"; };
+		6D682F112431799D00D97BA7 /* 4. matplotlib调用windows系统字体.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4. matplotlib调用windows系统字体.py"; sourceTree = "<group>"; };
+		6D682F122431799D00D97BA7 /* 2. 设置字体显示中文.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2. 设置字体显示中文.py"; sourceTree = "<group>"; };
+		6D682F132431799D00D97BA7 /* 1.查询matplotlib系统中文字体.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1.查询matplotlib系统中文字体.py"; sourceTree = "<group>"; };
+		6D682F152431799D00D97BA7 /* 10.1 pyplot散点图的绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "10.1 pyplot散点图的绘制.py"; sourceTree = "<group>"; };
+		6D682F162431799D00D97BA7 /* 8.1 pyplot直方图的绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "8.1 pyplot直方图的绘制.py"; sourceTree = "<group>"; };
+		6D682F172431799D00D97BA7 /* 6.1 pyplot的基础函数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "6.1 pyplot的基础函数.py"; sourceTree = "<group>"; };
+		6D682F182431799D00D97BA7 /* 7.1 pyplot饼图的绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "7.1 pyplot饼图的绘制.py"; sourceTree = "<group>"; };
+		6D682F192431799D00D97BA7 /* 9.1 pyplot极坐标的绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "9.1 pyplot极坐标的绘制.py"; sourceTree = "<group>"; };
+		6D682F1B2431799D00D97BA7 /* 4.1 pylot的文本显示函数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4.1 pylot的文本显示函数.py"; sourceTree = "<group>"; };
+		6D682F1C2431799D00D97BA7 /* 3.1 pyplot的中文显示.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3.1 pyplot的中文显示.py"; sourceTree = "<group>"; };
+		6D682F1D2431799D00D97BA7 /* 3.2 pyplot的中文显示.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3.2 pyplot的中文显示.py"; sourceTree = "<group>"; };
+		6D682F1E2431799D00D97BA7 /* 4.2 pylot的文本显示函数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4.2 pylot的文本显示函数.py"; sourceTree = "<group>"; };
+		6D682F1F2431799D00D97BA7 /* 1.1 matplotlib库的介绍.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1.1 matplotlib库的介绍.py"; sourceTree = "<group>"; };
+		6D682F202431799D00D97BA7 /* 1.2.matplotlib库的介绍.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1.2.matplotlib库的介绍.py"; sourceTree = "<group>"; };
+		6D682F212431799D00D97BA7 /* 2.1 pyplot的plot()函数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2.1 pyplot的plot()函数.py"; sourceTree = "<group>"; };
+		6D682F222431799D00D97BA7 /* 5.1 pylot的子绘图区域.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5.1 pylot的子绘图区域.py"; sourceTree = "<group>"; };
+		6D682F252431799D00D97BA7 /* graphics.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = graphics.py; sourceTree = "<group>"; };
+		6D682F262431799D00D97BA7 /* support.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = support.py; sourceTree = "<group>"; };
+		6D682F272431799D00D97BA7 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+		6D682F282431799D00D97BA7 /* hamlet.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = hamlet.txt; sourceTree = "<group>"; };
+		6D682F2C2431799D00D97BA7 /* PyPDF2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = PyPDF2.py; sourceTree = "<group>"; };
+		6D682F2D2431799D00D97BA7 /* NLTK.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = NLTK.py; sourceTree = "<group>"; };
+		6D682F2E2431799D00D97BA7 /* Numpy.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Numpy.py; sourceTree = "<group>"; };
+		6D682F2F2431799D00D97BA7 /* TensorFlow.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = TensorFlow.py; sourceTree = "<group>"; };
+		6D682F302431799D00D97BA7 /* Python-docx.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Python-docx.py"; sourceTree = "<group>"; };
+		6D682F322431799D00D97BA7 /* Pyramind.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Pyramind.py; sourceTree = "<group>"; };
+		6D682F332431799D00D97BA7 /* Flask.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Flask.py; sourceTree = "<group>"; };
+		6D682F342431799D00D97BA7 /* Requests.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Requests.py; sourceTree = "<group>"; };
+		6D682F362431799D00D97BA7 /* PyGObject.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = PyGObject.py; sourceTree = "<group>"; };
+		6D682F372431799D00D97BA7 /* wxPython.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = wxPython.py; sourceTree = "<group>"; };
+		6D682F382431799D00D97BA7 /* RoseDraw.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = RoseDraw.py; sourceTree = "<group>"; };
+		6D682F392431799D00D97BA7 /* HollandRadarDraw.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = HollandRadarDraw.py; sourceTree = "<group>"; };
+		6D682F3B2431799D00D97BA7 /* 8.4 模块7：os库的使用.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "8.4 模块7：os库的使用.py"; sourceTree = "<group>"; };
+		6D682F3C2431799D00D97BA7 /* BatchInstall-1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "BatchInstall-1.py"; sourceTree = "<group>"; };
+		6D682F3D2431799D00D97BA7 /* MatchAnalysis.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = MatchAnalysis.py; sourceTree = "<group>"; };
+		6D682F3E2431799D00D97BA7 /* BatchInstall-2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "BatchInstall-2.py"; sourceTree = "<group>"; };
+		6D682F412431799D00D97BA7 /* CalBMIv2 9.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv2 9.py"; sourceTree = "<group>"; };
+		6D682F422431799D00D97BA7 /* CalBMIv2 11.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv2 11.py"; sourceTree = "<group>"; };
+		6D682F432431799D00D97BA7 /* CalBMIv3 9.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv3 9.py"; sourceTree = "<group>"; };
+		6D682F442431799D00D97BA7 /* CalBMIv2 10.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv2 10.py"; sourceTree = "<group>"; };
+		6D682F452431799D00D97BA7 /* CalBMIv3 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv3 2.py"; sourceTree = "<group>"; };
+		6D682F462431799D00D97BA7 /* CalBMIv1 11.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv1 11.py"; sourceTree = "<group>"; };
+		6D682F472431799D00D97BA7 /* CalBMIv2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = CalBMIv2.py; sourceTree = "<group>"; };
+		6D682F482431799D00D97BA7 /* CalBMIv1 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv1 4.py"; sourceTree = "<group>"; };
+		6D682F492431799D00D97BA7 /* CalBMIv2 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv2 3.py"; sourceTree = "<group>"; };
+		6D682F4A2431799D00D97BA7 /* CalBMIv3 11.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv3 11.py"; sourceTree = "<group>"; };
+		6D682F4B2431799D00D97BA7 /* CalBMIv3 10.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv3 10.py"; sourceTree = "<group>"; };
+		6D682F4C2431799D00D97BA7 /* CalBMIv3 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv3 3.py"; sourceTree = "<group>"; };
+		6D682F4D2431799D00D97BA7 /* CalBMIv1 10.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv1 10.py"; sourceTree = "<group>"; };
+		6D682F4E2431799D00D97BA7 /* CalBMIv3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = CalBMIv3.py; sourceTree = "<group>"; };
+		6D682F4F2431799D00D97BA7 /* CalBMIv2 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv2 2.py"; sourceTree = "<group>"; };
+		6D682F502431799D00D97BA7 /* CalBMIv3 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv3 4.py"; sourceTree = "<group>"; };
+		6D682F512431799D00D97BA7 /* CalBMIv1 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv1 2.py"; sourceTree = "<group>"; };
+		6D682F522431799D00D97BA7 /* CalBMIv1 12.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv1 12.py"; sourceTree = "<group>"; };
+		6D682F532431799D00D97BA7 /* CalBMIv1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = CalBMIv1.py; sourceTree = "<group>"; };
+		6D682F542431799D00D97BA7 /* CalBMIv3 12.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv3 12.py"; sourceTree = "<group>"; };
+		6D682F552431799D00D97BA7 /* CalBMIv2 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv2 4.py"; sourceTree = "<group>"; };
+		6D682F562431799D00D97BA7 /* CalBMIv1 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv1 3.py"; sourceTree = "<group>"; };
+		6D682F572431799D00D97BA7 /* CalBMIv2 12.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv2 12.py"; sourceTree = "<group>"; };
+		6D682F582431799D00D97BA7 /* CalBMIv1 9.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CalBMIv1 9.py"; sourceTree = "<group>"; };
+		6D682F592431799D00D97BA7 /* 4.4 模块3：random库的使用.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4.4 模块3：random库的使用.py"; sourceTree = "<group>"; };
+		6D682F5B2431799D00D97BA7 /* CalPiV2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = CalPiV2.py; sourceTree = "<group>"; };
+		6D682F5C2431799D00D97BA7 /* CalPiV1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = CalPiV1.py; sourceTree = "<group>"; };
+		6D682F5E2431799D00D97BA7 /* 3.4 模块2：time库的使用.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3.4 模块2：time库的使用.py"; sourceTree = "<group>"; };
+		6D682F5F2431799D00D97BA7 /* 3.1 数字类型及操作.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3.1 数字类型及操作.py"; sourceTree = "<group>"; };
+		6D682F612431799D00D97BA7 /* TextProBarV1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = TextProBarV1.py; sourceTree = "<group>"; };
+		6D682F622431799D00D97BA7 /* TextProBarV3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = TextProBarV3.py; sourceTree = "<group>"; };
+		6D682F632431799D00D97BA7 /* TextProBarV2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = TextProBarV2.py; sourceTree = "<group>"; };
+		6D682F652431799D00D97BA7 /* DayDayUpQ2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = DayDayUpQ2.py; sourceTree = "<group>"; };
+		6D682F662431799D00D97BA7 /* DayDayUpQ3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = DayDayUpQ3.py; sourceTree = "<group>"; };
+		6D682F672431799D00D97BA7 /* DayDayUpQ4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = DayDayUpQ4.py; sourceTree = "<group>"; };
+		6D682F682431799D00D97BA7 /* DayDayUpQ1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = DayDayUpQ1.py; sourceTree = "<group>"; };
+		6D682F692431799D00D97BA7 /* 3.3 字符串类型及操作.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3.3 字符串类型及操作.py"; sourceTree = "<group>"; };
+		6D682F6B2431799D00D97BA7 /* Final Exam of PoAI.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Final Exam of PoAI.txt"; sourceTree = "<group>"; };
+		6D682F6D2431799D00D97BA7 /* PythonDraw.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = PythonDraw.py; sourceTree = "<group>"; };
+		6D682F6E2431799D00D97BA7 /* ScrewDraw.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = ScrewDraw.py; sourceTree = "<group>"; };
+		6D682F6F2431799D00D97BA7 /* HexagonDraw.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = HexagonDraw.py; sourceTree = "<group>"; };
+		6D682F702431799D00D97BA7 /* RectDraw.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = RectDraw.py; sourceTree = "<group>"; };
+		6D682F712431799D00D97BA7 /* WindWheel.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = WindWheel.py; sourceTree = "<group>"; };
+		6D682F722431799D00D97BA7 /* TwoRoundDraw.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = TwoRoundDraw.py; sourceTree = "<group>"; };
+		6D682F752431799D00D97BA7 /* data.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = data.txt; sourceTree = "<group>"; };
+		6D682F762431799D00D97BA7 /* AutoTraceDraw.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = AutoTraceDraw.py; sourceTree = "<group>"; };
+		6D682F782431799D00D97BA7 /* fivestart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fivestart.png; sourceTree = "<group>"; };
+		6D682F792431799D00D97BA7 /* 关于实施乡村振兴战略的意见.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "关于实施乡村振兴战略的意见.txt"; sourceTree = "<group>"; };
+		6D682F7A2431799D00D97BA7 /* GovRptWordCloudv2T3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = GovRptWordCloudv2T3.py; sourceTree = "<group>"; };
+		6D682F7B2431799D00D97BA7 /* GovRptWordCloudv1T4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = GovRptWordCloudv1T4.py; sourceTree = "<group>"; };
+		6D682F7C2431799D00D97BA7 /* GovRptWordCloudv2T2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = GovRptWordCloudv2T2.py; sourceTree = "<group>"; };
+		6D682F7D2431799D00D97BA7 /* 新时代中国特色社会主义.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "新时代中国特色社会主义.txt"; sourceTree = "<group>"; };
+		6D682F7E2431799D00D97BA7 /* GovRptWordCloudv1T1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = GovRptWordCloudv1T1.py; sourceTree = "<group>"; };
+		6D682F7F2431799D00D97BA7 /* GovRptWordCloudv2T1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = GovRptWordCloudv2T1.py; sourceTree = "<group>"; };
+		6D682F802431799D00D97BA7 /* GovRptWordCloudv1T2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = GovRptWordCloudv1T2.py; sourceTree = "<group>"; };
+		6D682F812431799D00D97BA7 /* chinamap.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chinamap.jpg; sourceTree = "<group>"; };
+		6D682F822431799D00D97BA7 /* GovRptWordCloudv1T3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = GovRptWordCloudv1T3.py; sourceTree = "<group>"; };
+		6D682F832431799D00D97BA7 /* GovRptWordCloudv2T4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = GovRptWordCloudv2T4.py; sourceTree = "<group>"; };
+		6D682F842431799D00D97BA7 /* grwordcloud.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grwordcloud.png; sourceTree = "<group>"; };
+		6D682F862431799D00D97BA7 /* 4 数据文件的写入.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 数据文件的写入.py"; sourceTree = "<group>"; };
+		6D682F872431799D00D97BA7 /* 2 文件的打开关闭.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 文件的打开关闭.py"; sourceTree = "<group>"; };
+		6D682F882431799D00D97BA7 /* 3 文件内容的读取.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 文件内容的读取.py"; sourceTree = "<group>"; };
+		6D682F892431799D00D97BA7 /* 1 文件的类型.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 文件的类型.py"; sourceTree = "<group>"; };
+		6D682F8A2431799D00D97BA7 /* f.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = f.txt; sourceTree = "<group>"; };
+		6D682F8B2431799D00D97BA7 /* output.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = output.txt; sourceTree = "<group>"; };
+		6D682F8D2431799D00D97BA7 /* TempConvert.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = TempConvert.py; sourceTree = "<group>"; };
+		6D682F902431799D00D97BA7 /* SevenDigitsDrawV1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SevenDigitsDrawV1.py; sourceTree = "<group>"; };
+		6D682F912431799D00D97BA7 /* SevenDigitsDrawV2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SevenDigitsDrawV2.py; sourceTree = "<group>"; };
+		6D682F922431799D00D97BA7 /* 5.4 模块4-Pyinstaller库的使用.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5.4 模块4-Pyinstaller库的使用.py"; sourceTree = "<group>"; };
+		6D682F932431799D00D97BA7 /* 5.1 函数的定义与使用.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5.1 函数的定义与使用.py"; sourceTree = "<group>"; };
+		6D682F942431799D00D97BA7 /* 5.3 代码复制与函数递归.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5.3 代码复制与函数递归.py"; sourceTree = "<group>"; };
+		6D682F962431799D00D97BA7 /* KochDrawV1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = KochDrawV1.py; sourceTree = "<group>"; };
+		6D682F972431799D00D97BA7 /* KochDrawV2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = KochDrawV2.py; sourceTree = "<group>"; };
+		6D682F9A2431799D00D97BA7 /* threekingdoms.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = threekingdoms.txt; sourceTree = "<group>"; };
+		6D682F9B2431799D00D97BA7 /* CalThreeKingdomsV1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = CalThreeKingdomsV1.py; sourceTree = "<group>"; };
+		6D682F9C2431799D00D97BA7 /* CalThreeKingdomsV2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = CalThreeKingdomsV2.py; sourceTree = "<group>"; };
+		6D682F9D2431799D00D97BA7 /* hamlet.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = hamlet.txt; sourceTree = "<group>"; };
+		6D682F9E2431799D00D97BA7 /* CalHamletV1.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = CalHamletV1.py; sourceTree = "<group>"; };
+		6D682F9F2431799D00D97BA7 /* 2 序列类型.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 序列类型.py"; sourceTree = "<group>"; };
+		6D682FA02431799D00D97BA7 /* 1 集合类型.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 集合类型.py"; sourceTree = "<group>"; };
+		6D682FA12431799D00D97BA7 /* 5 jieba库的使用.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 jieba库的使用.py"; sourceTree = "<group>"; };
+		6D682FA22431799D00D97BA7 /* 3 字典类型.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 字典类型.py"; sourceTree = "<group>"; };
+		6D682FA32431799D00D97BA7 /* 4 基本统计值计算.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 基本统计值计算.py"; sourceTree = "<group>"; };
+		6D682FA52431799D00D97BA7 /* HEAD.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = HEAD.py; sourceTree = "<group>"; };
+		6D682FA82431799D00D97BA7 /* 四位玫瑰数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "四位玫瑰数.py"; sourceTree = "<group>"; };
+		6D682FA92431799D00D97BA7 /* 测验4-单选题.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "测验4-单选题.txt"; sourceTree = "<group>"; };
+		6D682FAB2431799D00D97BA7 /* 实例5：身体质量指数BMI.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "实例5：身体质量指数BMI.py"; sourceTree = "<group>"; };
+		6D682FAC2431799D00D97BA7 /* 实例6：圆周率的计算.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "实例6：圆周率的计算.py"; sourceTree = "<group>"; };
+		6D682FAD2431799D00D97BA7 /* 100以内素数之和.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "100以内素数之和.py"; sourceTree = "<group>"; };
+		6D682FAF2431799D00D97BA7 /* 测验6-单选题.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "测验6-单选题.txt"; sourceTree = "<group>"; };
+		6D682FB02431799D00D97BA7 /* 人名最多数统计.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "人名最多数统计.py"; sourceTree = "<group>"; };
+		6D682FB12431799D00D97BA7 /* 数字不同数之和.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "数字不同数之和.py"; sourceTree = "<group>"; };
+		6D682FB32431799D00D97BA7 /* 1 无空隙回声输出.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 无空隙回声输出.py"; sourceTree = "<group>"; };
+		6D682FB42431799D00D97BA7 /* latex.log */ = {isa = PBXFileReference; lastKnownFileType = text; path = latex.log; sourceTree = "<group>"; };
+		6D682FB52431799D00D97BA7 /* 沉默的羔羊.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "沉默的羔羊.txt"; sourceTree = "<group>"; };
+		6D682FB62431799D00D97BA7 /* 2 文件关键行数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 文件关键行数.py"; sourceTree = "<group>"; };
+		6D682FB72431799D00D97BA7 /* 4《沉默的羔羊》之最多单词.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4《沉默的羔羊》之最多单词.py"; sourceTree = "<group>"; };
+		6D682FB82431799D00D97BA7 /* 3 字典翻转输出.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 字典翻转输出.py"; sourceTree = "<group>"; };
+		6D682FBA2431799D00D97BA7 /* 数值运算.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "数值运算.py"; sourceTree = "<group>"; };
+		6D682FBB2431799D00D97BA7 /* Hello World的条件输出.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "Hello World的条件输出.py"; sourceTree = "<group>"; };
+		6D682FBD2431799D00D97BA7 /* 3 数字形式转换 I.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 数字形式转换 I.py"; sourceTree = "<group>"; };
+		6D682FBE2431799D00D97BA7 /* 2 Hello World I.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 Hello World I.py"; sourceTree = "<group>"; };
+		6D682FBF2431799D00D97BA7 /* 5 货币转换 I .py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 货币转换 I .py"; sourceTree = "<group>"; };
+		6D682FC02431799D00D97BA7 /* 1 温度转换.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 温度转换.py"; sourceTree = "<group>"; };
+		6D682FC12431799D00D97BA7 /* 4 温度转换 II.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 温度转换 II.py"; sourceTree = "<group>"; };
+		6D682FC22431799D00D97BA7 /* 测验1-单选题.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "测验1-单选题.txt"; sourceTree = "<group>"; };
+		6D682FC42431799D00D97BA7 /* latex.log */ = {isa = PBXFileReference; lastKnownFileType = text; path = latex.log; sourceTree = "<group>"; };
+		6D682FC52431799D00D97BA7 /* 测验7-单选题.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "测验7-单选题.txt"; sourceTree = "<group>"; };
+		6D682FC62431799D00D97BA7 /* 文本的平均列数.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "文本的平均列数.py"; sourceTree = "<group>"; };
+		6D682FC72431799D00D97BA7 /* data.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = data.csv; sourceTree = "<group>"; };
+		6D682FC82431799D00D97BA7 /* CSV格式清洗与转换.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "CSV格式清洗与转换.py"; sourceTree = "<group>"; };
+		6D682FCA2431799D00D97BA7 /* 测验5-单选题.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "测验5-单选题.txt"; sourceTree = "<group>"; };
+		6D682FCB2431799D00D97BA7 /* 连续质数计算.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "连续质数计算.py"; sourceTree = "<group>"; };
+		6D682FCC2431799D00D97BA7 /* 随机密码生成.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "随机密码生成.py"; sourceTree = "<group>"; };
+		6D682FCE2431799D00D97BA7 /* 系统基本信息获取.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "系统基本信息获取.py"; sourceTree = "<group>"; };
+		6D682FCF2431799D00D97BA7 /* 二维数据表格输出.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "二维数据表格输出.py"; sourceTree = "<group>"; };
+		6D682FD02431799D00D97BA7 /* 测验9-单选题.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "测验9-单选题.txt"; sourceTree = "<group>"; };
+		6D682FD22431799D00D97BA7 /* 数字的鲁棒输入.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "数字的鲁棒输入.py"; sourceTree = "<group>"; };
+		6D682FD32431799D00D97BA7 /* 英文字符的鲁棒输入.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "英文字符的鲁棒输入.py"; sourceTree = "<group>"; };
+		6D682FD42431799D00D97BA7 /* 测验8-单选题.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "测验8-单选题.txt"; sourceTree = "<group>"; };
+		6D682FD72431799D00D97BA7 /* 3 三次方格式化.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 三次方格式化.py"; sourceTree = "<group>"; };
+		6D682FD82431799D00D97BA7 /* 2 文本进度条.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 文本进度条.py"; sourceTree = "<group>"; };
+		6D682FD92431799D00D97BA7 /* 5 恺撒密码.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 恺撒密码.py"; sourceTree = "<group>"; };
+		6D682FDA2431799D00D97BA7 /* 4 星号三角形.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 星号三角形.py"; sourceTree = "<group>"; };
+		6D682FDB2431799D00D97BA7 /* 1 天天向上的力量.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 天天向上的力量.py"; sourceTree = "<group>"; };
+		6D682FDC2431799D00D97BA7 /* 测验3-单选题.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "测验3-单选题.txt"; sourceTree = "<group>"; };
+		6D682FDD2431799D00D97BA7 /* 平方根格式化.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "平方根格式化.py"; sourceTree = "<group>"; };
+		6D682FDE2431799D00D97BA7 /* 字符串分段组合.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "字符串分段组合.py"; sourceTree = "<group>"; };
+		6D682FE02431799D00D97BA7 /* 实例1-温度转换源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例1-温度转换源代码.zip"; sourceTree = "<group>"; };
+		6D682FE12431799D00D97BA7 /* 实例2-Python蟒蛇绘制源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例2-Python蟒蛇绘制源代码.zip"; sourceTree = "<group>"; };
+		6D682FE22431799D00D97BA7 /* 实例14-第三方库安装脚本源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例14-第三方库安装脚本源代码.zip"; sourceTree = "<group>"; };
+		6D682FE32431799D00D97BA7 /* 实例4-文本进度条源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例4-文本进度条源代码.zip"; sourceTree = "<group>"; };
+		6D682FE42431799D00D97BA7 /* 实例15-霍兰德人格分析雷达图源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例15-霍兰德人格分析雷达图源代码.zip"; sourceTree = "<group>"; };
+		6D682FE52431799D00D97BA7 /* 实例6-圆周率的计算源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例6-圆周率的计算源代码.zip"; sourceTree = "<group>"; };
+		6D682FE62431799D00D97BA7 /* 实例5-身体质量指数BMI源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例5-身体质量指数BMI源代码.zip"; sourceTree = "<group>"; };
+		6D682FE72431799D00D97BA7 /* 实例10-文本词频统计源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例10-文本词频统计源代码.zip"; sourceTree = "<group>"; };
+		6D682FE82431799D00D97BA7 /* 实例7-七段数码管绘制源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例7-七段数码管绘制源代码.zip"; sourceTree = "<group>"; };
+		6D682FE92431799D00D97BA7 /* 实例8-科赫雪花小包裹源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例8-科赫雪花小包裹源代码.zip"; sourceTree = "<group>"; };
+		6D682FEA2431799D00D97BA7 /* 实例16-玫瑰花绘制源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例16-玫瑰花绘制源代码.zip"; sourceTree = "<group>"; };
+		6D682FEB2431799D00D97BA7 /* 实例3-天天向上的力量源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例3-天天向上的力量源代码.zip"; sourceTree = "<group>"; };
+		6D682FEC2431799D00D97BA7 /* 实例13-体育竞技分析源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例13-体育竞技分析源代码.zip"; sourceTree = "<group>"; };
+		6D682FED2431799D00D97BA7 /* 实例9-基本统计值计算源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例9-基本统计值计算源代码.zip"; sourceTree = "<group>"; };
+		6D682FEE2431799D00D97BA7 /* 实例12-政府工作报告词云源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例12-政府工作报告词云源代码.zip"; sourceTree = "<group>"; };
+		6D682FEF2431799D00D97BA7 /* 实例11-自动轨迹绘制源代码.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "实例11-自动轨迹绘制源代码.zip"; sourceTree = "<group>"; };
+		6D682FF22431799D00D97BA7 /* 2 turtle正方形绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 turtle正方形绘制.py"; sourceTree = "<group>"; };
+		6D682FF32431799D00D97BA7 /* 3 turtle六边形绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 turtle六边形绘制.py"; sourceTree = "<group>"; };
+		6D682FF42431799D00D97BA7 /* 1 Python蟒蛇绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 Python蟒蛇绘制.py"; sourceTree = "<group>"; };
+		6D682FF52431799D00D97BA7 /* 4 turtle叠边形绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 turtle叠边形绘制.py"; sourceTree = "<group>"; };
+		6D682FF62431799D00D97BA7 /* 5 turtle风轮绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 turtle风轮绘制.py"; sourceTree = "<group>"; };
+		6D682FF72431799D00D97BA7 /* turtle八角图形绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "turtle八角图形绘制.py"; sourceTree = "<group>"; };
+		6D682FF82431799D00D97BA7 /* 测验2-单选题.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "测验2-单选题.txt"; sourceTree = "<group>"; };
+		6D682FF92431799D00D97BA7 /* turtle八边形绘制.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "turtle八边形绘制.py"; sourceTree = "<group>"; };
+		6D682FFC2431799D00D97BA7 /* TempConvert.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = TempConvert.py; sourceTree = "<group>"; };
+		6D682FFE2431799D00D97BA7 /* matchSim.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = matchSim.py; sourceTree = "<group>"; };
+		6D6830002431799D00D97BA7 /* 2 类的方法 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 类的方法 3.py"; sourceTree = "<group>"; };
+		6D6830012431799D00D97BA7 /* 4 类的多继承 9.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 类的多继承 9.py"; sourceTree = "<group>"; };
+		6D6830022431799D00D97BA7 /* 5 类的方法重写 9.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 类的方法重写 9.py"; sourceTree = "<group>"; };
+		6D6830032431799D00D97BA7 /* DateTime 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "DateTime 2.py"; sourceTree = "<group>"; };
+		6D6830042431799D00D97BA7 /* 6 类的类属性与方法 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "6 类的类属性与方法 2.py"; sourceTree = "<group>"; };
+		6D6830052431799D00D97BA7 /* 3 类的继承 11.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 类的继承 11.py"; sourceTree = "<group>"; };
+		6D6830062431799D00D97BA7 /* 3 类的继承 10.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 类的继承 10.py"; sourceTree = "<group>"; };
+		6D6830072431799D00D97BA7 /* 5 类的方法重写 12.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 类的方法重写 12.py"; sourceTree = "<group>"; };
+		6D6830082431799D00D97BA7 /* 2 类的方法 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 类的方法 2.py"; sourceTree = "<group>"; };
+		6D6830092431799D00D97BA7 /* 3 类的继承 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 类的继承 4.py"; sourceTree = "<group>"; };
+		6D68300A2431799D00D97BA7 /* DateTime 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "DateTime 3.py"; sourceTree = "<group>"; };
+		6D68300B2431799D00D97BA7 /* 6 类的类属性与方法 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "6 类的类属性与方法 3.py"; sourceTree = "<group>"; };
+		6D68300C2431799D00D97BA7 /* 4 类的多继承 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 类的多继承 3.py"; sourceTree = "<group>"; };
+		6D68300D2431799D00D97BA7 /* 4 类的多继承 12.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 类的多继承 12.py"; sourceTree = "<group>"; };
+		6D68300E2431799D00D97BA7 /* 6 类的类属性与方法.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "6 类的类属性与方法.py"; sourceTree = "<group>"; };
+		6D68300F2431799D00D97BA7 /* 2 类的方法 9.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 类的方法 9.py"; sourceTree = "<group>"; };
+		6D6830102431799D00D97BA7 /* 5 类的方法重写.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 类的方法重写.py"; sourceTree = "<group>"; };
+		6D6830112431799D00D97BA7 /* 5 类的方法重写 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 类的方法重写 3.py"; sourceTree = "<group>"; };
+		6D6830122431799D00D97BA7 /* 1 类对象 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 类对象 4.py"; sourceTree = "<group>"; };
+		6D6830132431799D00D97BA7 /* 2 类的方法 11.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 类的方法 11.py"; sourceTree = "<group>"; };
+		6D6830142431799D00D97BA7 /* 1 类对象 12.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 类对象 12.py"; sourceTree = "<group>"; };
+		6D6830152431799D00D97BA7 /* 2 类的方法 10.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 类的方法 10.py"; sourceTree = "<group>"; };
+		6D6830162431799D00D97BA7 /* DateTime 12.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "DateTime 12.py"; sourceTree = "<group>"; };
+		6D6830172431799D00D97BA7 /* 4 类的多继承 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 类的多继承 2.py"; sourceTree = "<group>"; };
+		6D6830182431799D00D97BA7 /* DateTime 9.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "DateTime 9.py"; sourceTree = "<group>"; };
+		6D6830192431799D00D97BA7 /* 6 类的类属性与方法 9.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "6 类的类属性与方法 9.py"; sourceTree = "<group>"; };
+		6D68301A2431799D00D97BA7 /* 6 类的类属性与方法 12.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "6 类的类属性与方法 12.py"; sourceTree = "<group>"; };
+		6D68301B2431799D00D97BA7 /* 5 类的方法重写 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 类的方法重写 2.py"; sourceTree = "<group>"; };
+		6D68301C2431799D00D97BA7 /* 1 类对象 11.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 类对象 11.py"; sourceTree = "<group>"; };
+		6D68301D2431799D00D97BA7 /* 3 类的继承 9.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 类的继承 9.py"; sourceTree = "<group>"; };
+		6D68301E2431799D00D97BA7 /* 2 类的方法.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 类的方法.py"; sourceTree = "<group>"; };
+		6D68301F2431799D00D97BA7 /* DateTime 11.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "DateTime 11.py"; sourceTree = "<group>"; };
+		6D6830202431799D00D97BA7 /* 4 类的多继承 10.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 类的多继承 10.py"; sourceTree = "<group>"; };
+		6D6830212431799D00D97BA7 /* 1 类对象 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 类对象 2.py"; sourceTree = "<group>"; };
+		6D6830222431799D00D97BA7 /* 6 类的类属性与方法 11.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "6 类的类属性与方法 11.py"; sourceTree = "<group>"; };
+		6D6830232431799D00D97BA7 /* 4 类的多继承 11.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 类的多继承 11.py"; sourceTree = "<group>"; };
+		6D6830242431799D00D97BA7 /* 1 类对象 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 类对象 3.py"; sourceTree = "<group>"; };
+		6D6830252431799D00D97BA7 /* 6 类的类属性与方法 10.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "6 类的类属性与方法 10.py"; sourceTree = "<group>"; };
+		6D6830262431799D00D97BA7 /* 4 类的多继承.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 类的多继承.py"; sourceTree = "<group>"; };
+		6D6830272431799D00D97BA7 /* 1 类对象 10.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 类对象 10.py"; sourceTree = "<group>"; };
+		6D6830282431799D00D97BA7 /* 1 类对象.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 类对象.py"; sourceTree = "<group>"; };
+		6D6830292431799D00D97BA7 /* 4 类的多继承 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "4 类的多继承 4.py"; sourceTree = "<group>"; };
+		6D68302A2431799D00D97BA7 /* 2 类的方法 12.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 类的方法 12.py"; sourceTree = "<group>"; };
+		6D68302B2431799D00D97BA7 /* 5 类的方法重写 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 类的方法重写 4.py"; sourceTree = "<group>"; };
+		6D68302C2431799D00D97BA7 /* DateTime 10.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "DateTime 10.py"; sourceTree = "<group>"; };
+		6D68302D2431799D00D97BA7 /* 5 类的方法重写 11.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 类的方法重写 11.py"; sourceTree = "<group>"; };
+		6D68302E2431799D00D97BA7 /* 3 类的继承 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 类的继承 3.py"; sourceTree = "<group>"; };
+		6D68302F2431799D00D97BA7 /* 6 类的类属性与方法 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "6 类的类属性与方法 4.py"; sourceTree = "<group>"; };
+		6D6830302431799D00D97BA7 /* DateTime 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "DateTime 4.py"; sourceTree = "<group>"; };
+		6D6830312431799D00D97BA7 /* DateTime.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = DateTime.py; sourceTree = "<group>"; };
+		6D6830322431799D00D97BA7 /* 1 类对象 9.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 类对象 9.py"; sourceTree = "<group>"; };
+		6D6830332431799D00D97BA7 /* 3 类的继承.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 类的继承.py"; sourceTree = "<group>"; };
+		6D6830342431799D00D97BA7 /* 2 类的方法 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 类的方法 4.py"; sourceTree = "<group>"; };
+		6D6830352431799D00D97BA7 /* 3 类的继承 12.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 类的继承 12.py"; sourceTree = "<group>"; };
+		6D6830362431799D00D97BA7 /* 5 类的方法重写 10.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "5 类的方法重写 10.py"; sourceTree = "<group>"; };
+		6D6830372431799D00D97BA7 /* 3 类的继承 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 类的继承 2.py"; sourceTree = "<group>"; };
+		6D6830382431799D00D97BA7 /* simonegame.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = simonegame.py; sourceTree = "<group>"; };
+		6D68303A2431799D00D97BA7 /* 2 列表类型及其操作.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 列表类型及其操作.py"; sourceTree = "<group>"; };
+		6D68303B2431799D00D97BA7 /* pi.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = pi.py; sourceTree = "<group>"; };
+		6D68303C2431799D00D97BA7 /* 3 math库与random库.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "3 math库与random库.py"; sourceTree = "<group>"; };
+		6D68303D2431799D00D97BA7 /* month.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = month.py; sourceTree = "<group>"; };
+		6D68303E2431799D00D97BA7 /* 1 元组类型.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "1 元组类型.py"; sourceTree = "<group>"; };
+		6D6830402431799D00D97BA7 /* DrawPath.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = DrawPath.py; sourceTree = "<group>"; };
+		6D6830412431799D00D97BA7 /* data.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = data.txt; sourceTree = "<group>"; };
+		6D6830422431799D00D97BA7 /* hamlet.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = hamlet.txt; sourceTree = "<group>"; };
+		6D6830432431799D00D97BA7 /* Count.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Count.py; sourceTree = "<group>"; };
+		6D6830452431799D00D97BA7 /* 2 列表类型及其操作.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "2 列表类型及其操作.py"; sourceTree = "<group>"; };
+		6D6830472431799D00D97BA7 /* ColorShapes.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = ColorShapes.py; sourceTree = "<group>"; };
+		6D6830482431799D00D97BA7 /* graphics.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = graphics.py; sourceTree = "<group>"; };
+		6D6830492431799D00D97BA7 /* python_logo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = python_logo.gif; sourceTree = "<group>"; };
+		6D68304A2431799D00D97BA7 /* clock.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = clock.py; sourceTree = "<group>"; };
+		6D68304B2431799D00D97BA7 /* ConvertTempColor.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = ConvertTempColor.py; sourceTree = "<group>"; };
+		6D68304C2431799D00D97BA7 /* CatWin.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = CatWin.py; sourceTree = "<group>"; };
+		6D68304D2431799D00D97BA7 /* ConvertTempGUI.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = ConvertTempGUI.py; sourceTree = "<group>"; };
+		6D68304E2431799D00D97BA7 /* python.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = python.gif; sourceTree = "<group>"; };
+		6D68304F2431799D00D97BA7 /* KeyEvents.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = KeyEvents.py; sourceTree = "<group>"; };
+		6D6830502431799D00D97BA7 /* Snowfall.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Snowfall.py; sourceTree = "<group>"; };
+		6D6830512431799D00D97BA7 /* Rainbow.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Rainbow.py; sourceTree = "<group>"; };
+		6D6830542431799D00D97BA7 /* 监督学习课程测验.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "监督学习课程测验.rtfd"; sourceTree = "<group>"; };
+		6D6830562431799D00D97BA7 /* 岭回归.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "岭回归.py"; sourceTree = "<group>"; };
+		6D6830572431799D00D97BA7 /* 岭回归.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = "岭回归.csv"; sourceTree = "<group>"; };
+		6D6830582431799D00D97BA7 /* 多项式回归.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "多项式回归.py"; sourceTree = "<group>"; };
+		6D6830592431799D00D97BA7 /* 线性回归.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "线性回归.py"; sourceTree = "<group>"; };
+		6D68305A2431799D00D97BA7 /* prices.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = prices.txt; sourceTree = "<group>"; };
+		6D68305C2431799D00D97BA7 /* testDigits 10.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "testDigits 10.zip"; sourceTree = "<group>"; };
+		6D68305D2431799D00D97BA7 /* 神精网络实现手写视别 12.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "神精网络实现手写视别 12.py"; sourceTree = "<group>"; };
+		6D68305E2431799D00D97BA7 /* testDigits 11.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "testDigits 11.zip"; sourceTree = "<group>"; };
+		6D68305F2431799D00D97BA7 /* testDigits 12.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "testDigits 12.zip"; sourceTree = "<group>"; };
+		6D6830602431799D00D97BA7 /* trainingDigits 9.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "trainingDigits 9.zip"; sourceTree = "<group>"; };
+		6D6830612431799D00D97BA7 /* trainingDigits 11.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "trainingDigits 11.zip"; sourceTree = "<group>"; };
+		6D6830622431799D00D97BA7 /* trainingDigits 10.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "trainingDigits 10.zip"; sourceTree = "<group>"; };
+		6D6830632431799D00D97BA7 /* 神精网络实现手写视别 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "神精网络实现手写视别 4.py"; sourceTree = "<group>"; };
+		6D6830642431799D00D97BA7 /* trainingDigits 12.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "trainingDigits 12.zip"; sourceTree = "<group>"; };
+		6D6830652431799D00D97BA7 /* KNN实现手写视别.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "KNN实现手写视别.py"; sourceTree = "<group>"; };
+		6D6830662431799D00D97BA7 /* KNN实现手写视别 4.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "KNN实现手写视别 4.py"; sourceTree = "<group>"; };
+		6D6830672431799D00D97BA7 /* KNN实现手写视别 10.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "KNN实现手写视别 10.py"; sourceTree = "<group>"; };
+		6D6830682431799D00D97BA7 /* testDigits 4.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "testDigits 4.zip"; sourceTree = "<group>"; };
+		6D6830692431799D00D97BA7 /* KNN实现手写视别 11.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "KNN实现手写视别 11.py"; sourceTree = "<group>"; };
+		6D68306A2431799D00D97BA7 /* testDigits 3.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "testDigits 3.zip"; sourceTree = "<group>"; };
+		6D68306B2431799D00D97BA7 /* testDigits 2.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "testDigits 2.zip"; sourceTree = "<group>"; };
+		6D68306C2431799D00D97BA7 /* KNN实现手写视别 12.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "KNN实现手写视别 12.py"; sourceTree = "<group>"; };
+		6D68306D2431799D00D97BA7 /* KNN实现手写视别 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "KNN实现手写视别 2.py"; sourceTree = "<group>"; };
+		6D68306E2431799D00D97BA7 /* 神精网络实现手写视别 9.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "神精网络实现手写视别 9.py"; sourceTree = "<group>"; };
+		6D68306F2431799D00D97BA7 /* 神精网络实现手写视别.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "神精网络实现手写视别.py"; sourceTree = "<group>"; };
+		6D6830702431799D00D97BA7 /* testDigits 9.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "testDigits 9.zip"; sourceTree = "<group>"; };
+		6D6830712431799D00D97BA7 /* KNN实现手写视别 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "KNN实现手写视别 3.py"; sourceTree = "<group>"; };
+		6D6830722431799D00D97BA7 /* trainingDigits 2.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "trainingDigits 2.zip"; sourceTree = "<group>"; };
+		6D6830732431799D00D97BA7 /* trainingDigits 3.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "trainingDigits 3.zip"; sourceTree = "<group>"; };
+		6D6830742431799D00D97BA7 /* 神精网络实现手写视别 10.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "神精网络实现手写视别 10.py"; sourceTree = "<group>"; };
+		6D6830752431799D00D97BA7 /* 神精网络实现手写视别 3.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "神精网络实现手写视别 3.py"; sourceTree = "<group>"; };
+		6D6830762431799D00D97BA7 /* trainingDigits 4.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "trainingDigits 4.zip"; sourceTree = "<group>"; };
+		6D6830772431799D00D97BA7 /* trainingDigits.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = trainingDigits.zip; sourceTree = "<group>"; };
+		6D6830782431799D00D97BA7 /* 神精网络实现手写视别 11.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "神精网络实现手写视别 11.py"; sourceTree = "<group>"; };
+		6D6830792431799D00D97BA7 /* testDigits.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = testDigits.zip; sourceTree = "<group>"; };
+		6D68307A2431799D00D97BA7 /* 神精网络实现手写视别 2.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "神精网络实现手写视别 2.py"; sourceTree = "<group>"; };
+		6D68307B2431799D00D97BA7 /* KNN实现手写视别 9.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "KNN实现手写视别 9.py"; sourceTree = "<group>"; };
+		6D68307D2431799D00D97BA7 /* 人体运动状态信息评级.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "人体运动状态信息评级.py"; sourceTree = "<group>"; };
+		6D68307E2431799D00D97BA7 /* 上证指数涨跌预测实例.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "上证指数涨跌预测实例.py"; sourceTree = "<group>"; };
+		6D6830802431799D00D97BA7 /* 000777.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = 000777.csv; sourceTree = "<group>"; };
+		6D6830812431799D00D97BA7 /* 000777 12.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = "000777 12.csv"; sourceTree = "<group>"; };
+		6D6830822431799D00D97BA7 /* 000777 10.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = "000777 10.csv"; sourceTree = "<group>"; };
+		6D6830832431799D00D97BA7 /* 000777 11.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = "000777 11.csv"; sourceTree = "<group>"; };
+		6D6830842431799D00D97BA7 /* 000777 4.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = "000777 4.csv"; sourceTree = "<group>"; };
+		6D6830852431799D00D97BA7 /* 000777 3.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = "000777 3.csv"; sourceTree = "<group>"; };
+		6D6830862431799D00D97BA7 /* 000777 2.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = "000777 2.csv"; sourceTree = "<group>"; };
+		6D6830872431799D00D97BA7 /* 000777 9.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = "000777 9.csv"; sourceTree = "<group>"; };
+		6D68308A2431799D00D97BA7 /* city.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = city.txt; sourceTree = "<group>"; };
+		6D68308B2431799D00D97BA7 /* TestData.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = TestData.txt; sourceTree = "<group>"; };
+		6D68308C2431799D00D97BA7 /* 学生月上网时间分布.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "学生月上网时间分布.py"; sourceTree = "<group>"; };
+		6D68308D2431799D00D97BA7 /* 31省市居民家庭消费水平.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "31省市居民家庭消费水平.py"; sourceTree = "<group>"; };
+		6D68308E2431799D00D97BA7 /* 无监督学习课程测验.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "无监督学习课程测验.rtfd"; sourceTree = "<group>"; };
+		6D6830902431799D00D97BA7 /* 聚类整图分割.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "聚类整图分割.py"; sourceTree = "<group>"; };
+		6D6830912431799D00D97BA7 /* person.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = person.png; sourceTree = "<group>"; };
+		6D6830922431799D00D97BA7 /* bull.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bull.jpg; sourceTree = "<group>"; };
+		6D6830942431799D00D97BA7 /* 鸢尾花数据降维.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "鸢尾花数据降维.py"; sourceTree = "<group>"; };
+		6D6830952431799D00D97BA7 /* 人脸特征抽取与对比.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "人脸特征抽取与对比.py"; sourceTree = "<group>"; };
+		6D6830982431799D00D97BA7 /* 项目代码.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "项目代码.py"; sourceTree = "<group>"; };
+		6D68309A2431799D00D97BA7 /* Test.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Test.txt; sourceTree = "<group>"; };
+		6D68309C2431799D00D97BA7 /* 期末大作业2(程序设计).py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "期末大作业2(程序设计).py"; sourceTree = "<group>"; };
+		6D68309D2431799D00D97BA7 /* game.rar */ = {isa = PBXFileReference; lastKnownFileType = file; path = game.rar; sourceTree = "<group>"; };
+		6D68309E2431799D00D97BA7 /* 期末大作业1(程序设计).py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "期末大作业1(程序设计).py"; sourceTree = "<group>"; };
+		6D6830A12431799D00D97BA7 /* SV13_ fsolve.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV13_ fsolve.py"; sourceTree = "<group>"; };
+		6D6830A22431799D00D97BA7 /* SV13_interp1d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV13_interp1d.py; sourceTree = "<group>"; };
+		6D6830A32431799D00D97BA7 /* SV15_convexhull3d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV15_convexhull3d.py; sourceTree = "<group>"; };
+		6D6830A42431799D00D97BA7 /* SV15_ lorenz.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "SV15_ lorenz.py"; sourceTree = "<group>"; };
+		6D6830A52431799D00D97BA7 /* SV15_convexhull2d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV15_convexhull2d.py; sourceTree = "<group>"; };
+		6D6830A62431799D00D97BA7 /* SV14_sphere.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV14_sphere.py; sourceTree = "<group>"; };
+		6D6830A72431799D00D97BA7 /* SV13_leastsq.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV13_leastsq.py; sourceTree = "<group>"; };
+		6D6830A82431799D00D97BA7 /* SV14_linalg.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV14_linalg.py; sourceTree = "<group>"; };
+		6D6830A92431799D00D97BA7 /* SV14_kde.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV14_kde.py; sourceTree = "<group>"; };
+		6D6830AB2431799D00D97BA7 /* 科学计算三维可视化-期末考试主观题试卷.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "科学计算三维可视化-期末考试主观题试卷.txt"; sourceTree = "<group>"; };
+		6D6830AC2431799D00D97BA7 /* 科学计算三维可视化-期末考试客观题试卷.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "科学计算三维可视化-期末考试客观题试卷.txt"; sourceTree = "<group>"; };
+		6D6830AE2431799D00D97BA7 /* SV1102_mayavi_traitsUI.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV1102_mayavi_traitsUI.py; sourceTree = "<group>"; };
+		6D6830AF2431799D00D97BA7 /* SV1101_mlab_traitsUI.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV1101_mlab_traitsUI.py; sourceTree = "<group>"; };
+		6D6830B12431799D00D97BA7 /* SV07V02_canyou.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV07V02_canyou.py; sourceTree = "<group>"; };
+		6D6830B22431799D00D97BA7 /* 单元测验截止时间.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间.txt"; sourceTree = "<group>"; };
+		6D6830B32431799D00D97BA7 /* 第三周至第四周作业.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "第三周至第四周作业.txt"; sourceTree = "<group>"; };
+		6D6830B42431799D00D97BA7 /* SV07V01_dragon.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV07V01_dragon.py; sourceTree = "<group>"; };
+		6D6830B52431799D00D97BA7 /* SV07V03_earth_graph.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV07V03_earth_graph.py; sourceTree = "<group>"; };
+		6D6830B72431799D00D97BA7 /* SV03V01_PLot3D_contours.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV03V01_PLot3D_contours.py; sourceTree = "<group>"; };
+		6D6830B82431799D00D97BA7 /* 单元测验截止时间.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间.txt"; sourceTree = "<group>"; };
+		6D6830B92431799D00D97BA7 /* 第二周作业.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "第二周作业.txt"; sourceTree = "<group>"; };
+		6D6830BA2431799D00D97BA7 /* SV03V03_PLot3D_outline.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV03V03_PLot3D_outline.py; sourceTree = "<group>"; };
+		6D6830BB2431799D00D97BA7 /* SV03V02_PLot3D_arrow.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV03V02_PLot3D_arrow.py; sourceTree = "<group>"; };
+		6D6830BD2431799D00D97BA7 /* SV06V04_select_red_balls.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V04_select_red_balls.py; sourceTree = "<group>"; };
+		6D6830BE2431799D00D97BA7 /* 单元测验截止时间.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间.txt"; sourceTree = "<group>"; };
+		6D6830BF2431799D00D97BA7 /* SV06V01_quiver3d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V01_quiver3d.py; sourceTree = "<group>"; };
+		6D6830C02431799D00D97BA7 /* SV06V01_surf.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V01_surf.py; sourceTree = "<group>"; };
+		6D6830C12431799D00D97BA7 /* SV06V01_contour_surf.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V01_contour_surf.py; sourceTree = "<group>"; };
+		6D6830C22431799D00D97BA7 /* SV06V03_contour3d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V03_contour3d.py; sourceTree = "<group>"; };
+		6D6830C32431799D00D97BA7 /* SV06V01_points3d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V01_points3d.py; sourceTree = "<group>"; };
+		6D6830C42431799D00D97BA7 /* SV06V01_contour3d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V01_contour3d.py; sourceTree = "<group>"; };
+		6D6830C52431799D00D97BA7 /* SV06V01_imshow.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V01_imshow.py; sourceTree = "<group>"; };
+		6D6830C62431799D00D97BA7 /* SV06V07_vector.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V07_vector.py; sourceTree = "<group>"; };
+		6D6830C72431799D00D97BA7 /* SV06V01_plot3d.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V01_plot3d.py; sourceTree = "<group>"; };
+		6D6830C82431799D00D97BA7 /* SV06V04_colormap.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V04_colormap.py; sourceTree = "<group>"; };
+		6D6830C92431799D00D97BA7 /* SV06V06_scalar.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV06V06_scalar.py; sourceTree = "<group>"; };
+		6D6830CA2431799D00D97BA7 /* SV05V03_demo.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV05V03_demo.py; sourceTree = "<group>"; };
+		6D6830CC2431799D00D97BA7 /* SV10V15_traitsU_editors.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV10V15_traitsU_editors.py; sourceTree = "<group>"; };
+		6D6830CD2431799D00D97BA7 /* 单元测验截止时间.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间.txt"; sourceTree = "<group>"; };
+		6D6830CE2431799D00D97BA7 /* SV10V02_modelmanager.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV10V02_modelmanager.py; sourceTree = "<group>"; };
+		6D6830CF2431799D00D97BA7 /* SV09V02_traits.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV09V02_traits.py; sourceTree = "<group>"; };
+		6D6830D02431799D00D97BA7 /* SV10V05_TextEditor.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV10V05_TextEditor.py; sourceTree = "<group>"; };
+		6D6830D12431799D00D97BA7 /* SV10V01_traitsUI.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV10V01_traitsUI.py; sourceTree = "<group>"; };
+		6D6830D22431799D00D97BA7 /* SV09V05_property.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV09V05_property.py; sourceTree = "<group>"; };
+		6D6830D32431799D00D97BA7 /* SV10V05_range.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV10V05_range.py; sourceTree = "<group>"; };
+		6D6830D42431799D00D97BA7 /* SV09V04_eventlisten.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV09V04_eventlisten.py; sourceTree = "<group>"; };
+		6D6830D52431799D00D97BA7 /* SV10V05_group.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV10V05_group.py; sourceTree = "<group>"; };
+		6D6830D62431799D00D97BA7 /* SV10V05_buttoneditor.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV10V05_buttoneditor.py; sourceTree = "<group>"; };
+		6D6830D72431799D00D97BA7 /* Sv09V03_traitslisten.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Sv09V03_traitslisten.py; sourceTree = "<group>"; };
+		6D6830D92431799D00D97BA7 /* 单元测验截止时间.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "单元测验截止时间.txt"; sourceTree = "<group>"; };
+		6D6830DA2431799D00D97BA7 /* SV02V02_cube_ivtk.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V02_cube_ivtk.py; sourceTree = "<group>"; };
+		6D6830DB2431799D00D97BA7 /* SV01V04_cube.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV01V04_cube.py; sourceTree = "<group>"; };
+		6D6830DC2431799D00D97BA7 /* SV02V04_STLReader.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V04_STLReader.py; sourceTree = "<group>"; };
+		6D6830DD2431799D00D97BA7 /* SV02V02_cube_ivtk_fixed.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V02_cube_ivtk_fixed.py; sourceTree = "<group>"; };
+		6D6830DE2431799D00D97BA7 /* SV02V04_PLOT3DReader.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V04_PLOT3DReader.py; sourceTree = "<group>"; };
+		6D6830DF2431799D00D97BA7 /* SV02V03_RectilinearGrid.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V03_RectilinearGrid.py; sourceTree = "<group>"; };
+		6D6830E02431799D00D97BA7 /* SV02V02_cube_ivtk_function_simple.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V02_cube_ivtk_function_simple.py; sourceTree = "<group>"; };
+		6D6830E12431799D00D97BA7 /* SV02V02_cube_ivtk_function.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SV02V02_cube_ivtk_function.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -25,9 +491,1219 @@
 			path = "人脸识别";
 			sourceTree = "<group>";
 		};
+		6D682EB32431799000D97BA7 /* Tello EDU */ = {
+			isa = PBXGroup;
+			children = (
+				6D682EB42431799000D97BA7 /* Workspace */,
+				6D682EB82431799000D97BA7 /* Multi-Tello-Formation */,
+				6D682EE42431799000D97BA7 /* Tello_SDK_2.0 */,
+				6D682EE92431799000D97BA7 /* Thread */,
+			);
+			path = "Tello EDU";
+			sourceTree = "<group>";
+		};
+		6D682EB42431799000D97BA7 /* Workspace */ = {
+			isa = PBXGroup;
+			children = (
+				6D682EB52431799000D97BA7 /* Flight.py */,
+				6D682EB62431799000D97BA7 /* tello.py */,
+				6D682EB72431799000D97BA7 /* main.py */,
+			);
+			path = Workspace;
+			sourceTree = "<group>";
+		};
+		6D682EB82431799000D97BA7 /* Multi-Tello-Formation */ = {
+			isa = PBXGroup;
+			children = (
+				6D682EB92431799000D97BA7 /* multi_tello_test.py */,
+				6D682EBA2431799000D97BA7 /* formation_setup.py */,
+				6D682EBB2431799000D97BA7 /* stats.py */,
+				6D682EBC2431799000D97BA7 /* example_script */,
+				6D682EE12431799000D97BA7 /* ip.txt */,
+				6D682EE22431799000D97BA7 /* README(CH).md */,
+				6D682EE32431799000D97BA7 /* tello_manager.py */,
+			);
+			path = "Multi-Tello-Formation";
+			sourceTree = "<group>";
+		};
+		6D682EBC2431799000D97BA7 /* example_script */ = {
+			isa = PBXGroup;
+			children = (
+				6D682EBD2431799000D97BA7 /* test_for_1 17.txt */,
+				6D682EBE2431799000D97BA7 /* test_for_3 12.txt */,
+				6D682EBF2431799000D97BA7 /* test_for_1 16.txt */,
+				6D682EC02431799000D97BA7 /* test_for_1 14.txt */,
+				6D682EC12431799000D97BA7 /* test_for_3 11.txt */,
+				6D682EC22431799000D97BA7 /* test_for_3 10.txt */,
+				6D682EC32431799000D97BA7 /* test_for_2 9.txt */,
+				6D682EC42431799000D97BA7 /* test_for_1 15.txt */,
+				6D682EC52431799000D97BA7 /* test_for_1 13.txt */,
+				6D682EC62431799000D97BA7 /* test_for_3 9.txt */,
+				6D682EC72431799000D97BA7 /* test_for_7 12.txt */,
+				6D682EC82431799000D97BA7 /* test_for_7 9.txt */,
+				6D682EC92431799000D97BA7 /* test_for_7 10.txt */,
+				6D682ECA2431799000D97BA7 /* test_for_7 11.txt */,
+				6D682ECB2431799000D97BA7 /* test_for_2 10.txt */,
+				6D682ECC2431799000D97BA7 /* test_for_7.txt */,
+				6D682ECD2431799000D97BA7 /* test_for_1 3.txt */,
+				6D682ECE2431799000D97BA7 /* test_for_1 2.txt */,
+				6D682ECF2431799000D97BA7 /* test_for_2 11.txt */,
+				6D682ED02431799000D97BA7 /* test_for_7 4.txt */,
+				6D682ED12431799000D97BA7 /* test_for_3 2.txt */,
+				6D682ED22431799000D97BA7 /* test_for_3 3.txt */,
+				6D682ED32431799000D97BA7 /* test_for_2 12.txt */,
+				6D682ED42431799000D97BA7 /* test_for_7 3.txt */,
+				6D682ED52431799000D97BA7 /* test_for_1.txt */,
+				6D682ED62431799000D97BA7 /* test_for_1 5.txt */,
+				6D682ED72431799000D97BA7 /* test_for_1 4.txt */,
+				6D682ED82431799000D97BA7 /* test_for_7 2.txt */,
+				6D682ED92431799000D97BA7 /* test_for_2.txt */,
+				6D682EDA2431799000D97BA7 /* test_for_3 4.txt */,
+				6D682EDB2431799000D97BA7 /* test_for_1 6.txt */,
+				6D682EDC2431799000D97BA7 /* test_for_3.txt */,
+				6D682EDD2431799000D97BA7 /* test_for_2 2.txt */,
+				6D682EDE2431799000D97BA7 /* test_for_2 3.txt */,
+				6D682EDF2431799000D97BA7 /* test_for_1 18.txt */,
+				6D682EE02431799000D97BA7 /* test_for_2 4.txt */,
+			);
+			path = example_script;
+			sourceTree = "<group>";
+		};
+		6D682EE42431799000D97BA7 /* Tello_SDK_2.0 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682EE52431799000D97BA7 /* tello.py */,
+				6D682EE62431799000D97BA7 /* Tello3.py */,
+				6D682EE72431799000D97BA7 /* README.md */,
+				6D682EE82431799000D97BA7 /* Tello_SDK_2.0_使用说明.pdf */,
+			);
+			path = Tello_SDK_2.0;
+			sourceTree = "<group>";
+		};
+		6D682EE92431799000D97BA7 /* Thread */ = {
+			isa = PBXGroup;
+			children = (
+				6D682EEA2431799000D97BA7 /* Thread.py */,
+				6D682EEB2431799000D97BA7 /* Threading.py */,
+			);
+			path = Thread;
+			sourceTree = "<group>";
+		};
+		6D682EEC2431799D00D97BA7 /* 数据分析与展示 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682EED2431799D00D97BA7 /* 【第0周】数据分析之前奏 */,
+				6D682EEF2431799D00D97BA7 /* 【第3周】数据分析之概要 */,
+				6D682EF32431799D00D97BA7 /* 【第1周】数据分析之表示 */,
+				6D682F082431799D00D97BA7 /* 【第2周】数据分析之展示 */,
+			);
+			path = "数据分析与展示";
+			sourceTree = "<group>";
+		};
+		6D682EED2431799D00D97BA7 /* 【第0周】数据分析之前奏 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682EEE2431799D00D97BA7 /* 1.txt */,
+			);
+			path = "【第0周】数据分析之前奏";
+			sourceTree = "<group>";
+		};
+		6D682EEF2431799D00D97BA7 /* 【第3周】数据分析之概要 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682EF02431799D00D97BA7 /* 单元7 */,
+			);
+			path = "【第3周】数据分析之概要";
+			sourceTree = "<group>";
+		};
+		6D682EF02431799D00D97BA7 /* 单元7 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682EF12431799D00D97BA7 /* 2 Pandas库的Series类型.py */,
+				6D682EF22431799D00D97BA7 /* 1 Pandas库的介绍.py */,
+			);
+			path = "单元7";
+			sourceTree = "<group>";
+		};
+		6D682EF32431799D00D97BA7 /* 【第1周】数据分析之表示 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682EF42431799D00D97BA7 /* 单元2 NumPy数据存取与函数 */,
+				6D682EFC2431799D00D97BA7 /* 单元1 NumPy库入门 */,
+				6D682F022431799D00D97BA7 /* 单元3 实例图像手绘效果 */,
+			);
+			path = "【第1周】数据分析之表示";
+			sourceTree = "<group>";
+		};
+		6D682EF42431799D00D97BA7 /* 单元2 NumPy数据存取与函数 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682EF52431799D00D97BA7 /* test.npy */,
+				6D682EF62431799D00D97BA7 /* Numpy的随机函数.py */,
+				6D682EF72431799D00D97BA7 /* test.scv */,
+				6D682EF82431799D00D97BA7 /* 多维数据的存取.py */,
+				6D682EF92431799D00D97BA7 /* test.dat */,
+				6D682EFA2431799D00D97BA7 /* Numpy的统计函数.py */,
+				6D682EFB2431799D00D97BA7 /* 数据CSV文件的存储.py */,
+			);
+			path = "单元2 NumPy数据存取与函数";
+			sourceTree = "<group>";
+		};
+		6D682EFC2431799D00D97BA7 /* 单元1 NumPy库入门 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682EFD2431799D00D97BA7 /* 1 数据的维度.py */,
+				6D682EFE2431799D00D97BA7 /* 5 ndarray数组的运算.py */,
+				6D682EFF2431799D00D97BA7 /* 3 ndarray数组的创建和变换.py */,
+				6D682F002431799D00D97BA7 /* 2 NumPy的数组对象ndarray.py */,
+				6D682F012431799D00D97BA7 /* 4 ndarray数组的操作.py */,
+			);
+			path = "单元1 NumPy库入门";
+			sourceTree = "<group>";
+		};
+		6D682F022431799D00D97BA7 /* 单元3 实例图像手绘效果 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F032431799D00D97BA7 /* beijing.jpg */,
+				6D682F042431799D00D97BA7 /* fcity.jpg */,
+				6D682F052431799D00D97BA7 /* HandDrawPic.py */,
+				6D682F062431799D00D97BA7 /* 1 图像数组表示.py */,
+				6D682F072431799D00D97BA7 /* 2 图像的变换.py */,
+			);
+			path = "单元3 实例图像手绘效果";
+			sourceTree = "<group>";
+		};
+		6D682F082431799D00D97BA7 /* 【第2周】数据分析之展示 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F092431799D00D97BA7 /* 单元6 */,
+				6D682F0F2431799D00D97BA7 /* 中文字体显示 */,
+				6D682F142431799D00D97BA7 /* 单元5 */,
+				6D682F1A2431799D00D97BA7 /* 单元4 */,
+			);
+			path = "【第2周】数据分析之展示";
+			sourceTree = "<group>";
+		};
+		6D682F092431799D00D97BA7 /* 单元6 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F0A2431799D00D97BA7 /* H1_Strain.wav */,
+				6D682F0B2431799D00D97BA7 /* DrawGraWave.py */,
+				6D682F0C2431799D00D97BA7 /* wf_template.txt */,
+				6D682F0D2431799D00D97BA7 /* grawave.html */,
+				6D682F0E2431799D00D97BA7 /* L1_Strain.wav */,
+			);
+			path = "单元6";
+			sourceTree = "<group>";
+		};
+		6D682F0F2431799D00D97BA7 /* 中文字体显示 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F102431799D00D97BA7 /* 3. 修改rcParams字体来实现.py */,
+				6D682F112431799D00D97BA7 /* 4. matplotlib调用windows系统字体.py */,
+				6D682F122431799D00D97BA7 /* 2. 设置字体显示中文.py */,
+				6D682F132431799D00D97BA7 /* 1.查询matplotlib系统中文字体.py */,
+			);
+			path = "中文字体显示";
+			sourceTree = "<group>";
+		};
+		6D682F142431799D00D97BA7 /* 单元5 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F152431799D00D97BA7 /* 10.1 pyplot散点图的绘制.py */,
+				6D682F162431799D00D97BA7 /* 8.1 pyplot直方图的绘制.py */,
+				6D682F172431799D00D97BA7 /* 6.1 pyplot的基础函数.py */,
+				6D682F182431799D00D97BA7 /* 7.1 pyplot饼图的绘制.py */,
+				6D682F192431799D00D97BA7 /* 9.1 pyplot极坐标的绘制.py */,
+			);
+			path = "单元5";
+			sourceTree = "<group>";
+		};
+		6D682F1A2431799D00D97BA7 /* 单元4 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F1B2431799D00D97BA7 /* 4.1 pylot的文本显示函数.py */,
+				6D682F1C2431799D00D97BA7 /* 3.1 pyplot的中文显示.py */,
+				6D682F1D2431799D00D97BA7 /* 3.2 pyplot的中文显示.py */,
+				6D682F1E2431799D00D97BA7 /* 4.2 pylot的文本显示函数.py */,
+				6D682F1F2431799D00D97BA7 /* 1.1 matplotlib库的介绍.py */,
+				6D682F202431799D00D97BA7 /* 1.2.matplotlib库的介绍.py */,
+				6D682F212431799D00D97BA7 /* 2.1 pyplot的plot()函数.py */,
+				6D682F222431799D00D97BA7 /* 5.1 pylot的子绘图区域.py */,
+			);
+			path = "单元4";
+			sourceTree = "<group>";
+		};
+		6D682F232431799D00D97BA7 /* 程序设计 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F242431799D00D97BA7 /* Workspace */,
+				6D682F292431799D00D97BA7 /* 程序设计 */,
+				6D682FA62431799D00D97BA7 /* 程序设计 (第8期) */,
+				6D682FFA2431799D00D97BA7 /* Python语言CAP */,
+			);
+			path = "程序设计";
+			sourceTree = "<group>";
+		};
+		6D682F242431799D00D97BA7 /* Workspace */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F252431799D00D97BA7 /* graphics.py */,
+				6D682F262431799D00D97BA7 /* support.py */,
+				6D682F272431799D00D97BA7 /* main.py */,
+				6D682F282431799D00D97BA7 /* hamlet.txt */,
+			);
+			path = Workspace;
+			sourceTree = "<group>";
+		};
+		6D682F292431799D00D97BA7 /* 程序设计 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F2A2431799D00D97BA7 /* 【第09周】Python计算生态概览 */,
+				6D682F3A2431799D00D97BA7 /* 【第08周】程序设计方法学 */,
+				6D682F3F2431799D00D97BA7 /* 【第04周】程序的控制结构 */,
+				6D682F5D2431799D00D97BA7 /* 【第03周】基本数据类型 */,
+				6D682F6A2431799D00D97BA7 /* 【第10周】全课程总结与学习展望 */,
+				6D682F6C2431799D00D97BA7 /* 【第02周】Python基本图形绘制 */,
+				6D682F732431799D00D97BA7 /* 【第07周】文件和数据格式化 */,
+				6D682F8C2431799D00D97BA7 /* 【第01周】Python基本语法元素 */,
+				6D682F8E2431799D00D97BA7 /* 【第05周】函数和代码复用 */,
+				6D682F982431799D00D97BA7 /* 【第06周】组合数据类型 */,
+				6D682FA42431799D00D97BA7 /* 【第00周】课程导学 */,
+			);
+			path = "程序设计";
+			sourceTree = "<group>";
+		};
+		6D682F2A2431799D00D97BA7 /* 【第09周】Python计算生态概览 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F2B2431799D00D97BA7 /* 从数据处理到人工智能 */,
+				6D682F312431799D00D97BA7 /* 从Web解析到网络空间  */,
+				6D682F352431799D00D97BA7 /* 从人机交互到艺术设计  */,
+				6D682F382431799D00D97BA7 /* RoseDraw.py */,
+				6D682F392431799D00D97BA7 /* HollandRadarDraw.py */,
+			);
+			path = "【第09周】Python计算生态概览";
+			sourceTree = "<group>";
+		};
+		6D682F2B2431799D00D97BA7 /* 从数据处理到人工智能 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F2C2431799D00D97BA7 /* PyPDF2.py */,
+				6D682F2D2431799D00D97BA7 /* NLTK.py */,
+				6D682F2E2431799D00D97BA7 /* Numpy.py */,
+				6D682F2F2431799D00D97BA7 /* TensorFlow.py */,
+				6D682F302431799D00D97BA7 /* Python-docx.py */,
+			);
+			path = "从数据处理到人工智能";
+			sourceTree = "<group>";
+		};
+		6D682F312431799D00D97BA7 /* 从Web解析到网络空间  */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F322431799D00D97BA7 /* Pyramind.py */,
+				6D682F332431799D00D97BA7 /* Flask.py */,
+				6D682F342431799D00D97BA7 /* Requests.py */,
+			);
+			path = "从Web解析到网络空间 ";
+			sourceTree = "<group>";
+		};
+		6D682F352431799D00D97BA7 /* 从人机交互到艺术设计  */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F362431799D00D97BA7 /* PyGObject.py */,
+				6D682F372431799D00D97BA7 /* wxPython.py */,
+			);
+			path = "从人机交互到艺术设计 ";
+			sourceTree = "<group>";
+		};
+		6D682F3A2431799D00D97BA7 /* 【第08周】程序设计方法学 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F3B2431799D00D97BA7 /* 8.4 模块7：os库的使用.py */,
+				6D682F3C2431799D00D97BA7 /* BatchInstall-1.py */,
+				6D682F3D2431799D00D97BA7 /* MatchAnalysis.py */,
+				6D682F3E2431799D00D97BA7 /* BatchInstall-2.py */,
+			);
+			path = "【第08周】程序设计方法学";
+			sourceTree = "<group>";
+		};
+		6D682F3F2431799D00D97BA7 /* 【第04周】程序的控制结构 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F402431799D00D97BA7 /* 4.2 实例5：身体质量指数BMI源代码 */,
+				6D682F592431799D00D97BA7 /* 4.4 模块3：random库的使用.py */,
+				6D682F5A2431799D00D97BA7 /* 4.5 实例6：圆周率的计算源代码 */,
+			);
+			path = "【第04周】程序的控制结构";
+			sourceTree = "<group>";
+		};
+		6D682F402431799D00D97BA7 /* 4.2 实例5：身体质量指数BMI源代码 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F412431799D00D97BA7 /* CalBMIv2 9.py */,
+				6D682F422431799D00D97BA7 /* CalBMIv2 11.py */,
+				6D682F432431799D00D97BA7 /* CalBMIv3 9.py */,
+				6D682F442431799D00D97BA7 /* CalBMIv2 10.py */,
+				6D682F452431799D00D97BA7 /* CalBMIv3 2.py */,
+				6D682F462431799D00D97BA7 /* CalBMIv1 11.py */,
+				6D682F472431799D00D97BA7 /* CalBMIv2.py */,
+				6D682F482431799D00D97BA7 /* CalBMIv1 4.py */,
+				6D682F492431799D00D97BA7 /* CalBMIv2 3.py */,
+				6D682F4A2431799D00D97BA7 /* CalBMIv3 11.py */,
+				6D682F4B2431799D00D97BA7 /* CalBMIv3 10.py */,
+				6D682F4C2431799D00D97BA7 /* CalBMIv3 3.py */,
+				6D682F4D2431799D00D97BA7 /* CalBMIv1 10.py */,
+				6D682F4E2431799D00D97BA7 /* CalBMIv3.py */,
+				6D682F4F2431799D00D97BA7 /* CalBMIv2 2.py */,
+				6D682F502431799D00D97BA7 /* CalBMIv3 4.py */,
+				6D682F512431799D00D97BA7 /* CalBMIv1 2.py */,
+				6D682F522431799D00D97BA7 /* CalBMIv1 12.py */,
+				6D682F532431799D00D97BA7 /* CalBMIv1.py */,
+				6D682F542431799D00D97BA7 /* CalBMIv3 12.py */,
+				6D682F552431799D00D97BA7 /* CalBMIv2 4.py */,
+				6D682F562431799D00D97BA7 /* CalBMIv1 3.py */,
+				6D682F572431799D00D97BA7 /* CalBMIv2 12.py */,
+				6D682F582431799D00D97BA7 /* CalBMIv1 9.py */,
+			);
+			path = "4.2 实例5：身体质量指数BMI源代码";
+			sourceTree = "<group>";
+		};
+		6D682F5A2431799D00D97BA7 /* 4.5 实例6：圆周率的计算源代码 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F5B2431799D00D97BA7 /* CalPiV2.py */,
+				6D682F5C2431799D00D97BA7 /* CalPiV1.py */,
+			);
+			path = "4.5 实例6：圆周率的计算源代码";
+			sourceTree = "<group>";
+		};
+		6D682F5D2431799D00D97BA7 /* 【第03周】基本数据类型 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F5E2431799D00D97BA7 /* 3.4 模块2：time库的使用.py */,
+				6D682F5F2431799D00D97BA7 /* 3.1 数字类型及操作.py */,
+				6D682F602431799D00D97BA7 /* 实例4-文本进度条源代码 */,
+				6D682F642431799D00D97BA7 /* 实例3-天天向上的力量源代码 */,
+				6D682F692431799D00D97BA7 /* 3.3 字符串类型及操作.py */,
+			);
+			path = "【第03周】基本数据类型";
+			sourceTree = "<group>";
+		};
+		6D682F602431799D00D97BA7 /* 实例4-文本进度条源代码 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F612431799D00D97BA7 /* TextProBarV1.py */,
+				6D682F622431799D00D97BA7 /* TextProBarV3.py */,
+				6D682F632431799D00D97BA7 /* TextProBarV2.py */,
+			);
+			path = "实例4-文本进度条源代码";
+			sourceTree = "<group>";
+		};
+		6D682F642431799D00D97BA7 /* 实例3-天天向上的力量源代码 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F652431799D00D97BA7 /* DayDayUpQ2.py */,
+				6D682F662431799D00D97BA7 /* DayDayUpQ3.py */,
+				6D682F672431799D00D97BA7 /* DayDayUpQ4.py */,
+				6D682F682431799D00D97BA7 /* DayDayUpQ1.py */,
+			);
+			path = "实例3-天天向上的力量源代码";
+			sourceTree = "<group>";
+		};
+		6D682F6A2431799D00D97BA7 /* 【第10周】全课程总结与学习展望 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F6B2431799D00D97BA7 /* Final Exam of PoAI.txt */,
+			);
+			path = "【第10周】全课程总结与学习展望";
+			sourceTree = "<group>";
+		};
+		6D682F6C2431799D00D97BA7 /* 【第02周】Python基本图形绘制 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F6D2431799D00D97BA7 /* PythonDraw.py */,
+				6D682F6E2431799D00D97BA7 /* ScrewDraw.py */,
+				6D682F6F2431799D00D97BA7 /* HexagonDraw.py */,
+				6D682F702431799D00D97BA7 /* RectDraw.py */,
+				6D682F712431799D00D97BA7 /* WindWheel.py */,
+				6D682F722431799D00D97BA7 /* TwoRoundDraw.py */,
+			);
+			path = "【第02周】Python基本图形绘制";
+			sourceTree = "<group>";
+		};
+		6D682F732431799D00D97BA7 /* 【第07周】文件和数据格式化 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F742431799D00D97BA7 /* 实例11-自动轨迹绘制源代码 */,
+				6D682F772431799D00D97BA7 /* 实例12-政府工作报告词云源代码 */,
+				6D682F852431799D00D97BA7 /* 文件的使用 */,
+			);
+			path = "【第07周】文件和数据格式化";
+			sourceTree = "<group>";
+		};
+		6D682F742431799D00D97BA7 /* 实例11-自动轨迹绘制源代码 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F752431799D00D97BA7 /* data.txt */,
+				6D682F762431799D00D97BA7 /* AutoTraceDraw.py */,
+			);
+			path = "实例11-自动轨迹绘制源代码";
+			sourceTree = "<group>";
+		};
+		6D682F772431799D00D97BA7 /* 实例12-政府工作报告词云源代码 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F782431799D00D97BA7 /* fivestart.png */,
+				6D682F792431799D00D97BA7 /* 关于实施乡村振兴战略的意见.txt */,
+				6D682F7A2431799D00D97BA7 /* GovRptWordCloudv2T3.py */,
+				6D682F7B2431799D00D97BA7 /* GovRptWordCloudv1T4.py */,
+				6D682F7C2431799D00D97BA7 /* GovRptWordCloudv2T2.py */,
+				6D682F7D2431799D00D97BA7 /* 新时代中国特色社会主义.txt */,
+				6D682F7E2431799D00D97BA7 /* GovRptWordCloudv1T1.py */,
+				6D682F7F2431799D00D97BA7 /* GovRptWordCloudv2T1.py */,
+				6D682F802431799D00D97BA7 /* GovRptWordCloudv1T2.py */,
+				6D682F812431799D00D97BA7 /* chinamap.jpg */,
+				6D682F822431799D00D97BA7 /* GovRptWordCloudv1T3.py */,
+				6D682F832431799D00D97BA7 /* GovRptWordCloudv2T4.py */,
+				6D682F842431799D00D97BA7 /* grwordcloud.png */,
+			);
+			path = "实例12-政府工作报告词云源代码";
+			sourceTree = "<group>";
+		};
+		6D682F852431799D00D97BA7 /* 文件的使用 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F862431799D00D97BA7 /* 4 数据文件的写入.py */,
+				6D682F872431799D00D97BA7 /* 2 文件的打开关闭.py */,
+				6D682F882431799D00D97BA7 /* 3 文件内容的读取.py */,
+				6D682F892431799D00D97BA7 /* 1 文件的类型.py */,
+				6D682F8A2431799D00D97BA7 /* f.txt */,
+				6D682F8B2431799D00D97BA7 /* output.txt */,
+			);
+			path = "文件的使用";
+			sourceTree = "<group>";
+		};
+		6D682F8C2431799D00D97BA7 /* 【第01周】Python基本语法元素 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F8D2431799D00D97BA7 /* TempConvert.py */,
+			);
+			path = "【第01周】Python基本语法元素";
+			sourceTree = "<group>";
+		};
+		6D682F8E2431799D00D97BA7 /* 【第05周】函数和代码复用 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F8F2431799D00D97BA7 /* 5.2 实例7-七段数码管绘制源代码 */,
+				6D682F922431799D00D97BA7 /* 5.4 模块4-Pyinstaller库的使用.py */,
+				6D682F932431799D00D97BA7 /* 5.1 函数的定义与使用.py */,
+				6D682F942431799D00D97BA7 /* 5.3 代码复制与函数递归.py */,
+				6D682F952431799D00D97BA7 /* 5.5 实例8-科赫雪花小包裹源代码 */,
+			);
+			path = "【第05周】函数和代码复用";
+			sourceTree = "<group>";
+		};
+		6D682F8F2431799D00D97BA7 /* 5.2 实例7-七段数码管绘制源代码 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F902431799D00D97BA7 /* SevenDigitsDrawV1.py */,
+				6D682F912431799D00D97BA7 /* SevenDigitsDrawV2.py */,
+			);
+			path = "5.2 实例7-七段数码管绘制源代码";
+			sourceTree = "<group>";
+		};
+		6D682F952431799D00D97BA7 /* 5.5 实例8-科赫雪花小包裹源代码 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F962431799D00D97BA7 /* KochDrawV1.py */,
+				6D682F972431799D00D97BA7 /* KochDrawV2.py */,
+			);
+			path = "5.5 实例8-科赫雪花小包裹源代码";
+			sourceTree = "<group>";
+		};
+		6D682F982431799D00D97BA7 /* 【第06周】组合数据类型 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F992431799D00D97BA7 /* 实例10-文本词频统计源代码 */,
+				6D682F9F2431799D00D97BA7 /* 2 序列类型.py */,
+				6D682FA02431799D00D97BA7 /* 1 集合类型.py */,
+				6D682FA12431799D00D97BA7 /* 5 jieba库的使用.py */,
+				6D682FA22431799D00D97BA7 /* 3 字典类型.py */,
+				6D682FA32431799D00D97BA7 /* 4 基本统计值计算.py */,
+			);
+			path = "【第06周】组合数据类型";
+			sourceTree = "<group>";
+		};
+		6D682F992431799D00D97BA7 /* 实例10-文本词频统计源代码 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682F9A2431799D00D97BA7 /* threekingdoms.txt */,
+				6D682F9B2431799D00D97BA7 /* CalThreeKingdomsV1.py */,
+				6D682F9C2431799D00D97BA7 /* CalThreeKingdomsV2.py */,
+				6D682F9D2431799D00D97BA7 /* hamlet.txt */,
+				6D682F9E2431799D00D97BA7 /* CalHamletV1.py */,
+			);
+			path = "实例10-文本词频统计源代码";
+			sourceTree = "<group>";
+		};
+		6D682FA42431799D00D97BA7 /* 【第00周】课程导学 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FA52431799D00D97BA7 /* HEAD.py */,
+			);
+			path = "【第00周】课程导学";
+			sourceTree = "<group>";
+		};
+		6D682FA62431799D00D97BA7 /* 程序设计 (第8期) */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FA72431799D00D97BA7 /* 测验4 程序的控制结构 (第4周) */,
+				6D682FAE2431799D00D97BA7 /* 测验6 组合数据类型 (第6周) */,
+				6D682FB22431799D00D97BA7 /* 期末测验 课程水平综合测验 (第10周) */,
+				6D682FB92431799D00D97BA7 /* 测验1 Python基本语法元素 (第1周) */,
+				6D682FC32431799D00D97BA7 /* 测验7 文件和数据格式化 (第7周) */,
+				6D682FC92431799D00D97BA7 /* 测验5 函数和代码复用 (第5周) */,
+				6D682FCD2431799D00D97BA7 /* 测验9 Python计算生态纵览 (第9周) */,
+				6D682FD12431799D00D97BA7 /* 测验8 程序设计方法学 (第8周) */,
+				6D682FD52431799D00D97BA7 /* 测验3 基本数据类型 (第3周) */,
+				6D682FDF2431799D00D97BA7 /* 实例1-16 */,
+				6D682FF02431799D00D97BA7 /* 测验2 Python基本图形绘制 (第2周) */,
+			);
+			path = "程序设计 (第8期)";
+			sourceTree = "<group>";
+		};
+		6D682FA72431799D00D97BA7 /* 测验4 程序的控制结构 (第4周) */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FA82431799D00D97BA7 /* 四位玫瑰数.py */,
+				6D682FA92431799D00D97BA7 /* 测验4-单选题.txt */,
+				6D682FAA2431799D00D97BA7 /* 自由练习 4 */,
+				6D682FAD2431799D00D97BA7 /* 100以内素数之和.py */,
+			);
+			path = "测验4 程序的控制结构 (第4周)";
+			sourceTree = "<group>";
+		};
+		6D682FAA2431799D00D97BA7 /* 自由练习 4 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FAB2431799D00D97BA7 /* 实例5：身体质量指数BMI.py */,
+				6D682FAC2431799D00D97BA7 /* 实例6：圆周率的计算.py */,
+			);
+			path = "自由练习 4";
+			sourceTree = "<group>";
+		};
+		6D682FAE2431799D00D97BA7 /* 测验6 组合数据类型 (第6周) */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FAF2431799D00D97BA7 /* 测验6-单选题.txt */,
+				6D682FB02431799D00D97BA7 /* 人名最多数统计.py */,
+				6D682FB12431799D00D97BA7 /* 数字不同数之和.py */,
+			);
+			path = "测验6 组合数据类型 (第6周)";
+			sourceTree = "<group>";
+		};
+		6D682FB22431799D00D97BA7 /* 期末测验 课程水平综合测验 (第10周) */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FB32431799D00D97BA7 /* 1 无空隙回声输出.py */,
+				6D682FB42431799D00D97BA7 /* latex.log */,
+				6D682FB52431799D00D97BA7 /* 沉默的羔羊.txt */,
+				6D682FB62431799D00D97BA7 /* 2 文件关键行数.py */,
+				6D682FB72431799D00D97BA7 /* 4《沉默的羔羊》之最多单词.py */,
+				6D682FB82431799D00D97BA7 /* 3 字典翻转输出.py */,
+			);
+			path = "期末测验 课程水平综合测验 (第10周)";
+			sourceTree = "<group>";
+		};
+		6D682FB92431799D00D97BA7 /* 测验1 Python基本语法元素 (第1周) */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FBA2431799D00D97BA7 /* 数值运算.py */,
+				6D682FBB2431799D00D97BA7 /* Hello World的条件输出.py */,
+				6D682FBC2431799D00D97BA7 /* 自由练习 1 */,
+				6D682FC22431799D00D97BA7 /* 测验1-单选题.txt */,
+			);
+			path = "测验1 Python基本语法元素 (第1周)";
+			sourceTree = "<group>";
+		};
+		6D682FBC2431799D00D97BA7 /* 自由练习 1 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FBD2431799D00D97BA7 /* 3 数字形式转换 I.py */,
+				6D682FBE2431799D00D97BA7 /* 2 Hello World I.py */,
+				6D682FBF2431799D00D97BA7 /* 5 货币转换 I .py */,
+				6D682FC02431799D00D97BA7 /* 1 温度转换.py */,
+				6D682FC12431799D00D97BA7 /* 4 温度转换 II.py */,
+			);
+			path = "自由练习 1";
+			sourceTree = "<group>";
+		};
+		6D682FC32431799D00D97BA7 /* 测验7 文件和数据格式化 (第7周) */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FC42431799D00D97BA7 /* latex.log */,
+				6D682FC52431799D00D97BA7 /* 测验7-单选题.txt */,
+				6D682FC62431799D00D97BA7 /* 文本的平均列数.py */,
+				6D682FC72431799D00D97BA7 /* data.csv */,
+				6D682FC82431799D00D97BA7 /* CSV格式清洗与转换.py */,
+			);
+			path = "测验7 文件和数据格式化 (第7周)";
+			sourceTree = "<group>";
+		};
+		6D682FC92431799D00D97BA7 /* 测验5 函数和代码复用 (第5周) */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FCA2431799D00D97BA7 /* 测验5-单选题.txt */,
+				6D682FCB2431799D00D97BA7 /* 连续质数计算.py */,
+				6D682FCC2431799D00D97BA7 /* 随机密码生成.py */,
+			);
+			path = "测验5 函数和代码复用 (第5周)";
+			sourceTree = "<group>";
+		};
+		6D682FCD2431799D00D97BA7 /* 测验9 Python计算生态纵览 (第9周) */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FCE2431799D00D97BA7 /* 系统基本信息获取.py */,
+				6D682FCF2431799D00D97BA7 /* 二维数据表格输出.py */,
+				6D682FD02431799D00D97BA7 /* 测验9-单选题.txt */,
+			);
+			path = "测验9 Python计算生态纵览 (第9周)";
+			sourceTree = "<group>";
+		};
+		6D682FD12431799D00D97BA7 /* 测验8 程序设计方法学 (第8周) */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FD22431799D00D97BA7 /* 数字的鲁棒输入.py */,
+				6D682FD32431799D00D97BA7 /* 英文字符的鲁棒输入.py */,
+				6D682FD42431799D00D97BA7 /* 测验8-单选题.txt */,
+			);
+			path = "测验8 程序设计方法学 (第8周)";
+			sourceTree = "<group>";
+		};
+		6D682FD52431799D00D97BA7 /* 测验3 基本数据类型 (第3周) */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FD62431799D00D97BA7 /* 自由练习 3 */,
+				6D682FDC2431799D00D97BA7 /* 测验3-单选题.txt */,
+				6D682FDD2431799D00D97BA7 /* 平方根格式化.py */,
+				6D682FDE2431799D00D97BA7 /* 字符串分段组合.py */,
+			);
+			path = "测验3 基本数据类型 (第3周)";
+			sourceTree = "<group>";
+		};
+		6D682FD62431799D00D97BA7 /* 自由练习 3 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FD72431799D00D97BA7 /* 3 三次方格式化.py */,
+				6D682FD82431799D00D97BA7 /* 2 文本进度条.py */,
+				6D682FD92431799D00D97BA7 /* 5 恺撒密码.py */,
+				6D682FDA2431799D00D97BA7 /* 4 星号三角形.py */,
+				6D682FDB2431799D00D97BA7 /* 1 天天向上的力量.py */,
+			);
+			path = "自由练习 3";
+			sourceTree = "<group>";
+		};
+		6D682FDF2431799D00D97BA7 /* 实例1-16 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FE02431799D00D97BA7 /* 实例1-温度转换源代码.zip */,
+				6D682FE12431799D00D97BA7 /* 实例2-Python蟒蛇绘制源代码.zip */,
+				6D682FE22431799D00D97BA7 /* 实例14-第三方库安装脚本源代码.zip */,
+				6D682FE32431799D00D97BA7 /* 实例4-文本进度条源代码.zip */,
+				6D682FE42431799D00D97BA7 /* 实例15-霍兰德人格分析雷达图源代码.zip */,
+				6D682FE52431799D00D97BA7 /* 实例6-圆周率的计算源代码.zip */,
+				6D682FE62431799D00D97BA7 /* 实例5-身体质量指数BMI源代码.zip */,
+				6D682FE72431799D00D97BA7 /* 实例10-文本词频统计源代码.zip */,
+				6D682FE82431799D00D97BA7 /* 实例7-七段数码管绘制源代码.zip */,
+				6D682FE92431799D00D97BA7 /* 实例8-科赫雪花小包裹源代码.zip */,
+				6D682FEA2431799D00D97BA7 /* 实例16-玫瑰花绘制源代码.zip */,
+				6D682FEB2431799D00D97BA7 /* 实例3-天天向上的力量源代码.zip */,
+				6D682FEC2431799D00D97BA7 /* 实例13-体育竞技分析源代码.zip */,
+				6D682FED2431799D00D97BA7 /* 实例9-基本统计值计算源代码.zip */,
+				6D682FEE2431799D00D97BA7 /* 实例12-政府工作报告词云源代码.zip */,
+				6D682FEF2431799D00D97BA7 /* 实例11-自动轨迹绘制源代码.zip */,
+			);
+			path = "实例1-16";
+			sourceTree = "<group>";
+		};
+		6D682FF02431799D00D97BA7 /* 测验2 Python基本图形绘制 (第2周) */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FF12431799D00D97BA7 /* 自由练习 2 */,
+				6D682FF72431799D00D97BA7 /* turtle八角图形绘制.py */,
+				6D682FF82431799D00D97BA7 /* 测验2-单选题.txt */,
+				6D682FF92431799D00D97BA7 /* turtle八边形绘制.py */,
+			);
+			path = "测验2 Python基本图形绘制 (第2周)";
+			sourceTree = "<group>";
+		};
+		6D682FF12431799D00D97BA7 /* 自由练习 2 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FF22431799D00D97BA7 /* 2 turtle正方形绘制.py */,
+				6D682FF32431799D00D97BA7 /* 3 turtle六边形绘制.py */,
+				6D682FF42431799D00D97BA7 /* 1 Python蟒蛇绘制.py */,
+				6D682FF52431799D00D97BA7 /* 4 turtle叠边形绘制.py */,
+				6D682FF62431799D00D97BA7 /* 5 turtle风轮绘制.py */,
+			);
+			path = "自由练习 2";
+			sourceTree = "<group>";
+		};
+		6D682FFA2431799D00D97BA7 /* Python语言CAP */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FFB2431799D00D97BA7 /* 【第1周 第1单元】Python编程之基本方法 */,
+				6D682FFD2431799D00D97BA7 /* 【第6周 第1部分】Python编程之计算生态 */,
+				6D6830392431799D00D97BA7 /* 【第2周】Python编程之数据类型 */,
+				6D68303F2431799D00D97BA7 /* 【第5周】Python编程之组合类型 */,
+				6D6830442431799D00D97BA7 /* 【第4周】Python编程之代码复用 */,
+				6D6830462431799D00D97BA7 /* 【第6周 第2部分】交互式图形编程 */,
+			);
+			path = "Python语言CAP";
+			sourceTree = "<group>";
+		};
+		6D682FFB2431799D00D97BA7 /* 【第1周 第1单元】Python编程之基本方法 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FFC2431799D00D97BA7 /* TempConvert.py */,
+			);
+			path = "【第1周 第1单元】Python编程之基本方法";
+			sourceTree = "<group>";
+		};
+		6D682FFD2431799D00D97BA7 /* 【第6周 第1部分】Python编程之计算生态 */ = {
+			isa = PBXGroup;
+			children = (
+				6D682FFE2431799D00D97BA7 /* matchSim.py */,
+				6D682FFF2431799D00D97BA7 /* Python3 面向对象 */,
+				6D6830382431799D00D97BA7 /* simonegame.py */,
+			);
+			path = "【第6周 第1部分】Python编程之计算生态";
+			sourceTree = "<group>";
+		};
+		6D682FFF2431799D00D97BA7 /* Python3 面向对象 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830002431799D00D97BA7 /* 2 类的方法 3.py */,
+				6D6830012431799D00D97BA7 /* 4 类的多继承 9.py */,
+				6D6830022431799D00D97BA7 /* 5 类的方法重写 9.py */,
+				6D6830032431799D00D97BA7 /* DateTime 2.py */,
+				6D6830042431799D00D97BA7 /* 6 类的类属性与方法 2.py */,
+				6D6830052431799D00D97BA7 /* 3 类的继承 11.py */,
+				6D6830062431799D00D97BA7 /* 3 类的继承 10.py */,
+				6D6830072431799D00D97BA7 /* 5 类的方法重写 12.py */,
+				6D6830082431799D00D97BA7 /* 2 类的方法 2.py */,
+				6D6830092431799D00D97BA7 /* 3 类的继承 4.py */,
+				6D68300A2431799D00D97BA7 /* DateTime 3.py */,
+				6D68300B2431799D00D97BA7 /* 6 类的类属性与方法 3.py */,
+				6D68300C2431799D00D97BA7 /* 4 类的多继承 3.py */,
+				6D68300D2431799D00D97BA7 /* 4 类的多继承 12.py */,
+				6D68300E2431799D00D97BA7 /* 6 类的类属性与方法.py */,
+				6D68300F2431799D00D97BA7 /* 2 类的方法 9.py */,
+				6D6830102431799D00D97BA7 /* 5 类的方法重写.py */,
+				6D6830112431799D00D97BA7 /* 5 类的方法重写 3.py */,
+				6D6830122431799D00D97BA7 /* 1 类对象 4.py */,
+				6D6830132431799D00D97BA7 /* 2 类的方法 11.py */,
+				6D6830142431799D00D97BA7 /* 1 类对象 12.py */,
+				6D6830152431799D00D97BA7 /* 2 类的方法 10.py */,
+				6D6830162431799D00D97BA7 /* DateTime 12.py */,
+				6D6830172431799D00D97BA7 /* 4 类的多继承 2.py */,
+				6D6830182431799D00D97BA7 /* DateTime 9.py */,
+				6D6830192431799D00D97BA7 /* 6 类的类属性与方法 9.py */,
+				6D68301A2431799D00D97BA7 /* 6 类的类属性与方法 12.py */,
+				6D68301B2431799D00D97BA7 /* 5 类的方法重写 2.py */,
+				6D68301C2431799D00D97BA7 /* 1 类对象 11.py */,
+				6D68301D2431799D00D97BA7 /* 3 类的继承 9.py */,
+				6D68301E2431799D00D97BA7 /* 2 类的方法.py */,
+				6D68301F2431799D00D97BA7 /* DateTime 11.py */,
+				6D6830202431799D00D97BA7 /* 4 类的多继承 10.py */,
+				6D6830212431799D00D97BA7 /* 1 类对象 2.py */,
+				6D6830222431799D00D97BA7 /* 6 类的类属性与方法 11.py */,
+				6D6830232431799D00D97BA7 /* 4 类的多继承 11.py */,
+				6D6830242431799D00D97BA7 /* 1 类对象 3.py */,
+				6D6830252431799D00D97BA7 /* 6 类的类属性与方法 10.py */,
+				6D6830262431799D00D97BA7 /* 4 类的多继承.py */,
+				6D6830272431799D00D97BA7 /* 1 类对象 10.py */,
+				6D6830282431799D00D97BA7 /* 1 类对象.py */,
+				6D6830292431799D00D97BA7 /* 4 类的多继承 4.py */,
+				6D68302A2431799D00D97BA7 /* 2 类的方法 12.py */,
+				6D68302B2431799D00D97BA7 /* 5 类的方法重写 4.py */,
+				6D68302C2431799D00D97BA7 /* DateTime 10.py */,
+				6D68302D2431799D00D97BA7 /* 5 类的方法重写 11.py */,
+				6D68302E2431799D00D97BA7 /* 3 类的继承 3.py */,
+				6D68302F2431799D00D97BA7 /* 6 类的类属性与方法 4.py */,
+				6D6830302431799D00D97BA7 /* DateTime 4.py */,
+				6D6830312431799D00D97BA7 /* DateTime.py */,
+				6D6830322431799D00D97BA7 /* 1 类对象 9.py */,
+				6D6830332431799D00D97BA7 /* 3 类的继承.py */,
+				6D6830342431799D00D97BA7 /* 2 类的方法 4.py */,
+				6D6830352431799D00D97BA7 /* 3 类的继承 12.py */,
+				6D6830362431799D00D97BA7 /* 5 类的方法重写 10.py */,
+				6D6830372431799D00D97BA7 /* 3 类的继承 2.py */,
+			);
+			path = "Python3 面向对象";
+			sourceTree = "<group>";
+		};
+		6D6830392431799D00D97BA7 /* 【第2周】Python编程之数据类型 */ = {
+			isa = PBXGroup;
+			children = (
+				6D68303A2431799D00D97BA7 /* 2 列表类型及其操作.py */,
+				6D68303B2431799D00D97BA7 /* pi.py */,
+				6D68303C2431799D00D97BA7 /* 3 math库与random库.py */,
+				6D68303D2431799D00D97BA7 /* month.py */,
+				6D68303E2431799D00D97BA7 /* 1 元组类型.py */,
+			);
+			path = "【第2周】Python编程之数据类型";
+			sourceTree = "<group>";
+		};
+		6D68303F2431799D00D97BA7 /* 【第5周】Python编程之组合类型 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830402431799D00D97BA7 /* DrawPath.py */,
+				6D6830412431799D00D97BA7 /* data.txt */,
+				6D6830422431799D00D97BA7 /* hamlet.txt */,
+				6D6830432431799D00D97BA7 /* Count.py */,
+			);
+			path = "【第5周】Python编程之组合类型";
+			sourceTree = "<group>";
+		};
+		6D6830442431799D00D97BA7 /* 【第4周】Python编程之代码复用 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830452431799D00D97BA7 /* 2 列表类型及其操作.py */,
+			);
+			path = "【第4周】Python编程之代码复用";
+			sourceTree = "<group>";
+		};
+		6D6830462431799D00D97BA7 /* 【第6周 第2部分】交互式图形编程 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830472431799D00D97BA7 /* ColorShapes.py */,
+				6D6830482431799D00D97BA7 /* graphics.py */,
+				6D6830492431799D00D97BA7 /* python_logo.gif */,
+				6D68304A2431799D00D97BA7 /* clock.py */,
+				6D68304B2431799D00D97BA7 /* ConvertTempColor.py */,
+				6D68304C2431799D00D97BA7 /* CatWin.py */,
+				6D68304D2431799D00D97BA7 /* ConvertTempGUI.py */,
+				6D68304E2431799D00D97BA7 /* python.gif */,
+				6D68304F2431799D00D97BA7 /* KeyEvents.py */,
+				6D6830502431799D00D97BA7 /* Snowfall.py */,
+				6D6830512431799D00D97BA7 /* Rainbow.py */,
+			);
+			path = "【第6周 第2部分】交互式图形编程";
+			sourceTree = "<group>";
+		};
+		6D6830522431799D00D97BA7 /* 机器学习与应用  */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830532431799D00D97BA7 /* 【第2周】机器学习之有监督学习 */,
+				6D6830882431799D00D97BA7 /* 【第1周】机器学习之无监督学习 */,
+				6D6830962431799D00D97BA7 /* 【第3周】机器学习之强化学习 */,
+				6D68309B2431799D00D97BA7 /* 期末大作业（程序设计） */,
+			);
+			path = "机器学习与应用 ";
+			sourceTree = "<group>";
+		};
+		6D6830532431799D00D97BA7 /* 【第2周】机器学习之有监督学习 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830542431799D00D97BA7 /* 监督学习课程测验.rtfd */,
+				6D6830552431799D00D97BA7 /* 单元5 回归 */,
+				6D68305B2431799D00D97BA7 /* 单元6 手写数字识别实例分析  */,
+				6D68307C2431799D00D97BA7 /* 单元4 分类  */,
+			);
+			path = "【第2周】机器学习之有监督学习";
+			sourceTree = "<group>";
+		};
+		6D6830552431799D00D97BA7 /* 单元5 回归 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830562431799D00D97BA7 /* 岭回归.py */,
+				6D6830572431799D00D97BA7 /* 岭回归.csv */,
+				6D6830582431799D00D97BA7 /* 多项式回归.py */,
+				6D6830592431799D00D97BA7 /* 线性回归.py */,
+				6D68305A2431799D00D97BA7 /* prices.txt */,
+			);
+			path = "单元5 回归";
+			sourceTree = "<group>";
+		};
+		6D68305B2431799D00D97BA7 /* 单元6 手写数字识别实例分析  */ = {
+			isa = PBXGroup;
+			children = (
+				6D68305C2431799D00D97BA7 /* testDigits 10.zip */,
+				6D68305D2431799D00D97BA7 /* 神精网络实现手写视别 12.py */,
+				6D68305E2431799D00D97BA7 /* testDigits 11.zip */,
+				6D68305F2431799D00D97BA7 /* testDigits 12.zip */,
+				6D6830602431799D00D97BA7 /* trainingDigits 9.zip */,
+				6D6830612431799D00D97BA7 /* trainingDigits 11.zip */,
+				6D6830622431799D00D97BA7 /* trainingDigits 10.zip */,
+				6D6830632431799D00D97BA7 /* 神精网络实现手写视别 4.py */,
+				6D6830642431799D00D97BA7 /* trainingDigits 12.zip */,
+				6D6830652431799D00D97BA7 /* KNN实现手写视别.py */,
+				6D6830662431799D00D97BA7 /* KNN实现手写视别 4.py */,
+				6D6830672431799D00D97BA7 /* KNN实现手写视别 10.py */,
+				6D6830682431799D00D97BA7 /* testDigits 4.zip */,
+				6D6830692431799D00D97BA7 /* KNN实现手写视别 11.py */,
+				6D68306A2431799D00D97BA7 /* testDigits 3.zip */,
+				6D68306B2431799D00D97BA7 /* testDigits 2.zip */,
+				6D68306C2431799D00D97BA7 /* KNN实现手写视别 12.py */,
+				6D68306D2431799D00D97BA7 /* KNN实现手写视别 2.py */,
+				6D68306E2431799D00D97BA7 /* 神精网络实现手写视别 9.py */,
+				6D68306F2431799D00D97BA7 /* 神精网络实现手写视别.py */,
+				6D6830702431799D00D97BA7 /* testDigits 9.zip */,
+				6D6830712431799D00D97BA7 /* KNN实现手写视别 3.py */,
+				6D6830722431799D00D97BA7 /* trainingDigits 2.zip */,
+				6D6830732431799D00D97BA7 /* trainingDigits 3.zip */,
+				6D6830742431799D00D97BA7 /* 神精网络实现手写视别 10.py */,
+				6D6830752431799D00D97BA7 /* 神精网络实现手写视别 3.py */,
+				6D6830762431799D00D97BA7 /* trainingDigits 4.zip */,
+				6D6830772431799D00D97BA7 /* trainingDigits.zip */,
+				6D6830782431799D00D97BA7 /* 神精网络实现手写视别 11.py */,
+				6D6830792431799D00D97BA7 /* testDigits.zip */,
+				6D68307A2431799D00D97BA7 /* 神精网络实现手写视别 2.py */,
+				6D68307B2431799D00D97BA7 /* KNN实现手写视别 9.py */,
+			);
+			path = "单元6 手写数字识别实例分析 ";
+			sourceTree = "<group>";
+		};
+		6D68307C2431799D00D97BA7 /* 单元4 分类  */ = {
+			isa = PBXGroup;
+			children = (
+				6D68307D2431799D00D97BA7 /* 人体运动状态信息评级.py */,
+				6D68307E2431799D00D97BA7 /* 上证指数涨跌预测实例.py */,
+				6D68307F2431799D00D97BA7 /* stock */,
+			);
+			path = "单元4 分类 ";
+			sourceTree = "<group>";
+		};
+		6D68307F2431799D00D97BA7 /* stock */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830802431799D00D97BA7 /* 000777.csv */,
+				6D6830812431799D00D97BA7 /* 000777 12.csv */,
+				6D6830822431799D00D97BA7 /* 000777 10.csv */,
+				6D6830832431799D00D97BA7 /* 000777 11.csv */,
+				6D6830842431799D00D97BA7 /* 000777 4.csv */,
+				6D6830852431799D00D97BA7 /* 000777 3.csv */,
+				6D6830862431799D00D97BA7 /* 000777 2.csv */,
+				6D6830872431799D00D97BA7 /* 000777 9.csv */,
+			);
+			path = stock;
+			sourceTree = "<group>";
+		};
+		6D6830882431799D00D97BA7 /* 【第1周】机器学习之无监督学习 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830892431799D00D97BA7 /* 单元1 聚类  */,
+				6D68308E2431799D00D97BA7 /* 无监督学习课程测验.rtfd */,
+				6D68308F2431799D00D97BA7 /* 单元3 基于聚类的整图分割实例  */,
+				6D6830932431799D00D97BA7 /* 单元2 降维  */,
+			);
+			path = "【第1周】机器学习之无监督学习";
+			sourceTree = "<group>";
+		};
+		6D6830892431799D00D97BA7 /* 单元1 聚类  */ = {
+			isa = PBXGroup;
+			children = (
+				6D68308A2431799D00D97BA7 /* city.txt */,
+				6D68308B2431799D00D97BA7 /* TestData.txt */,
+				6D68308C2431799D00D97BA7 /* 学生月上网时间分布.py */,
+				6D68308D2431799D00D97BA7 /* 31省市居民家庭消费水平.py */,
+			);
+			path = "单元1 聚类 ";
+			sourceTree = "<group>";
+		};
+		6D68308F2431799D00D97BA7 /* 单元3 基于聚类的整图分割实例  */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830902431799D00D97BA7 /* 聚类整图分割.py */,
+				6D6830912431799D00D97BA7 /* person.png */,
+				6D6830922431799D00D97BA7 /* bull.jpg */,
+			);
+			path = "单元3 基于聚类的整图分割实例 ";
+			sourceTree = "<group>";
+		};
+		6D6830932431799D00D97BA7 /* 单元2 降维  */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830942431799D00D97BA7 /* 鸢尾花数据降维.py */,
+				6D6830952431799D00D97BA7 /* 人脸特征抽取与对比.py */,
+			);
+			path = "单元2 降维 ";
+			sourceTree = "<group>";
+		};
+		6D6830962431799D00D97BA7 /* 【第3周】机器学习之强化学习 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830972431799D00D97BA7 /* 单元8 自主学习Flappy Bird游戏项目分析  */,
+				6D6830992431799D00D97BA7 /* Test */,
+			);
+			path = "【第3周】机器学习之强化学习";
+			sourceTree = "<group>";
+		};
+		6D6830972431799D00D97BA7 /* 单元8 自主学习Flappy Bird游戏项目分析  */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830982431799D00D97BA7 /* 项目代码.py */,
+			);
+			path = "单元8 自主学习Flappy Bird游戏项目分析 ";
+			sourceTree = "<group>";
+		};
+		6D6830992431799D00D97BA7 /* Test */ = {
+			isa = PBXGroup;
+			children = (
+				6D68309A2431799D00D97BA7 /* Test.txt */,
+			);
+			path = Test;
+			sourceTree = "<group>";
+		};
+		6D68309B2431799D00D97BA7 /* 期末大作业（程序设计） */ = {
+			isa = PBXGroup;
+			children = (
+				6D68309C2431799D00D97BA7 /* 期末大作业2(程序设计).py */,
+				6D68309D2431799D00D97BA7 /* game.rar */,
+				6D68309E2431799D00D97BA7 /* 期末大作业1(程序设计).py */,
+			);
+			path = "期末大作业（程序设计）";
+			sourceTree = "<group>";
+		};
+		6D68309F2431799D00D97BA7 /* 科学计算三维可视化 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830A02431799D00D97BA7 /* 【第7周】三维可视之运算（选修） */,
+				6D6830AA2431799D00D97BA7 /* 科学计算三维可视化期末考试 */,
+				6D6830AD2431799D00D97BA7 /* 【第6周】三维可视之界面实战 */,
+				6D6830B02431799D00D97BA7 /* 【第4周】三维可视之进阶实战 */,
+				6D6830B62431799D00D97BA7 /* 【第2周】三维可视之基础实战 */,
+				6D6830BC2431799D00D97BA7 /* 【第3周】三维可视之高级进阶 */,
+				6D6830CB2431799D00D97BA7 /* 【第5周】三维可视之交互界面 */,
+				6D6830D82431799D00D97BA7 /* 【第1周】三维可视之基础运用 */,
+			);
+			path = "科学计算三维可视化";
+			sourceTree = "<group>";
+		};
+		6D6830A02431799D00D97BA7 /* 【第7周】三维可视之运算（选修） */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830A12431799D00D97BA7 /* SV13_ fsolve.py */,
+				6D6830A22431799D00D97BA7 /* SV13_interp1d.py */,
+				6D6830A32431799D00D97BA7 /* SV15_convexhull3d.py */,
+				6D6830A42431799D00D97BA7 /* SV15_ lorenz.py */,
+				6D6830A52431799D00D97BA7 /* SV15_convexhull2d.py */,
+				6D6830A62431799D00D97BA7 /* SV14_sphere.py */,
+				6D6830A72431799D00D97BA7 /* SV13_leastsq.py */,
+				6D6830A82431799D00D97BA7 /* SV14_linalg.py */,
+				6D6830A92431799D00D97BA7 /* SV14_kde.py */,
+			);
+			path = "【第7周】三维可视之运算（选修）";
+			sourceTree = "<group>";
+		};
+		6D6830AA2431799D00D97BA7 /* 科学计算三维可视化期末考试 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830AB2431799D00D97BA7 /* 科学计算三维可视化-期末考试主观题试卷.txt */,
+				6D6830AC2431799D00D97BA7 /* 科学计算三维可视化-期末考试客观题试卷.txt */,
+			);
+			path = "科学计算三维可视化期末考试";
+			sourceTree = "<group>";
+		};
+		6D6830AD2431799D00D97BA7 /* 【第6周】三维可视之界面实战 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830AE2431799D00D97BA7 /* SV1102_mayavi_traitsUI.py */,
+				6D6830AF2431799D00D97BA7 /* SV1101_mlab_traitsUI.py */,
+			);
+			path = "【第6周】三维可视之界面实战";
+			sourceTree = "<group>";
+		};
+		6D6830B02431799D00D97BA7 /* 【第4周】三维可视之进阶实战 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830B12431799D00D97BA7 /* SV07V02_canyou.py */,
+				6D6830B22431799D00D97BA7 /* 单元测验截止时间.txt */,
+				6D6830B32431799D00D97BA7 /* 第三周至第四周作业.txt */,
+				6D6830B42431799D00D97BA7 /* SV07V01_dragon.py */,
+				6D6830B52431799D00D97BA7 /* SV07V03_earth_graph.py */,
+			);
+			path = "【第4周】三维可视之进阶实战";
+			sourceTree = "<group>";
+		};
+		6D6830B62431799D00D97BA7 /* 【第2周】三维可视之基础实战 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830B72431799D00D97BA7 /* SV03V01_PLot3D_contours.py */,
+				6D6830B82431799D00D97BA7 /* 单元测验截止时间.txt */,
+				6D6830B92431799D00D97BA7 /* 第二周作业.txt */,
+				6D6830BA2431799D00D97BA7 /* SV03V03_PLot3D_outline.py */,
+				6D6830BB2431799D00D97BA7 /* SV03V02_PLot3D_arrow.py */,
+			);
+			path = "【第2周】三维可视之基础实战";
+			sourceTree = "<group>";
+		};
+		6D6830BC2431799D00D97BA7 /* 【第3周】三维可视之高级进阶 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830BD2431799D00D97BA7 /* SV06V04_select_red_balls.py */,
+				6D6830BE2431799D00D97BA7 /* 单元测验截止时间.txt */,
+				6D6830BF2431799D00D97BA7 /* SV06V01_quiver3d.py */,
+				6D6830C02431799D00D97BA7 /* SV06V01_surf.py */,
+				6D6830C12431799D00D97BA7 /* SV06V01_contour_surf.py */,
+				6D6830C22431799D00D97BA7 /* SV06V03_contour3d.py */,
+				6D6830C32431799D00D97BA7 /* SV06V01_points3d.py */,
+				6D6830C42431799D00D97BA7 /* SV06V01_contour3d.py */,
+				6D6830C52431799D00D97BA7 /* SV06V01_imshow.py */,
+				6D6830C62431799D00D97BA7 /* SV06V07_vector.py */,
+				6D6830C72431799D00D97BA7 /* SV06V01_plot3d.py */,
+				6D6830C82431799D00D97BA7 /* SV06V04_colormap.py */,
+				6D6830C92431799D00D97BA7 /* SV06V06_scalar.py */,
+				6D6830CA2431799D00D97BA7 /* SV05V03_demo.py */,
+			);
+			path = "【第3周】三维可视之高级进阶";
+			sourceTree = "<group>";
+		};
+		6D6830CB2431799D00D97BA7 /* 【第5周】三维可视之交互界面 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830CC2431799D00D97BA7 /* SV10V15_traitsU_editors.py */,
+				6D6830CD2431799D00D97BA7 /* 单元测验截止时间.txt */,
+				6D6830CE2431799D00D97BA7 /* SV10V02_modelmanager.py */,
+				6D6830CF2431799D00D97BA7 /* SV09V02_traits.py */,
+				6D6830D02431799D00D97BA7 /* SV10V05_TextEditor.py */,
+				6D6830D12431799D00D97BA7 /* SV10V01_traitsUI.py */,
+				6D6830D22431799D00D97BA7 /* SV09V05_property.py */,
+				6D6830D32431799D00D97BA7 /* SV10V05_range.py */,
+				6D6830D42431799D00D97BA7 /* SV09V04_eventlisten.py */,
+				6D6830D52431799D00D97BA7 /* SV10V05_group.py */,
+				6D6830D62431799D00D97BA7 /* SV10V05_buttoneditor.py */,
+				6D6830D72431799D00D97BA7 /* Sv09V03_traitslisten.py */,
+			);
+			path = "【第5周】三维可视之交互界面";
+			sourceTree = "<group>";
+		};
+		6D6830D82431799D00D97BA7 /* 【第1周】三维可视之基础运用 */ = {
+			isa = PBXGroup;
+			children = (
+				6D6830D92431799D00D97BA7 /* 单元测验截止时间.txt */,
+				6D6830DA2431799D00D97BA7 /* SV02V02_cube_ivtk.py */,
+				6D6830DB2431799D00D97BA7 /* SV01V04_cube.py */,
+				6D6830DC2431799D00D97BA7 /* SV02V04_STLReader.py */,
+				6D6830DD2431799D00D97BA7 /* SV02V02_cube_ivtk_fixed.py */,
+				6D6830DE2431799D00D97BA7 /* SV02V04_PLOT3DReader.py */,
+				6D6830DF2431799D00D97BA7 /* SV02V03_RectilinearGrid.py */,
+				6D6830E02431799D00D97BA7 /* SV02V02_cube_ivtk_function_simple.py */,
+				6D6830E12431799D00D97BA7 /* SV02V02_cube_ivtk_function.py */,
+			);
+			path = "【第1周】三维可视之基础运用";
+			sourceTree = "<group>";
+		};
 		6DD636E224316B1700119E47 = {
 			isa = PBXGroup;
 			children = (
+				6D682F232431799D00D97BA7 /* 程序设计 */,
+				6D6830522431799D00D97BA7 /* 机器学习与应用  */,
+				6D68309F2431799D00D97BA7 /* 科学计算三维可视化 */,
+				6D682EEC2431799D00D97BA7 /* 数据分析与展示 */,
+				6D682EB32431799000D97BA7 /* Tello EDU */,
 				6D682EAE2431795000D97BA7 /* 人脸识别 */,
 			);
 			sourceTree = "<group>";
