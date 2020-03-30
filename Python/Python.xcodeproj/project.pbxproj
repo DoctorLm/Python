@@ -483,10 +483,10 @@
 		6D682EAE2431795000D97BA7 /* 人脸识别 */ = {
 			isa = PBXGroup;
 			children = (
-				6D682EAF2431795000D97BA7 /* 3Face_training 3.py */,
 				6D682EB02431795000D97BA7 /* 1FaceDetection.py */,
-				6D682EB12431795000D97BA7 /* 4Face_recognition.py */,
 				6D682EB22431795000D97BA7 /* 2FaceDataCollect.py */,
+				6D682EAF2431795000D97BA7 /* 3Face_training 3.py */,
+				6D682EB12431795000D97BA7 /* 4Face_recognition.py */,
 			);
 			path = "人脸识别";
 			sourceTree = "<group>";
