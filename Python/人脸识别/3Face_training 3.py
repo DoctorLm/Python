@@ -7,7 +7,7 @@ import cv2
 path = 'Facedata'
 
 recognizer = cv2.face.LBPHFaceRecognizer_create()
-detector = cv2.CascadeClassifier("/Users/lumin/Documents/dataset/Face_recognition/data/haarcascade_frontalface_default.xml")
+detector = cv2.CascadeClassifier("data/haarcascade_frontalface_default.xml")
 
 def getImagesAndLabels(path):
     imagePaths = [os.path.join(path, f) for f in os.listdir(path)]  # join函数的作用？

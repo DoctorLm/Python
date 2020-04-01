@@ -3,10 +3,10 @@ import numpy as np
 import cv2
 
 # 人脸识别分类器
-faceCascade = cv2.CascadeClassifier(r'/Users/lumin/Documents/dataset/Face_recognition/data/haarcascade_frontalface_default.xml')
+faceCascade = cv2.CascadeClassifier(r'data/haarcascade_frontalface_default.xml')
 
 # 识别眼睛的分类器
-eyeCascade = cv2.CascadeClassifier(r'/Users/lumin/Documents/dataset/Face_recognition/data/haarcascade_eye.xml')
+eyeCascade = cv2.CascadeClassifier(r'data/haarcascade_eye.xml')
 
 # 开启摄像头
 cap = cv2.VideoCapture(0)

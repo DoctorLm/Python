@@ -2,8 +2,8 @@
 import cv2
 
 recognizer = cv2.face.LBPHFaceRecognizer_create()
-recognizer.read('/Users/lumin/Documents/dataset/Face_recognition/Face_trainer/trainer.yml')
-cascadePath = "/Users/lumin/Documents/dataset/Face_recognition/data/haarcascade_frontalface_default.xml"
+recognizer.read('Face_trainer/trainer.yml')
+cascadePath = "data/haarcascade_frontalface_default.xml"
 faceCascade = cv2.CascadeClassifier(cascadePath)
 font = cv2.FONT_HERSHEY_SIMPLEX
 

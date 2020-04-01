@@ -5,7 +5,7 @@ import os
 # 调用笔记本内置摄像头，所以参数为0，如果有其他的摄像头可以调整参数为1，2
 cap = cv2.VideoCapture(0)
 
-face_detector = cv2.CascadeClassifier('/Users/lumin/Documents/dataset/Face_recognition/data/haarcascade_frontalface_default.xml')
+face_detector = cv2.CascadeClassifier('data/haarcascade_frontalface_default.xml')
 
 face_id = input('\n enter user id:')
 
@@ -14,7 +14,7 @@ print('\n Initializing face capture. Look at the camera and wait ...')
 count = 0
 
 while True:
-
+    num = 100 # 样本总个数
     # 从摄像头读取图片
     sucess, img = cap.read()
 
@@ -29,7 +29,7 @@ while True:
         count += 1
 
         # 保存图像
-        cv2.imwrite("/Users/lumin/Documents/dataset/Face_recognition/Facedata/User." + str(face_id) + '.' + str(count) + '.jpg', gray[y: y + h, x: x + w])
+        cv2.imwrite("Facedata/User." + str(face_id) + '.' + str(count) + '.jpg', gray[y: y + h, x: x + w])
 
         cv2.imshow('image', img)
 
@@ -39,9 +39,9 @@ while True:
     if k == 27:   # 通过esc键退出摄像
         break
 
-    elif count >= 1000:  # 得到1000个样本后退出摄像
+    elif count >= num:  # 得到num个样本后退出摄像
         break
-
+    print("\r第{}张保存,总共{}张。".format(count,num), end='')
 # 关闭摄像头
 cap.release()
 cv2.destroyAllWindows()
